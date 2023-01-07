@@ -1,13 +1,44 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+:root{
+  --light-plain-color: #ffffff;
+  --active-link-color:#7f8fa6;
+  --dark-plain-color: #000;
+  --dark-blue-component-color: #1B1464;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color:var(--light-plain-color)
+}
+
+body{
+  width:100%;
+  min-height:100vh;
+  background:url("./shared/img/sunset.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  background-size: cover;
+}
+
+@keyframes right-side-slide{
+  from{
+    right:-400px;
+  }
+  to{
+    right:0px;
+  }
+}
+@keyframes right-side-slide-back{
+  from{
+    right:0px;
+  }
+  to{
+    right:-800px;
+  }
 }
