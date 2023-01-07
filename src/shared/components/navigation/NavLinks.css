@@ -39,11 +39,12 @@
         animation: right-side-slide-back 0.5s ease-in-out;
         background-color: var(--light-plain-color);
         justify-content: center;
+        height:100vh;
 
     }
     .nav-links.open{
         right:0;
-        height:100vh;
+
         animation: right-side-slide 0.5s ease-in-out;
 
     }
