@@ -6,7 +6,7 @@ import "./NavLinks.css"
 const NavLinks = (props) =>{
 
     return(
-        <ul className={`nav-links ${props.isOpen}`}>
+        <ul id="side-menu" className={`nav-links ${props.isOpen}`}>
             <li>
                 <NavLink to="/">Home</NavLink>
             </li>
