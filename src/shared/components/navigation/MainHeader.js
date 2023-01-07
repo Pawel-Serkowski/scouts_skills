@@ -5,7 +5,7 @@ import "./MainHeader.css"
 const MainHeader = (props) => {
 
     return(
-        <header className={`main-header ${props.isSide}`}>{props.children}</header>
+        <header onClick={props.click} className={`main-header ${props.isSide}`}>{props.children}</header>
     );
 };
 
