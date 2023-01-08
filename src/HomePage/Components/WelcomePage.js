@@ -10,7 +10,7 @@ const WelcomePage = () =>{
             <h1>Poszukujesz sprawności dla siebie? <br></br>
                 Sprawdź wśród około 481 wyzwań. Może któreś akurat dla Ciebie!
             </h1>
-            <Button active_text="dark" styles="lg" >Sprawdź</Button>
+            <Button active_text="dark" styles="lg " >Sprawdź</Button>
 
         </section>
     )

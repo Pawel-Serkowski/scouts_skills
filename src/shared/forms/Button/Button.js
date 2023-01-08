@@ -6,7 +6,7 @@ import "./Button.css"
 const Button = (props) => {
     return(
         <Link to={props.to}>
-            <div className={`button ${props.styles} ${props.animation} ${props.active_text}`}>
+            <div className={`button ${props.styles} ${props.animation} ${props.active_text} ${props.background}`}>
                 {props.children}
             </div>
         </Link>
