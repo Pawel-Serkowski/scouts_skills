@@ -1,0 +1,37 @@
+.welcome-page__container{
+    width:100%;
+    height:calc(100vh - 4rem);
+    background:url("../../shared/img/sunset.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    background-size: cover;
+    background-color: #e5e5f7;
+    margin-top:4rem;
+    color:black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.welcome-page__container h1{
+    width:500px;
+    text-align: center;
+    margin:300px 0 30px 0;
+}
+
+
+@media screen and (max-width:750px) {
+    .welcome-page__container{
+        margin:0px;
+        height:100vh;
+        justify-content: center;;
+    }
+    .welcome-page__container h1{
+        width:80%;
+        margin:0;
+        margin-bottom:10px;
+        font-size:6vmin;
+    }
+}

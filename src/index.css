@@ -19,11 +19,10 @@
 body{
   width:100%;
   min-height:100vh;
-  background:url("./shared/img/sunset.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-clip: border-box;
-  background-size: cover;
+}
+
+body::-webkit-scrollbar {
+	display:none;
 }
 
 @keyframes right-side-slide{
