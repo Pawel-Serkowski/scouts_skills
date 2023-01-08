@@ -1,5 +1,5 @@
 import React from 'react';
-import {Link as Link1, animateScroll as scroll} from "react-scroll";
+import {Link as Link1} from "react-scroll";
 
 import "./SmothScroller.css";
 
