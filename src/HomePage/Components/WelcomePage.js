@@ -8,10 +8,13 @@ const WelcomePage = () =>{
 
     return(
         <section className="welcome-page__container">
-            <h1>Poszukujesz sprawności dla siebie? <br></br>
-                Sprawdź wśród około 481 wyzwań. Może któreś akurat dla Ciebie!
-            </h1>
-            <Button to="/sprawnosci" active_text="dark" styles="lg " >Sprawdź</Button>
+            <div className="empty"></div>
+            <div className="organizer">
+                <h1>Poszukujesz sprawności dla siebie? <br></br>
+                    Sprawdź wśród około 481 wyzwań. Może któreś akurat dla Ciebie!
+                </h1>
+                <Button to="/sprawnosci" active_text="dark" styles="lg " >Sprawdź</Button>
+            </div>
             <SmoothScroll to={"TypesPage"} time={500}/>
         </section>
     )
