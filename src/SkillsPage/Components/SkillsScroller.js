@@ -6,7 +6,7 @@ import "./SkillsScroller.css";
 
 const SkillsScroller = (props) =>{
 
-    const [tasks,setTasks] =  useState(data_giver(20,1));
+    const [tasks,setTasks] =  useState(data_giver(-1));
 
     const filterChangeHandler = (event) =>{
         let filter = event.target.value.toLowerCase();
