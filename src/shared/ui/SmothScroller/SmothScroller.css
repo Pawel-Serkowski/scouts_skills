@@ -4,15 +4,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    position:absolute;
-    bottom:100px;
-    left:50%;
-    transform: translateX(-50%);
     z-index:10px;
     background-color:var(--light-plain-color) ;
     border-radius: 100%;
     transition: all 0.5s;
     margin-bottom:30px;
+    cursor: pointer;
 }
 
 .scroller-circle i{
@@ -33,11 +30,7 @@
         font-size: 1.5rem;
     }
 }
-@media screen and (max-height:800px) {
-    .scroller-circle{
-        margin-bottom:-50px;
-    }
-}
+
 @media screen and (max-height:400px) {
     .scroller-circle{
         display: none;

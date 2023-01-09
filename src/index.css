@@ -6,6 +6,7 @@
   --dark-plain-color: #000;
   --dark-blue-component-color: #1B1464;
   --light-blue-color:#48dbfb;
+  --plain-blue-color:#3c40c6;
 }
 
 *{
@@ -19,7 +20,7 @@
 
 body{
   width:100%;
-  min-height:100vh;
+  min-height:auto;
 }
 
 body::-webkit-scrollbar {

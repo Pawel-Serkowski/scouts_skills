@@ -1,0 +1,13 @@
+.skills-viewer__container{
+    width:50%;
+    height:100%;
+    background-color: blueviolet;
+}
+
+
+
+@media screen  and (max-width:900px){
+    .skills-viewer__container{
+        display: none;
+    }
+}

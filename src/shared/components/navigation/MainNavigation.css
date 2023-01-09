@@ -47,8 +47,11 @@
     transform:rotate(-45deg) translate(0);
 }
 
-@media screen and (max-width:750px) {
+@media screen and (max-width:900px),(max-height:400px) {
     .main-navigation__menu-btn{
         display: flex;
+        position:fixed;
+        right:0;
+        top:10px;
     }
 }
