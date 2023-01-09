@@ -25,7 +25,7 @@ const SkillsScroller = (props) =>{
             <header className="skills-scroller__options">
 
                 <div className='filter'><i className="fa-solid fa-filter"></i></div>
-                <input type="text" className="name-filter" id="name-filter" onChange={filterChangeHandler}/>
+                <input placeholder="wpisz początek nazwy" type="text" className="name-filter" id="name-filter" onChange={filterChangeHandler}/>
                 <div></div>
 
             </header>

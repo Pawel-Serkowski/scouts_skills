@@ -68,13 +68,14 @@
 
 @media screen and (max-width:1200px) {
     .skill-card__type{
-        font-size:2.3vmin;
+        font-size:0.8rem;
     }
     .skill-card__level{
         font-size:5vmin;
     }
     .skill-card__title h2{
-        font-size:4vmin;
+        font-size:1rem;
+        width:80%;
     }
     .skill-card__img{
         width:6rem;
@@ -82,13 +83,19 @@
     }
 
 }
-@media  screen and (max-height:500px) {
+@media  screen and (max-height:500px), (max-width:400px) {
     .skill-card__img{
         width:5rem;
         height:5rem;
     }
+    .skill-card__type{
+        font-size:0.6rem;
+    }
     .skill-card__title h2{
-        font-size:5vmin;
+        font-size:2.5vmin;
+    }
+    .skill-card__container{
+        height: auto;
     }
 }
 
