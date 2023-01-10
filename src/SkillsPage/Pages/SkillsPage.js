@@ -13,6 +13,7 @@ const SkillsPage = () => {
     const actualSkillHandler = (skill) => {
         setActualSkill(skill);
         setActiveCard(true)
+        window.scrollTo(0, 0);
     }
 
     const activeSkillViewerHandler = () =>{
