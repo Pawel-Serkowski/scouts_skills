@@ -32,7 +32,7 @@ const SkillsScroller = (props) =>{
             <section className="skills-scroller__card-box">
                 {
                     tasks.map(skill => 
-                        <SkillCard skill={skill} key={skill.id} />
+                        <SkillCard skill={skill} key={skill.id} action={props.action} />
                     )
                 }
                     

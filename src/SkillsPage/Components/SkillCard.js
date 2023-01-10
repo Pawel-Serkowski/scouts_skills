@@ -7,8 +7,8 @@ const SkillCard = (props) => {
     const nazwa = props.skill.nazwa.split('/');
 
     return(
-        <div className="skill-card__container">
-        <div className="skill-card__img">
+        <div className="skill-card__container" onClick={() => props.action(props.skill)}>
+        <div className="img-box">
             <img src={require(`../../shared${props.skill.img}`)} alt=""/>
         </div>
         <div className="skill-card__title">
