@@ -10,7 +10,6 @@ const SkillsPage = () => {
     const [actualSkill,setActualSkill] = useState("")
     const [activeCard,setActiveCard] = useState(false)
 
-    const skills_viewer = document.getElementById('skills_viewer')
 
     const actualSkillHandler = (skill) => {
         setActualSkill(skill);
