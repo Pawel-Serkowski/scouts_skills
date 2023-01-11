@@ -10,10 +10,12 @@ const SkillsPage = () => {
     const [actualSkill,setActualSkill] = useState("")
     const [activeCard,setActiveCard] = useState(false)
 
+    const skills_viewer = document.getElementById('skills_viewer')
+
     const actualSkillHandler = (skill) => {
         setActualSkill(skill);
         setActiveCard(true)
-        window.scrollTo(0, 0);
+        // skills_viewer.scrollTop = 0;
     }
 
     const activeSkillViewerHandler = () =>{

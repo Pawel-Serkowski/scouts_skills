@@ -44,7 +44,7 @@
     flex-direction: row;
     overflow:scroll;
     background-color: var(--light-plain-color);
-    padding-bottom:50px;
+    /* padding-bottom:50px; */
 }
 
 .skills-viewer__content::-webkit-scrollbar {
@@ -113,6 +113,11 @@
     display:none;
 }
 
+.skills-viewer__description .skills-viewer__tasks{
+    display: none;
+}
+
+
 @media screen  and (max-width:900px){
     .skills-viewer__container{
         display: none;
@@ -120,9 +125,12 @@
     .skills-viewer__container.active{
         display:flex;
         position: fixed;
+        flex-direction: column;
         width:100%;
         min-height:100vh;
         z-index:1;
+        overflow: scroll;
+
     }
     .skills-viewer__header{
         height:auto;
@@ -153,21 +161,30 @@
     }
 
     .skills-viewer__content{
-        flex-direction: column-reverse;
-        overflow: scroll;
-        min-height:auto;
+        flex-direction: column;
+        min-height:100vh;
+        overflow:unset;
+        overflow-y: visible;
     }
     .skills-viewer__description{
         width:100%;
-    }
-    .skills-viewer__tasks h1{
-        margin-bottom:-10px;
-        text-align: center;
+        height:auto;
+        padding-bottom:50px;
     }
     .skills-viewer__tasks{
         width:100%;
-        min-height:100vh
+        min-height:100vh;
+        display:none;
         /* min-height:50vh; */
+    }
+    .skills-viewer__description .skills-viewer__tasks h1{
+        margin-bottom:-10px;
+        text-align: center;
+    }
+    .skills-viewer__description .skills-viewer__tasks {
+        width:100%;
+        min-height:100vh;
+        display: flex;
     }
 
 
