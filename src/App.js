@@ -10,8 +10,9 @@ function App() {
     <BrowserRouter>
       <MainNavigation/>
         <Routes>
-          <Route path="/" element={<HomePage/>}/>
+          <Route path="/"  index element={<HomePage/>}/>
           <Route path="/sprawnosci" element={<SkillsPage/>}/>
+          <Route path="*" element={<HomePage/>}/>
         </Routes>
     </BrowserRouter>
   );
