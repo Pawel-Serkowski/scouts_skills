@@ -15,7 +15,7 @@ const WelcomePage = () =>{
                 </h1>
                 <Button to="/sprawnosci" active_text="dark" styles="lg " >Sprawdź</Button>
             </div>
-            <SmoothScroll to={"TypesPage"} time={500}/>
+            {/* <SmoothScroll to={"TypesPage"} time={500}/> */}
         </section>
     )
 };

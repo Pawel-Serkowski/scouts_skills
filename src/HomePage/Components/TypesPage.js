@@ -1,7 +1,5 @@
 import React from 'react';
 
-import Card from '../../shared/ui/Card/Card';
-// import { types_giver } from '../../shared/util/data-giver';
 import "./TypesPage.css"
 
 const TypesPage = () => {
@@ -10,8 +8,7 @@ const TypesPage = () => {
 
     return(
         <section id="TypesPage" className="types-page">
-            <h1>Znajdź swój ulubiony typ sprawności</h1>
-            <div className='types-page__cards-box'><Card>AAA</Card></div>
+            <h1>Tu powstaje coś nowego </h1>
         </section>
     )
 }

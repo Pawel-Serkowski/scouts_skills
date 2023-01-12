@@ -1,6 +1,6 @@
 .welcome-page__container{
     width:100%;
-    height:calc(100vh);
+    height:calc(100vh - 4rem);
     background:url("../../shared/img/sunset.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -10,16 +10,16 @@
     margin-top:4rem;
     color:black;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     position: relative;
 }
 
-.welcome-page__container .empty{
+/* .welcome-page__container .empty{
     height:100px;
     width:100%;
-}
+} */
 
 .welcome-page__container h1{
     width:500px;

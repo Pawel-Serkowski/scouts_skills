@@ -13,12 +13,12 @@ const NavLinks = (props) =>{
             <li>
                 <NavLink to="sprawnosci">Sprawności</NavLink>
             </li>
-            <li>
+            {/* <li>
                 <NavLink to="info">Info</NavLink>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
                 <NavLink to="kontakt">Kontakt</NavLink>
-            </li>
+            </li> */}
         </ul>
     )
 };

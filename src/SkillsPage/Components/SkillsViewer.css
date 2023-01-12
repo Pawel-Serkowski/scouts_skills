@@ -150,7 +150,8 @@
         width:100%;
         min-height:100vh;
         z-index:1;
-        overflow: scroll;
+        overflow-y: scroll;
+        overflow-x: hidden;
 
     }
     .skills-viewer__header{
@@ -158,16 +159,19 @@
         box-shadow: none;
         margin-right:0;
         flex-direction: column;
+        align-items: center;;
         z-index: 0;
     }
     .skills-viewer__title {
         margin-top:50px;
         text-align: center;;
         width:60%;
+        /* font-size:2rem; */
     }
     .skills-viewer__title h2,
     .skills-viewer__level h2{
-        font-size: 2rem;
+        font-size: 5vmin;
+        text-align: center;
     }
     .skills-viewer__container.active .skills-viewer__cross{
         display:block;
@@ -211,4 +215,10 @@
     }
 
 
+}
+
+@media screen and (max-height:800px) {
+    .skills-viewer__title h2 {
+        /* font-size: 1rem; */
+    }
 }

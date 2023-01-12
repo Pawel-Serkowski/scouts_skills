@@ -1,0 +1,6 @@
+.contact-page__container{
+    margin: 4rem;
+    width:100%;
+    height: calc(100vh - 4rem);
+    color:var(--dark-plain-color);
+}
