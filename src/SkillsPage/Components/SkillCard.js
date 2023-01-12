@@ -13,7 +13,7 @@ const SkillCard = (props) => {
         </div>
         <div className="skill-card__title">
             <h2>{nazwa[0]}</h2>
-            {nazwa[1] ? <h2>{nazwa[1]}</h2> : <p></p>}
+            {nazwa[1] ? <h2 key={nazwa[1]}>{nazwa[1]}</h2> : <p key={nazwa[0]}></p>}
         </div>
         <div className="skill-card__description">
             <div className='skill-card__level'>{props.skill.trudnosc}</div>

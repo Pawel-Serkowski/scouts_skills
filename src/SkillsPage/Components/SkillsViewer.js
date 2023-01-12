@@ -20,7 +20,6 @@ const SkillsViewer = (props) =>{
                     tasks_list.push(temp_list[i]);
             }
         }
-        console.log(tasks_list);
         return tasks_list;
     }
 
@@ -29,7 +28,7 @@ const SkillsViewer = (props) =>{
             <section className={`skills-viewer__container ${props.isActive ? "active" : ""}`}>
                 {props.skill ? <React.Fragment> <header className="skills-viewer__header">
                     <div className="skills-viewer__cross" onClick={props.action}>
-                    <i class="fa-solid fa-arrow-left"></i>
+                    <i className="fa-solid fa-arrow-left"></i>
                     </div>
                     <div className='skills-viewer__title'>
                             <h2>{nazwa[0]}</h2>

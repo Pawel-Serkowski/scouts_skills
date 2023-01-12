@@ -9,8 +9,6 @@ const SkillsPage = () => {
 
     const [actualSkill,setActualSkill] = useState("")
     const [activeCard,setActiveCard] = useState(false)
-
-
     const actualSkillHandler = (skill) => {
         setActualSkill(skill);
         setActiveCard(true)
