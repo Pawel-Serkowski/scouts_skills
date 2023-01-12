@@ -44,7 +44,7 @@ const SkillsViewer = (props) =>{
                         {props.skill.zadania.map(task =>
                         <div className='skills-viewer__task'>
                             {task_creator(task).map(tasky => 
-                                <p className={!tasky.includes("$") ? "under" : "main"}><i className="fa-solid fa-feather-pointed"></i>{tasky.split("$")[0]}</p>
+                                <p className={!tasky.includes("$") ? "under" : "main"}><i className="fa-solid fa-feather-pointed"></i> {tasky.split("$")[0]}</p>
                             )}
                         </div>
                         )}
@@ -60,7 +60,7 @@ const SkillsViewer = (props) =>{
                             {props.skill.zadania.map(task =>
                             <div className='skills-viewer__task'>
                                 {task_creator(task).map(tasky => 
-                                    <p className={!tasky.includes("$") ? "under" : "main"}><i className="fa-solid fa-feather-pointed"></i>{tasky.split("$")[0]}</p>
+                                    <p className={!tasky.includes("$") ? "under" : "main"}><i className="fa-solid fa-feather-pointed"></i> {tasky.split("$")[0]}</p>
                                 )}
                             </div>
                             )}
