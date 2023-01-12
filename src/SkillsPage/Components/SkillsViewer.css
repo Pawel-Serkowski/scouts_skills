@@ -167,7 +167,7 @@
     }
     .skills-viewer__title h2,
     .skills-viewer__level h2{
-        font-size:3rem;
+        font-size:2.5vmin;
     }
     .skills-viewer__container.active .skills-viewer__cross{
         display:block;
