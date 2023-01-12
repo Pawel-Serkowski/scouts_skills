@@ -47,9 +47,9 @@
     /* padding-bottom:50px; */
 }
 
-.skills-viewer__content::-webkit-scrollbar {
+/* .skills-viewer__content::-webkit-scrollbar {
 	display:none;
-}
+} */
 
 .skills-viewer__tasks{
     width:60%;
