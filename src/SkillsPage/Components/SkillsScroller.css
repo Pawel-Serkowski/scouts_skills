@@ -57,13 +57,13 @@
 
 @media screen and (max-width:1100px){
     .skills-scroller__options input{
-        font-size:1rem;
+        font-size:0.8rem;
         width:70%;
     }
 }
 
 
-@media screen  and (max-width:1000px){
+@media screen  and (max-width:1300px){
     .skills-scroller__container{
         width:100%;
     }
