@@ -1,6 +1,5 @@
 import React from 'react';
 
-import SmoothScroll from '../../shared/ui/SmothScroller/SmothScroller';
 import Button from '../../shared/forms/Button/Button';
 import "./WelcomePage.css"
 
