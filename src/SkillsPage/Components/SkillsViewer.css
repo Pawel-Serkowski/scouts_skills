@@ -73,15 +73,17 @@
     font-size:1.5rem;
     width:100%;
     margin-top:10px;
+    margin-left:10px;
 }
 .skills-viewer__task .main{
     font-weight:600;
     color:var(--plain-blue-color);
+	margin-left:10px;
 }
 
 .skills-viewer__task .under{
     color:var(--plain-blue-color);
-    margin-left:20px;
+    margin-left:30px;
     margin-bottom:10px;
 }
 
@@ -129,7 +131,7 @@
     color:var(--dark-blue-component-color);
 }
 
-@media screen  and (max-width:1000px){
+@media screen  and (max-width:1300px){
     .skills-viewer__container{
         display: none;
     }
