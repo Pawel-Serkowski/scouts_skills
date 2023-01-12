@@ -4,6 +4,7 @@
     display: flex;
     flex-direction: column;
     position:relative;
+    overflow: hidden;
 }
 
 .skills-scroller__options{
@@ -16,6 +17,7 @@
     justify-content: space-between;
     align-items: center;
     padding:0 40px;
+    
 }
 .skills-scroller__options i{
     color:var(--active-link-color);

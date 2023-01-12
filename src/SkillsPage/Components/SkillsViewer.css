@@ -125,6 +125,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: var(--light-plain-color);
+    color:var(--dark-blue-component-color);
 }
 
 @media screen  and (max-width:1000px){
