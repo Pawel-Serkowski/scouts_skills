@@ -46,7 +46,7 @@ const SkillsViewer = (props) =>{
                             {task_creator(task).map(tasky => 
                                 <p className={!tasky.includes("$") ? "under" : "main"}><i className="fa-solid fa-feather-pointed"></i>{tasky.split("$")[0]}</p>
                             )}
-                        </div
+                        </div>
                         )}
                     </section>
                     <section className="skills-viewer__description">
