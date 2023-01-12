@@ -81,10 +81,18 @@
 	margin-left:10px;
 }
 
+.skills-viewer__task .main i{
+	font-weight:600;
+	color: var(--dark-plain-color);
+
 .skills-viewer__task .under{
     color:var(--plain-blue-color);
     margin-left:30px;
     margin-bottom:10px;
+}
+	
+.skills-viewer__task .under i{
+	display:none;
 }
 
 
@@ -189,6 +197,7 @@
         width:100%;
         min-height:100vh;
         display:none;
+	    padding-bottom:70px;
         /* min-height:50vh; */
     }
     .skills-viewer__description .skills-viewer__tasks h1{
