@@ -139,6 +139,12 @@
     color:var(--dark-blue-component-color);
 }
 
+@media screen and (max-width:1500px){
+   .skills-viewer__title{
+    font-size:2.4rem;
+   }
+}
+
 @media screen  and (max-width:1300px){
     .skills-viewer__container{
         display: none;
