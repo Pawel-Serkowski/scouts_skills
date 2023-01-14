@@ -64,6 +64,11 @@
     width:100px;
     text-align: center;
 }
+@media screen and (max-width:1600px){
+    .skills-scroller__title h2{
+        font-size: 1.5rem;
+    }
+}
 
 @media screen and (max-width:1200px) {
     .skill-card__type{
