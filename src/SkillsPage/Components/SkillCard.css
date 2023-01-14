@@ -40,6 +40,7 @@
 
 .skill-card__title h2{
     color: var(--dark-blue-component-color);
+    font-size:1.5rem;
 }
 
 .skill-card__description
