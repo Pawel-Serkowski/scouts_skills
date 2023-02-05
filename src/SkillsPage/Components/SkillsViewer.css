@@ -139,6 +139,12 @@
     color:var(--dark-blue-component-color);
 }
 
+@media screen and (max-width:1500px){
+   .skills-viewer__title{
+    font-size:2.4rem;
+   }
+}
+
 @media screen  and (max-width:1300px){
     .skills-viewer__container{
         display: none;
@@ -166,7 +172,7 @@
         margin-top:50px;
         text-align: center;;
         width:60%;
-        /* font-size:2rem; */
+        font-size:2rem;
     }
     .skills-viewer__title h2,
     .skills-viewer__level h2{
@@ -217,8 +223,8 @@
 
 }
 
-@media screen and (max-height:800px) {
+/* @media screen and (max-height:800px) {
     .skills-viewer__title h2 {
-        /* font-size: 1rem; */
+         font-size: 1rem; 
     }
-}
+} */
