@@ -5,6 +5,8 @@ import MainNavigation from "./shared/components/navigation/MainNavigation";
 import SkillsPage from "./SkillsPage/Pages/SkillsPage";
 import HomePage from "./HomePage/Pages/HomePage";
 
+import "./App.css";
+
 function App() {
   return (
     <BrowserRouter>

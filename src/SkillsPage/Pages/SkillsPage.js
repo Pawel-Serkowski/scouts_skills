@@ -8,20 +8,19 @@ import "./SkillsPage.css";
 const SkillsPage = () => {
 
     const [actualSkill,setActualSkill] = useState("")
-    const [activeCard,setActiveCard] = useState(false)
+    const [isActiveCard,setIsActiveCard] = useState(false)
     const actualSkillHandler = (skill) => {
         setActualSkill(skill);
-        setActiveCard(true)
-        // skills_viewer.scrollTop = 0;
+        setIsActiveCard(true)
     }
 
     const activeSkillViewerHandler = () =>{
-        setActiveCard(false);
+        setIsActiveCard(false);
     }
 
     return(
         <section className="skills-page__container">
-            <SkillsViewer skill = {actualSkill} isActive = {activeCard} action={activeSkillViewerHandler}/>
+            <SkillsViewer skill = {actualSkill} isActive = {isActiveCard} action={activeSkillViewerHandler}/>
             <SkillsScroller action ={actualSkillHandler} />
         </section>
     )
