@@ -1,6 +1,7 @@
 import { data_giver } from "../../shared/util/data-giver";
 
-import SkillCard from "../Components/SkillCard";
+import ScoutSkillCard from "../Components/ScoutSkillCard";
+import ScoutLittleSkillCard from "../Components/ScoutLittleSkillCard";
 
 const filter = (func) => {
   try {
@@ -12,9 +13,14 @@ const filter = (func) => {
     const filtera = w.toLowerCase();
 
     if (filtera === "" && m === "" && t === "" && k === "") {
-      return data_giver(-1).map((skill) => (
-        <SkillCard skill={skill} key={skill.id} action={func} />
-      ));
+      return data_giver(-1).map((skill) => {
+        if (skill._id[0] === "z") {
+          return (
+            <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
+          );
+        }
+        return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
+      });
     }
 
     const data = data_giver(-1);
@@ -22,13 +28,13 @@ const filter = (func) => {
     let filtering = data;
     let option = [];
     if (m) {
-      if (m === "H") {
+      if (m === "Z") {
+        option = ["Z"];
+      } else if (m === "H") {
         option = ["*", "**"];
-      }
-      if (m === "HS") {
+      } else if (m === "HS") {
         option = ["**", "***"];
-      }
-      if (m === "W") {
+      } else if (m === "W") {
         option = ["***", "****"];
       }
       filtering = filtering.filter(
@@ -46,14 +52,31 @@ const filter = (func) => {
     filtering = filtering.filter((skill) =>
       skill.nazwa.toLowerCase().includes(filtera)
     );
+    if (filtering.length === 0) {
+      return (
+        <h1 className="nothing-found">
+          Nie możemy znaleść odpowiednich sprawności
+        </h1>
+      );
+    }
 
-    return filtering.map((skill) => (
-      <SkillCard skill={skill} key={skill.id} action={func} />
-    ));
+    return filtering.map((skill) => {
+      if (skill._id[0] === "z") {
+        return (
+          <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
+        );
+      }
+      return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
+    });
   } catch {
-    return data_giver(-1).map((skill) => (
-      <SkillCard skill={skill} key={skill.id} action={func} />
-    ));
+    return data_giver(-1).map((skill) => {
+      if (skill._id[0] === "z") {
+        return (
+          <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
+        );
+      }
+      return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
+    });
   }
 };
 

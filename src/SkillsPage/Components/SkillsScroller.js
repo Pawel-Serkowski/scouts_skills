@@ -30,7 +30,9 @@ const SkillsScroller = (props) => {
         filterChangeHandler={filterChangeHandler}
         filterIsOpenHandler={filterIsOpenHandler}
       />
-      <section className="skills-scroller__card-box">{tasks}</section>
+      <section className="skills-scroller__card-box">
+        {!tasks ? <h2>LOL</h2> : tasks}
+      </section>
     </section>
   );
 };

@@ -16,6 +16,7 @@ const FilterCard = (props) => {
         <h2>Wybierz metodyke </h2>
         <select id="methods" onChange={props.fuc}>
           <option value="">Wszystkie</option>
+          <option value="Z">Zuchowa</option>
           <option value="H">Harcerska</option>
           <option value="HS">Starszoharcerska</option>
           <option value="W">Wędrownicza</option>
@@ -36,6 +37,7 @@ const FilterCard = (props) => {
         <h2>Wybierz trudność </h2>
         <select id="level" onChange={props.fuc}>
           <option value="">Wszystkie</option>
+          <option value="Z">Zuch</option>
           <option value="*">*</option>
           <option value="**">**</option>
           <option value="***">***</option>

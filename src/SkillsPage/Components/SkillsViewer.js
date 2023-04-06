@@ -22,9 +22,13 @@ const SkillsViewer = (props) => {
               <h2>{nazwa[0]}</h2>
               {nazwa[1] ? <h2>{nazwa[1]}</h2> : <p></p>}
             </div>
-            <div className="skills-viewer__level">
-              <h2>{props.skill.trudnosc}</h2>
-            </div>
+            {props.skill.trudnosc !== "Z" ? (
+              <div className="skills-viewer__level">
+                <h2>{props.skill.trudnosc}</h2>
+              </div>
+            ) : (
+              ""
+            )}
           </header>
           <div className="skills-viewer__content" id="skills-viewer">
             <section className="skills-viewer__tasks">
@@ -36,7 +40,7 @@ const SkillsViewer = (props) => {
               ))}
             </section>
             <section className="skills-viewer__description">
-              <div className="img-box">
+              <div className={`img-box ${props.skill.trudnosc}`}>
                 <img src={require(`../../shared${props.skill.img}`)} alt="" />
               </div>
               <p className="skills-viewer__idea">{props.skill.idea}</p>

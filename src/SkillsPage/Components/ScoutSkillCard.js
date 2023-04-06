@@ -2,7 +2,7 @@ import React from "react";
 
 import "./SkillCard.css";
 
-const SkillCard = (props) => {
+const ScoutSkillCard = (props) => {
   const nazwa = props.skill.nazwa.split("/");
 
   return (
@@ -25,4 +25,4 @@ const SkillCard = (props) => {
   );
 };
 
-export default SkillCard;
+export default ScoutSkillCard;
