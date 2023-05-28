@@ -9,10 +9,10 @@ import "./SkillsScroller.css";
 
 const SkillsScroller = (props) => {
   const [isActive, setIsActive] = useState(false);
-  const [tasks, setTasks] = useState(() => filter(props.action));
+  const [tasks, setTasks] = useState(() => filter());
 
   const filterChangeHandler = () => {
-    setTasks(filter(props.action));
+    setTasks(filter());
   };
 
   const filterIsOpenHandler = () => {
@@ -31,7 +31,11 @@ const SkillsScroller = (props) => {
         filterIsOpenHandler={filterIsOpenHandler}
       />
       <section className="skills-scroller__card-box">
-        {!tasks ? <h2>LOL</h2> : tasks}
+        {!tasks ? (
+          <h2>LOL, napisz asap do pawel.serkowski@zhp.net.pl</h2>
+        ) : (
+          tasks
+        )}
       </section>
     </section>
   );

@@ -1,29 +1,24 @@
-import React, {useState} from "react";
+import React from "react";
+import { useParams } from "react-router-dom";
 
 import SkillsScroller from "../Components/SkillsScroller";
 import SkillsViewer from "../Components/SkillsViewer";
+
+import { task_giver } from "../../shared/util/data-giver";
 import "./SkillsPage.css";
 
-
 const SkillsPage = () => {
+  const skillId = useParams().id;
 
-    const [actualSkill,setActualSkill] = useState("")
-    const [isActiveCard,setIsActiveCard] = useState(false)
-    const actualSkillHandler = (skill) => {
-        setActualSkill(skill);
-        setIsActiveCard(true)
-    }
-
-    const activeSkillViewerHandler = () =>{
-        setIsActiveCard(false);
-    }
-
-    return(
-        <section className="skills-page__container">
-            <SkillsViewer skill = {actualSkill} isActive = {isActiveCard} action={activeSkillViewerHandler}/>
-            <SkillsScroller action ={actualSkillHandler} />
-        </section>
-    )
-}
+  return (
+    <section className="skills-page__container">
+      <SkillsViewer
+        skill={task_giver(skillId)}
+        isActive={task_giver(skillId) ? true : false}
+      />
+      <SkillsScroller />
+    </section>
+  );
+};
 
 export default SkillsPage;

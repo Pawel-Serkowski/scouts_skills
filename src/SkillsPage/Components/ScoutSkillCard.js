@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 import "./SkillCard.css";
 
@@ -6,9 +7,9 @@ const ScoutSkillCard = (props) => {
   const nazwa = props.skill.nazwa.split("/");
 
   return (
-    <div
+    <Link
+      to={`/sprawnosci/${props.skill._id}`}
       className="skill-card__container"
-      onClick={() => props.action(props.skill)}
     >
       <div className="img-box">
         <img src={require(`../../shared${props.skill.img}`)} alt="" />
@@ -21,7 +22,7 @@ const ScoutSkillCard = (props) => {
         <div className="skill-card__level">{props.skill.trudnosc}</div>
         <div className="skill-card__type">{props.skill.typ}</div>
       </div>
-    </div>
+    </Link>
   );
 };
 
