@@ -1,1 +1,2 @@
-My scout page, what I've done. Link: sprawnosci-harcerskie.netlify.app
+Page for scouts who wants to develop their skills by doing quests.
+link: sprawnosci.gdanska.zhp.pl
