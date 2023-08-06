@@ -1,0 +1,36 @@
+.skills-scroller__container {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+
+.skills-scroller__card-box {
+  width: 100%;
+  height: 100%;
+  background-color: var(--light-plain-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 6px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.nothing-found {
+  color: var(--plain-blue-color);
+  font-size: 4vmin;
+  margin-top: 20px;
+  text-align: center;
+  padding: 5px;
+}
+
+@media screen and (max-width: 1300px) {
+  .skills-scroller__container {
+    width: 100%;
+  }
+}
