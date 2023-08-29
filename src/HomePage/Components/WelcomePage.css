@@ -1,19 +1,19 @@
-.welcome-page__container{
-    width:100%;
-    height:calc(100vh - 4rem);
-    background:url("../../shared/img/sunset.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-clip: border-box;
-    background-size: cover;
-    background-color: #e5e5f7;
-    margin-top:4rem;
-    color:black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    position: relative;
+.welcome-page__container {
+  width: 100%;
+  height: calc(100vh - 4rem);
+  background: url("../../shared/img/firecamp.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  background-size: cover;
+  background-color: #e5e5f7;
+  margin-top: 4rem;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
 }
 
 /* .welcome-page__container .empty{
@@ -21,29 +21,28 @@
     width:100%;
 } */
 
-.welcome-page__container h1{
-    width:500px;
-    text-align: center;
-    margin-bottom:10px;
+.welcome-page__container h1 {
+  width: 500px;
+  text-align: center;
+  margin-bottom: 10px;
 }
-.organizer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+.organizer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
-
-@media screen and (max-width:900px) {
-    .welcome-page__container{
-        height:calc(100vh - 4rem);
-        margin-top:0;
-        height:100vh;
-    }
-    .welcome-page__container h1{
-        width:80%;
-        margin:0;
-        margin-bottom:20px;
-        font-size:6vmin;
-    }
+@media screen and (max-width: 900px) {
+  .welcome-page__container {
+    height: calc(100vh - 4rem);
+    margin-top: 0;
+    height: 100vh;
+  }
+  .welcome-page__container h1 {
+    width: 80%;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 6vmin;
+  }
 }

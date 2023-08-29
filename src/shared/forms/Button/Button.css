@@ -1,76 +1,75 @@
-.button{
-    outline: none;
-    border: 4px solid var(--light-plain-color);
-    width:300px;
-    height:60px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.7rem;
-    background: none;
-    cursor: pointer;
-    position:relative;
-    overflow: hidden;
-    transition: all 1s;
-    font-weight: 600;
-    z-index:1;
-    border-radius: 10px;
+.button {
+  outline: none;
+  border: 4px solid var(--light-plain-color);
+  width: 300px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  background: none;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: all 1s;
+  font-weight: 600;
+  z-index: 1;
+  border-radius: 10px;
 }
 
-.button.lg{
-    width:400px;
-    height:80px;
-    font-size: 2rem;
+.button.lg {
+  width: 400px;
+  height: 80px;
+  font-size: 2rem;
 }
 
-.button.up-slide:after{
-    content:"";
-    width:100%;
-    height:4px;
-    bottom:-100px;
-    left:0;
-    background-color: white;
-    position:absolute;
-    transition: all 1s;
-    z-index:-1;
+.button.up-slide:after {
+  content: "";
+  width: 100%;
+  height: 4px;
+  bottom: -100px;
+  left: 0;
+  background-color: white;
+  position: absolute;
+  transition: all 1s;
+  z-index: -1;
 }
 
-.button.up-slide:hover:after{
-    height:300%;
-    /* width:300%; */
-    border-radius: 20%;
+.button.up-slide:hover:after {
+  height: 400%;
+  border-radius: 20%;
 }
 
-.button.dark:hover{
-    color:var(--dark-plain-color);
-    border-color: var(--dark-plain-color);
+.button.dark:hover {
+  color: var(--dark-plain-color);
+  border-color: var(--dark-plain-color);
 }
 
-.button.bg-light{
-    background-color: var(--light-plain-color);
-    color:var(--dark-blue-component-color);
+.button.bg-light {
+  background-color: var(--light-plain-color);
+  color: var(--dark-blue-component-color);
 }
 
-@media screen and (max-width:550px){
-    .button{
-        width:150px;
-        height:30px;
-    }
-    .button.lg{
-        width:200px;
-        height:50px;
-        font-size:1.3rem;
-    }
+@media screen and (max-width: 550px) {
+  .button {
+    width: 150px;
+    height: 30px;
+  }
+  .button.lg {
+    width: 200px;
+    height: 50px;
+    font-size: 1.3rem;
+  }
 }
 
 @media screen and (max-height: 800px) {
-    .button{
-        width:150px;
-        height:30px;
-    }
-    .button.lg{
-        width:200px;
-        height:50px;
-        font-size:1.3rem;
-    }
+  .button {
+    width: 150px;
+    height: 30px;
+  }
+  .button.lg {
+    width: 200px;
+    height: 50px;
+    font-size: 1.3rem;
+  }
 }
