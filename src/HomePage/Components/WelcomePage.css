@@ -1,19 +1,18 @@
 .welcome-page__container {
-  width: 100%;
-  height: calc(100vh - 4rem);
-  background: url("../../shared/img/firecamp.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-clip: border-box;
-  background-size: cover;
-  background-color: #e5e5f7;
-  margin-top: 4rem;
-  color: black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  position: relative;
+   width: 100%;
+   height: calc(100vh - 4rem);
+   background: url("../../shared/img/firecamp.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-clip: border-box;
+   background-size: cover;
+   background-color: #e5e5f7;
+   margin-top: 4rem;
+   color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
 }
 
 /* .welcome-page__container .empty{
@@ -22,27 +21,55 @@
 } */
 
 .welcome-page__container h1 {
-  width: 500px;
-  text-align: center;
-  margin-bottom: 10px;
+   width: 500px;
+   text-align: center;
+   margin-bottom: 10px;
 }
 .organizer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+   width: 50%;
+   height: 100%;
+
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-clip: border-box;
+
+   position: relative;
+   filter: blur(2px);
+
+   transition: all 0.7s;
+}
+.organizer:hover {
+   filter: blur(0px);
+}
+.organizer1 {
+   background-image: url("../../shared/img/fireplace.jpg");
+}
+
+.organizer2 {
+   background-image: url("../../shared/img/boats.jpg");
+}
+
+.layout {
+   width: 100%;
+   height: 100%;
+
+   background: rgba(0, 0, 0, 0.65);
+}
+.layout:hover {
+   background: rgba(0, 0, 0, 0.6);
 }
 
 @media screen and (max-width: 900px) {
-  .welcome-page__container {
-    height: calc(100vh - 4rem);
-    margin-top: 0;
-    height: 100vh;
-  }
-  .welcome-page__container h1 {
-    width: 80%;
-    margin: 0;
-    margin-bottom: 20px;
-    font-size: 6vmin;
-  }
+   .welcome-page__container {
+      height: calc(100vh - 4rem);
+      margin-top: 0;
+      height: 100vh;
+   }
+   .welcome-page__container h1 {
+      width: 80%;
+      margin: 0;
+      margin-bottom: 20px;
+      font-size: 6vmin;
+   }
 }
