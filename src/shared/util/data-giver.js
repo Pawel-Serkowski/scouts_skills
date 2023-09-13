@@ -7,9 +7,9 @@ export const types_giver = () => {
   let isInGeneral = {};
 
   for (let i = 0; i < general_data.length; i++) {
-    if (isInGeneral[general_data[i].typ] !== 1) {
-      general_types.push(general_data[i].typ);
-      isInGeneral[general_data[i].typ] = 1;
+    if (isInGeneral[general_data[i].type] !== 1) {
+      general_types.push(general_data[i].type);
+      isInGeneral[general_data[i].type] = 1;
     }
   }
   // types = {

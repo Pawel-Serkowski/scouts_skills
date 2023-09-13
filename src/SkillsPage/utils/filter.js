@@ -38,19 +38,19 @@ const filter = (func) => {
         option = ["***", "****"];
       }
       filtering = filtering.filter(
-        (skill) => skill.trudnosc === option[0] || skill.trudnosc === option[1]
+        (skill) => skill.level === option[0] || skill.level === option[1]
       );
     }
     if (k) {
-      filtering = filtering.filter((skill) => skill.typ === k);
+      filtering = filtering.filter((skill) => skill.type === k);
     }
     if (t) {
       filtering = filtering.filter(
-        (skill) => skill.trudnosc.toLowerCase() === t.toLowerCase()
+        (skill) => skill.level.toLowerCase() === t.toLowerCase()
       );
     }
     filtering = filtering.filter((skill) =>
-      skill.nazwa.toLowerCase().includes(filtera)
+      skill.title.toLowerCase().includes(filtera)
     );
     if (filtering.length === 0) {
       return (
