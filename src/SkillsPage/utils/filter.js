@@ -1,9 +1,4 @@
-import { data_giver } from "../../shared/util/data-giver";
-
-import ScoutSkillCard from "../Components/ScoutSkillCard";
-import ScoutLittleSkillCard from "../Components/ScoutLittleSkillCard";
-
-const filter = (func) => {
+const filter = (all_data) => {
   try {
     const w = document.getElementById("title-filter").value;
     const m = document.getElementById("methods").value;
@@ -13,19 +8,10 @@ const filter = (func) => {
     const filtera = w.toLowerCase();
 
     if (filtera === "" && m === "" && t === "" && k === "") {
-      return data_giver(-1).map((skill) => {
-        if (skill._id[0] === "z") {
-          return (
-            <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
-          );
-        }
-        return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-      });
+      return all_data;
     }
 
-    const data = data_giver(-1);
-
-    let filtering = data;
+    let filtering = all_data;
     let option = [];
     if (m) {
       if (m === "Z") {
@@ -60,23 +46,9 @@ const filter = (func) => {
       );
     }
 
-    return filtering.map((skill) => {
-      if (skill._id[0] === "z") {
-        return (
-          <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
-        );
-      }
-      return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-    });
+    return filtering;
   } catch {
-    return data_giver(-1).map((skill) => {
-      if (skill._id[0] === "z") {
-        return (
-          <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
-        );
-      }
-      return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-    });
+    return all_data;
   }
 };
 

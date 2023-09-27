@@ -23,7 +23,7 @@
       "Ułożyłem/am poszkodowanego w pozycji bezpiecznej.",
       "Wykonałem/am prawidłowo uciśnięcia klatki piersiowej u osoby dorosłej (podczas RKO).",
       "Udzieliłem/am pierwszej pomocy w przypadku ukąszenia przez owady.",
-      "Prawidłowo postąpiłem/am przy krwotokach$-Udzieliłem/am pierwszej pomocy w przypadku krwotoku z nosa.-Założyłem/am opatrunek uciskowy w przypadku krwotoku z rany.-Udzieliłem/am pierwszej pomocy w przypadku złamania otwartego.",
+      "Prawidłowo postąpiłem/am przy krwotokach$ -Udzieliłem/am pierwszej pomocy w przypadku krwotoku z nosa.-Założyłem/am opatrunek uciskowy w przypadku krwotoku z rany.-Udzieliłem/am pierwszej pomocy w przypadku złamania otwartego.",
       "Zabezpieczyłem/am poszkodowanego przed utratą ciepła (zastosowałem/am termoizolację)."
     ],
     "type": "samarytańskie",
@@ -54,7 +54,7 @@
     "idea": "Posługuje się sprawnie igła i nitką do napraw i drobnych prac krawieckich.",
     "tasks": [
       "Nawlokłem/am nitkę na igłę. Rozpocząłem/rozpoczęłam i zakończyłem/am ścieg. Zastosowałem/am co najmniej dwa różne ściegi (np. fastryga, ścieg za igłą, ścieg przed igłą).",
-      "Wykonałem/am co najmniej dwa z poniższych zadań$-przyszyłem/am guziki do koszuli,-obrębiłem/am chusteczkę,-naszyłem/am łatę na spodnie,-zacerowałem/am dziurę w swetrze,-wyhaftowałem/am swój monogram,-doszyłem/am linki do namiotu.",
+      "Wykonałem/am co najmniej dwa z poniższych zadań$ -przyszyłem/am guziki do koszuli,-obrębiłem/am chusteczkę,-naszyłem/am łatę na spodnie,-zacerowałem/am dziurę w swetrze,-wyhaftowałem/am swój monogram,-doszyłem/am linki do namiotu.",
       "Uszyłem/am ręcznie lub na maszynie drobny przedmiot, np. łapki do garnków, kieszeń na grzebienie w łazience, fartuszek kuchenny, worek na kapcie itp.",
       "Naszyłem/am prawidłowo wszystkie plakietki na mundur."
     ],
@@ -68,7 +68,7 @@
     "idea": "Posługuje się maszyną do szycia.",
     "tasks": [
       "Rozpoznałem/am po dotyku i wyglądzie podstawowe rodzaje tkanin (np. bawełna, wełna, jedwab, len, sztuczne tworzywa) i wytłumaczyłem/am, jaki wpływa ma rodzaj tkaniny na technikę szycia i co można uszyć z wymienionych tkanin.",
-      "Za pomocą maszyny do szycia wykonałem/am co najmniej dwa tasks$-uszyłem/am według gotowego wykroju fartuch, spódnicę lub szorty,-obrębiłem/am obrus,-wszyłem/am zamek błyskawiczny,-uszyłem/am poszewkę na poduszkę,-naprawiłem/am lub przerobiłem/am używaną cześć odzieży.",
+      "Za pomocą maszyny do szycia wykonałem/am co najmniej dwa tasks$ -uszyłem/am według gotowego wykroju fartuch, spódnicę lub szorty,-obrębiłem/am obrus,-wszyłem/am zamek błyskawiczny,-uszyłem/am poszewkę na poduszkę,-naprawiłem/am lub przerobiłem/am używaną cześć odzieży.",
       "Konserwowałem maszynę do szycia.",
       "Uszyłem/am chusty dla drużyny lub zastępu lub inny element mundurowy/obrzędowy."
     ],
@@ -154,7 +154,7 @@
       "Przygotowałem/am pod nadzorem rodzica śniadanie lub kolację dla domowników, w tym jedno wybrane danie na ciepło, np. owsiankę, jajecznicę, parówki na gorąco.",
       "Przygotowałem/am podwieczorek na biwaku lub obozie drużyny, serwując zdrową przekąskę według własnego pomysłu, np. jogurt z owocami, szaszłyki z suszonych lub świeżych owoców, kaszę mannę, batoniki musli, sałatkę owocową.",
       "Obrałem/am kilka różnych warzyw (np. ziemniaki, marchewkę), które posłużyły do przygotowania posiłku podczas 5 różnych okazji.",
-      "Przyrządziłem/am pod nadzorem rodzica 2 potrawy$-sałatkę składającą się z co najmniej 4 różnych składników,-kanapki z 3 różnymi dodatkami."
+      "Przyrządziłem/am pod nadzorem rodzica 2 potrawy$ -sałatkę składającą się z co najmniej 4 różnych składników,-kanapki z 3 różnymi dodatkami."
     ],
     "type": "gospodarcze",
     "img": "/img/sprawnosci/harcerskie/10.png"
@@ -168,7 +168,7 @@
       "Ugotowałem/am zupę i drugie danie (niekoniecznie jednego dnia) dla mojej rodziny z pomocą przepisu (z Internetu, książki kucharskiej).",
       "Nakryłem/am do stołu do przygotowanego przez siebie obiadu. Przyrządziłem/am zdrowe (np. niskokaloryczne, warzywne lub owocowe) danie lub deser, do którego przygotowania wykorzystałem/am mikser, blender lub inne urządzenie kuchenne.",
       "Nauczyłem/am się przygotowywać ulubioną potrawę z rodzinnego przepisu.",
-      "Przyrządziłem/am 3 różne potrawy$-omlet z dodatkami,-pastę na kanapki,-deser bez pieczenia."
+      "Przyrządziłem/am 3 różne potrawy$ -omlet z dodatkami,-pastę na kanapki,-deser bez pieczenia."
     ],
     "type": "gospodarcze",
     "img": "/img/sprawnosci/harcerskie/11.png"
@@ -180,10 +180,10 @@
     "idea": "Ugotował/a i podał/a 3-daniowy obiad (zupa, drugie danie i deser), stosując różne sposoby przygotowania i nie korzystając z półproduktów. Bezpiecznie obsługiwał/a piekarnik.",
     "tasks": [
       "Przygotowałem/am potrawę tradycyjną dla wybranego regionu Polski (np. proziaki z Podkarpacia, babkę ziemniaczaną z Podlasia).",
-      "Wykonałem co najmniej jedno z poniższych zadań$-Wybrałem/am miejsce na kuchnię na biwaku drużyny. Urządziłem/am ją funkcjonalnie. Pokierowałem/am gotowaniem obiadu dla drużyny.-Ułożyłem/am urozmaicony jadłospis na kilkudniowy biwak, rajd lub kilka dni obozu dla całej drużyny. Nadzorowałem/am przygotowanie posiłków.",
+      "Wykonałem co najmniej jedno z poniższych zadań$ -Wybrałem/am miejsce na kuchnię na biwaku drużyny. Urządziłem/am ją funkcjonalnie. Pokierowałem/am gotowaniem obiadu dla drużyny.-Ułożyłem/am urozmaicony jadłospis na kilkudniowy biwak, rajd lub kilka dni obozu dla całej drużyny. Nadzorowałem/am przygotowanie posiłków.",
       "Ugotowałem/am co najmniej po dwie różne zupy, drugie dania i desery (niekoniecznie jednego dnia), wykorzystując różne sposoby przygotowania, np. pieczenie, smażenie, duszenie, gotowanie. Nakryłem/am do stołu z okazji uroczystego posiłku, korzystając z zastawy, sztućców, serwetek, wybranych elementów dekoracyjnych, np. świec, kwiatów, obrusu.",
       "Upiekłem/am chleb lub ciasto drożdżowe (np. placek drożdżowy, pizza).",
-      "Przyrządziłem/am 4 różne potrawy$-sałatkę z gotowanych jarzyn,-zapiekankę mięsną lub warzywną,-makaron z własnoręcznie przygotowanym sosem,-pierogi."
+      "Przyrządziłem/am 4 różne potrawy$ -sałatkę z gotowanych jarzyn,-zapiekankę mięsną lub warzywną,-makaron z własnoręcznie przygotowanym sosem,-pierogi."
     ],
     "type": "gospodarcze",
     "img": "/img/sprawnosci/harcerskie/12.png"
@@ -196,7 +196,7 @@
     "tasks": [
       "Kierowałem/am co najmniej przez dwa dni służbą kuchenną na obozie drużyny lub na biwaku, układając jadłospisy i przygotowując dania mięsne i wegetariańskie.",
       "Przyrządziłem/am 5 pełnowartościowych posiłków dostosowanych do różnych diet i upodobań, w tym: wegetariański, niskowęglowodanowy, bezglutenowy, wegański, mięsny.",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Zorganizowałem/am, ugotowałem/am i podałem/am uroczysty obiad dla rodziny lub przyjaciół, podczas którego zaserwowałem/am co najmniej 5 potraw przygotowanych według wybranych przez siebie przepisów komponujących się w spójną całość.-Opracowałem/am i przetestowałem/am co najmniej 5 własnych przepisów na potrawy, które zyskały uznanie mojej rodziny lub przyjaciół.",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Zorganizowałem/am, ugotowałem/am i podałem/am uroczysty obiad dla rodziny lub przyjaciół, podczas którego zaserwowałem/am co najmniej 5 potraw przygotowanych według wybranych przez siebie przepisów komponujących się w spójną całość.-Opracowałem/am i przetestowałem/am co najmniej 5 własnych przepisów na potrawy, które zyskały uznanie mojej rodziny lub przyjaciół.",
       "W trakcie trwania próby nie mniej niż 1/3 posiłków (śniadań, obiadów i kolacji) w każdym tygodniu przygotowałem/am samodzielnie."
     ],
     "type": "gospodarcze",
@@ -266,7 +266,7 @@
     "idea": "Potrafi zapewniać sobie w terenie komfortowy i bezpieczny sposób bytowania (spanie, jedzenie, przechowywanie rzeczy, załatwianie potrzeb fizjologicznych, mycie). Potrafi zorganizować bytowanie grupy w terenie (służby kuchenne, zapewnienie bezpieczeństwa). Kieruje budową podstawowych urządzeń obozowych. Orientuje się w każdym terenie, korzystając z różnorodnych sposobów.",
     "tasks": [
       "Wziąłem/wzięłam udział w kilkudniowym rajdzie/wyprawie z nocowaniem na łonie przyrody, podczas którego minimalizowałem/am swój wpływ na środowisko (odpowiednio gospodarując wodą i odpadami, przygotowując nocleg, zabezpieczając ognisko).",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Kierowałem/am służbą kuchenną/zastępem służbowym.-Przygotowałem/am młodszych harcerzy do pełnienia wart i dowodziłem/am zastępem wartowniczym.",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Kierowałem/am służbą kuchenną/zastępem służbowym.-Przygotowałem/am młodszych harcerzy do pełnienia wart i dowodziłem/am zastępem wartowniczym.",
       "Potrafię używać i dbam o sprzęt drużyny/szczepu. Brałem/am udział w jego konserwacji.",
       "Samodzielnie wykonałem/am obrzędowy stos ogniskowy.",
       "Zapoznałem/am młodszych harcerzy z zasadami pracy z narzędziamipionierskimi, pokierowałem/am budową przez zastęp prostego urządzenia obozowego.",
@@ -741,7 +741,7 @@
     "level": "**",
     "idea": "Umiejętnie zajmuje się powierzonymi jego/jej opiece osobami młodszymi i chorymi. Posiada podstawowe umiejętności pozwalające na aktywne włączenie się w życie rodziny.",
     "tasks": [
-      "Potrafię opiekować się małym dzieckiem. Pod nadzorem rodziców zadbałem/am o powierzone mi dziecko (np. rodzeństwo, dziecko sąsiadów) przez dłuższy okres (np. miesiąc, wakacje)$-przygotowywałem/am odpowiednie posiłki, -zabierałem/am na spacer w ubraniu dostosowanym do warunków, - zapewniałem/am bezpieczną zabawę dostosowaną do wieku dziecka, -jeżeli była taka potrzeba, towarzyszyłem/am przy toalecie porannej i wieczornej oraz usypiałem/am.",
+      "Potrafię opiekować się małym dzieckiem. Pod nadzorem rodziców zadbałem/am o powierzone mi dziecko (np. rodzeństwo, dziecko sąsiadów) przez dłuższy okres (np. miesiąc, wakacje)$ -przygotowywałem/am odpowiednie posiłki, -zabierałem/am na spacer w ubraniu dostosowanym do warunków, - zapewniałem/am bezpieczną zabawę dostosowaną do wieku dziecka, -jeżeli była taka potrzeba, towarzyszyłem/am przy toalecie porannej i wieczornej oraz usypiałem/am.",
       "Dowiedziałem się, jak odpowiednio zaopiekować się osobą chorą. Opiekowałem/am się chorym w domu lub na obozie. Wykonywałem/am następujące czynności: -odpowiednio przygotowałem łóżko osobie chorej na dzień i na noc, -podawałem/am posiłki i lekarstwa według zaleceń lekarza.",
       "Pomagałem/am rodzicom w organizacji co najmniej jednego dużego rodzinnego wydarzenia. Wykonałem/am co najmniej jedno z zadań: -wykonałem/am drobne prace przy okazji remontu, np. mieszkania (malowanie ściany, gipsowanie dziur itp.), -pomagałem/am ułożyć zastawę stołową i przygotować potrawy na uroczystość rodzinną, -umiejętnie pakowałem i rozpakowywałem różne drobne przedmioty (zastawa kuchenna, bibeloty, elektronika itp.) w czasie przeprowadzki."
     ],
@@ -757,7 +757,7 @@
       "Własnoręcznie przygotowałem/am niespodziankę dla dziecka (własnoręcznie wykonana zabawka, uszyte/przerobione ubranko, ulubiony podwieczorek).",
       "Opracowałem/am krótki wykaz książek i/lub miejsc w Internecie (np. fora, blogi, wideoblogi, kanały YouTube) dotyczących opieki nad dzieckiem. Zapoznałem/am z nim osoby zainteresowane tym tematem.",
       "Przygotowałem/am dietetyczny posiłek odpowiedni do rodzaju choroby osoby, którą się opiekowałem/am.",
-      "Wiem, jakie są prawidłowe poziomy ciśnienia krwi i cukru we krwi. Wykonałem co najmniej jedno zadanie$-zmierzyłem/am osobie chorej lub starszej ciśnienie krwi,-zmierzyłem/am osobie chorej lub starszej poziom cukru we krwi."
+      "Wiem, jakie są prawidłowe poziomy ciśnienia krwi i cukru we krwi. Wykonałem co najmniej jedno zadanie$ -zmierzyłem/am osobie chorej lub starszej ciśnienie krwi,-zmierzyłem/am osobie chorej lub starszej poziom cukru we krwi."
     ],
     "type": "samarytańskie",
     "img": "/img/sprawnosci/harcerskie/53.png"
@@ -839,7 +839,7 @@
     "idea": "Dba o swoje bezpieczeństwo w domu, w szkole, na drodze, w lesie i w podróży.",
     "tasks": [
       "Nauczyłem/am się zabezpieczać dom przed złodziejami i zdarzeniami losowymi. Sporządziłem/am listę kontrolną czynności, które należy wykonać przed wyjściem z domu/mieszkania (zamknięcie okien i balkonu, wyłączenie kuchenki gazowej, wyłączenie urządzeń elektrycznych, sprawdzenie kranów z wodą itp.). Regularnie ją stosowałem/am przed każdym wyjściem z domu.",
-      "Wykonałem co najmniej jedno z poniższych zadań$-poruszając się po drodze poza miastem, zastosowałem/am komplet odblasków zapewniający widoczność mojej sylwetki ze wszystkich stron; -poruszając się rowerem po drodze, zastosowałem/am kamizelkę odblaskową i kask rowerowy.",
+      "Wykonałem co najmniej jedno z poniższych zadań$ -poruszając się po drodze poza miastem, zastosowałem/am komplet odblasków zapewniający widoczność mojej sylwetki ze wszystkich stron; -poruszając się rowerem po drodze, zastosowałem/am kamizelkę odblaskową i kask rowerowy.",
       "Poznałem zasady bezpieczeństwa na obozie. Wziąłem udział w rożnego rodzaju alarmach (np. przeciwpożarowym, ewakuacyjnym), sprawnie wykonując polecenia opiekunów.",
       "Opracowałem/am trasę dotarcia do wyznaczonego punktu, wykorzystując m.in. komunikację publiczną (np. miejską). Sprawdziłem rozkład jazdy, wybrałem odpowiednie połączenie i zakupiłem bilet MPK/PKS/PKP. Zapoznałem/am się z podstawowymi zasadami korzystania z komunikacji publicznej (np. kiedy i jak odbijamy bilety, które miejsca w autobusach i tramwajach są przeznaczone dla mnie, dla starszych i chorych, jak używamy rączek i uchwytów podczas podróży na stojąco, do czego służą dzwonki alarmowe i gdzie się znajdują)."
     ],
@@ -871,7 +871,7 @@
       "Zapoznałem/am młodszych z regulaminem/zasadami poruszania się po drogach. Uwzględniłem/am przy tym zagrożenia wynikające z analizy potencjalnych niebezpieczeństw w mojej okolicy jak np. niebezpieczne przejścia przez jezdnię, ulice bez chodników, miejsca na drogach ze słabą widocznością dla kierowcy (zakręty, wzniesienia). Przeprowadziłem/am bezpiecznie grupę (np. zastęp, drużynę) po różnych rodzajach dróg/ulic na dystansie kilku kilometrów.",
       "Uczestniczyłem/am w działaniach profilaktyczno-edukacyjnych dotyczących bezpieczeństwa (np. handlu ludźmi, przemocy w szkole itp.). Przeprowadziłem/am dla swojej drużyny/klasy warsztaty dotyczące bezpieczeństwa.",
       "Dowiedziałem/am się, jakie niebezpieczeństwa grożą osobom poruszającym się po lesie -szczególnie jednoosobowo. Na obozie przeprowadziłem/am instruktaż, a następnie nadzorowałem/am wyjścia do lasu (np. na sprawność Leśnego człowieka) mniej doświadczonych harcerzy.",
-      "Dowiedziałem/am się, jakie niebezpieczeństwa mogą na mnie czekać w czasie podróży zagranicznej lub podróży po Polsce w odległe miejsce. Wykonałem/am następujące tasks$-ustaliłem/am i pozostawiłem/am domownikom informacje o tym, dokąd jadę i pod jakim adresem/adresami będę przebywał/a,-ustaliłem/am sposób i częstotliwość kontaktowania się z osobami, które zostały w domu (wszelkie zakłócenia mogą stanowić sygnał alarmowy),-nie rozstawałem/am się ze swoimi dokumentami. Pamiętałem/am, że mam OBOWIĄZEK mieć je przy sobie i nikt poza mną nie ma prawa ich przetrzymywać."
+      "Dowiedziałem/am się, jakie niebezpieczeństwa mogą na mnie czekać w czasie podróży zagranicznej lub podróży po Polsce w odległe miejsce. Wykonałem/am następujące tasks$ -ustaliłem/am i pozostawiłem/am domownikom informacje o tym, dokąd jadę i pod jakim adresem/adresami będę przebywał/a,-ustaliłem/am sposób i częstotliwość kontaktowania się z osobami, które zostały w domu (wszelkie zakłócenia mogą stanowić sygnał alarmowy),-nie rozstawałem/am się ze swoimi dokumentami. Pamiętałem/am, że mam OBOWIĄZEK mieć je przy sobie i nikt poza mną nie ma prawa ich przetrzymywać."
     ],
     "type": "samarytańskie",
     "img": "/img/sprawnosci/harcerskie/61.png"
@@ -926,7 +926,7 @@
     "level": "****",
     "idea": "Rozumie i propaguje świadomość najważniejszych zależności pomiędzy człowiekiem a środowiskiem na przykładzie śladu wodnego. Stosuje i propaguje zaawansowane nawyki proekologiczne. Zachowuje się odpowiednio podczas pobytów na łonie natury.",
     "tasks": [
-      "Poznałem/am podstawowe problemy związane z dostępem do wody pitnej (w tym problem jej niedoboru) na świecie i w Polsce. Wykonałem/am jedno z poniższych zadań$-Poznałem/am różne sposoby pozyskania lub uzdatniania wody pitnej w terenie (destylacja, filtry osobiste, filtracja i uzdatnianie chemiczne itp.). Podczas wędrówki zastosowałem/am jeden z nich.-Przeprowadziłem/am akcję szerzenia dobrych praktyk w zakresie gospodarowania wodą, w tym: oszczędzania wody, gromadzenia deszczówki do podlewania roślin, niekoszenia trawników, tworzenia łąk kwietnych zamiast trawników, niepodlewania ogrodu/trawnika w ciągu dnia (w największym słońcu).",
+      "Poznałem/am podstawowe problemy związane z dostępem do wody pitnej (w tym problem jej niedoboru) na świecie i w Polsce. Wykonałem/am jedno z poniższych zadań$ -Poznałem/am różne sposoby pozyskania lub uzdatniania wody pitnej w terenie (destylacja, filtry osobiste, filtracja i uzdatnianie chemiczne itp.). Podczas wędrówki zastosowałem/am jeden z nich.-Przeprowadziłem/am akcję szerzenia dobrych praktyk w zakresie gospodarowania wodą, w tym: oszczędzania wody, gromadzenia deszczówki do podlewania roślin, niekoszenia trawników, tworzenia łąk kwietnych zamiast trawników, niepodlewania ogrodu/trawnika w ciągu dnia (w największym słońcu).",
       "Dowiedziałem/am się, czym jest i skąd bierze się mikroplastik oraz oceaniczne „wyspy śmieci”. Wprowadziłem/am w swoim życiu przynajmniej jedną wymierną zmianę wpływającą na zmniejszanie ilości mikroplastiku, np. niekupowanie produktów zawierających mikrogranulki (m.in. past do zębów, peelingów i chemii gospodarczej) lub stosowanie się do wskazówek prania ubrań ze sztucznych włókien.",
       "Dowiedziałem/am się, gdzie znaleźć rzetelne informacje na temat ekologii i ochrony środowiska. Nauczyłem/am się korzystać z tych źródeł w razie potrzeby i poleciłem/am je innym.",
       "Znam i stosuję zasady ekologicznego obozowania. Wdrażam w nie młodszych od siebie harcerzy, pomagając im w ekologicznym obozowaniu/biwakowaniu."
@@ -1091,7 +1091,7 @@
     "tasks": [
       "Dowiedziałem/am się, jakie kwiaty można uprawiać w Polsce, a jakie sprowadza się z zagranicy. Ułożyłem/am 3 bukiety składające się wyłącznie z polskich kwiatów.",
       "Pielęgnowałem/am w czasie próby rzadki lub trudny w uprawie okaz kwiatu. Swoje doświadczenia z uprawy przedstawiłem/am w zastępie.",
-      "Wykonałem/am jedno z poniższych zadań$-Zastosowałem/am suszone kwiaty i inne rośliny do wykonania różnych ozdób (np. kartek urodzinowych, zakładek do książki, kolczyków). -Dowiedziałem/am się co to jest „ikebana”. Wykonałem/am kwiatową dekorację na wybraną uroczystość w rodzinie, szkole lub drużynie."
+      "Wykonałem/am jedno z poniższych zadań$ -Zastosowałem/am suszone kwiaty i inne rośliny do wykonania różnych ozdób (np. kartek urodzinowych, zakładek do książki, kolczyków). -Dowiedziałem/am się co to jest „ikebana”. Wykonałem/am kwiatową dekorację na wybraną uroczystość w rodzinie, szkole lub drużynie."
     ],
     "type": "przyrodnicze",
     "img": "/img/sprawnosci/harcerskie/77.png"
@@ -1132,7 +1132,7 @@
       "Rozpoznałem/am po pniach i liściach popularne drzewa owocowe np. jabłonie, grusze, śliwy, wiśnie, czereśnie oraz krzewy owocowe np. maliny, porzeczki, winorośl.",
       "Wziąłem/wzięłam udział w sadzeniu drzew owocowych lub krzewów jagodowych.",
       "Wziąłem/wzięłam udział w całorocznej pielęgnacji sadu np. przycinaniu drzew i krzewów, szczepieniu drzewek, zabezpieczeniu go przed szkodnikami itp.",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Wziąłem/wzięłam udział w zbiorze owoców. Prawidłowo ułożyłem/am je w skrzynce/pojemniku i przygotowałem/am do transportu.-Wziąłem/wzięłam udział w przygotowaniu owoców do składowania przez zimę."
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Wziąłem/wzięłam udział w zbiorze owoców. Prawidłowo ułożyłem/am je w skrzynce/pojemniku i przygotowałem/am do transportu.-Wziąłem/wzięłam udział w przygotowaniu owoców do składowania przez zimę."
     ],
     "type": "przyrodnicze",
     "img": "/img/sprawnosci/harcerskie/80.png"
@@ -1197,7 +1197,7 @@
     "idea": "Pogłębia swoją wiedzę o świecie zwierząt dzikich i domowych oraz o zasadach opieki/pomocy zwierzętom. Propaguje wiedzę o świecie zwierząt.",
     "tasks": [
       "Wiem, jakie niebezpieczne zwierzęta żyją w Polsce. Opowiedziałem/am członkom/członkiniom mojego zastępu przed wyprawą do lasu jak należy postępować w przypadku spotkania z nimi.",
-      "Wiem, jak odpowiednio zachowywać się w lesie, aby nie płoszyć zwierzyny i nie tworzyć dla niej zagrożenia. Podczas wycieczki do lasu lub na łąkę wykonałem/am co najmniej jedno z zadań$-Rozpoznałem/am tropy kilku dzikich zwierząt (np. dzika, sarny, zająca) i utrwaliłem/am je (np. wykonałem/am zdjęcie, odlew). -Nagrałem/am odgłosy ptaków, sfotografowałem/am je, zebrałem/am ich pióra. -Rozpoznałem/am i nagrałem/am głosy pięciu żyjących tam zwierząt. Zaprezentowałem/am moje zdobycze na zbiórce zastępu.",
+      "Wiem, jak odpowiednio zachowywać się w lesie, aby nie płoszyć zwierzyny i nie tworzyć dla niej zagrożenia. Podczas wycieczki do lasu lub na łąkę wykonałem/am co najmniej jedno z zadań$ -Rozpoznałem/am tropy kilku dzikich zwierząt (np. dzika, sarny, zająca) i utrwaliłem/am je (np. wykonałem/am zdjęcie, odlew). -Nagrałem/am odgłosy ptaków, sfotografowałem/am je, zebrałem/am ich pióra. -Rozpoznałem/am i nagrałem/am głosy pięciu żyjących tam zwierząt. Zaprezentowałem/am moje zdobycze na zbiórce zastępu.",
       "Wykonałem/am co najmniej jedno z poniższych zadań$ -Przeczytałem/am poradnik dotyczący opieki nad wybranym zwierzęciem. Wybrałem/am z niego 5 najciekawszych według mnie informacji i przedstawiłem/am je w zastępie.-Poszedłem/poszłam ze swoim zwierzęciem do weterynarza lub samodzielnie sprawdziłem/am stan zdrowia zwierzęcia na podstawie wiarygodnego poradnika."
     ],
     "type": "przyrodnicze",
@@ -1250,7 +1250,7 @@
     "level": "***",
     "idea": "Świadomie kultywuje hodowlę wybranych zwierząt (np. ptaków, gryzoni, drobiu, ryb)",
     "tasks": [
-      "Dbam o samarytańskie moich zwierząt, wykonując jedno z poniższych zadań$-Zapewniłem/am moim zwierzętom wizytę weterynarza,-zaszczepiłem/am moje zwierzęta,-zweryfikowałem/am swoje dotychczasowe praktyki hodowlane w fachowych książkach, czasopismach, portalach",
+      "Dbam o samarytańskie moich zwierząt, wykonując jedno z poniższych zadań$ -Zapewniłem/am moim zwierzętom wizytę weterynarza,-zaszczepiłem/am moje zwierzęta,-zweryfikowałem/am swoje dotychczasowe praktyki hodowlane w fachowych książkach, czasopismach, portalach",
       "Przygotowałem/am dla swoich zwierząt wyposażenie zwiększające komfort miejsca ich codziennego przebywania (np. zabawkę, wybieg).",
       "Dostosowałem/am dietę moich zwierząt do ich indywidualnych potrzeb. W trakcie trwania próby (przynajmniej 4 miesiące) samodzielnie karmiłem/am swoje zwierzęta. W przypadku własnej niedyspozycji zapewniłem/am sobie zastępstwo.",
       "Zabrałem/am członków mojego zastępu na wizytę, podczas której oglądaliśmy moją hodowlę."
@@ -1321,8 +1321,8 @@
     "level": "**",
     "idea": "Nauczył/a się gospodarować posiadanymi pieniędzmi, w szczególności efektywnie je wydatkować oraz oszczędzać. Wziął/wzięła udział w przedsięwzięciach finansowych drużyny.",
     "tasks": [
-      "Dokonałem/am rozliczenia finansowego w jednym z poniższych zakresów$-Pod nadzorem drużynowego zebrałem/am i rozliczyłem/am składki drużyny lub zastępu za jeden kwartał.-Robiąc zakupy na rzecz drużyny, uzyskałem/am od sprzedającego właściwie wystawioną fakturę. Odbierając ją, sprawdziłem/am poprawność wszystkich niezbędnych danych.",
-      "Wykonałem/am jedno z poniższych zadań$-Wziąłem/wzięłam udział w akcji zarobkowej, np. w formie zbiórki publicznej, sprzedaży towarów lub usług, loterii, crowdfundingu.-Przygotowałem/am materiały informacyjne (np. ulotkę, banner, reklamę w formie elektronicznej) dotyczące 1% dla OPP, które zostały wykorzystane przez drużynę. Przed ich publikacją uzyskałem/am akceptację ich treści przez drużynowego.",
+      "Dokonałem/am rozliczenia finansowego w jednym z poniższych zakresów$ -Pod nadzorem drużynowego zebrałem/am i rozliczyłem/am składki drużyny lub zastępu za jeden kwartał.-Robiąc zakupy na rzecz drużyny, uzyskałem/am od sprzedającego właściwie wystawioną fakturę. Odbierając ją, sprawdziłem/am poprawność wszystkich niezbędnych danych.",
+      "Wykonałem/am jedno z poniższych zadań$ -Wziąłem/wzięłam udział w akcji zarobkowej, np. w formie zbiórki publicznej, sprzedaży towarów lub usług, loterii, crowdfundingu.-Przygotowałem/am materiały informacyjne (np. ulotkę, banner, reklamę w formie elektronicznej) dotyczące 1% dla OPP, które zostały wykorzystane przez drużynę. Przed ich publikacją uzyskałem/am akceptację ich treści przez drużynowego.",
       "Przez miesiąc prowadziłem/am zestawienie swoich wydatków. Następnie określiłem/am, które były niezbędne, a z których mógłbym/mogłabym zrezygnować.",
       "Zapoznałem/am się z zasadą 4R (refuse, reduce, reuse, recycle), i stosując ją, ograniczyłem/am swoją konsumpcję. W trakcie trwania próby całkowicie zrezygnowałem/am z kupowania jednego z produktów nieodpowiedzialnych środowiskowo np. słodyczy z olejem palmowym, napojów w butelkach PET itp."
     ],
@@ -1337,7 +1337,7 @@
     "tasks": [
       "Zgromadziłem/am środki finansowe na wybrany przez siebie cel. Pieniądze pozyskałem/am, wykorzystując więcej niż jeden sposób.",
       "Wziąłem/wzięłam udział w organizowaniu akcji zarobkowej (np. w formie zbiórki publicznej, sprzedaży towarów lub usług, loterii, crowdfundingu), będąc osobą odpowiedzialną za ustalony obszar jej realizacji bądź rozliczenia (pod nadzorem instruktora).",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Dokonałem/am płatności przy pomocy karty płatniczej, wypłaciłem/am pieniądze z bankomatu oraz zapłaciłem/am przelewem bankowym np. składki.-Zaprezentowałem/am zastępowi/drużynie w formie graficznej informacje o drodze produkcji i podziale zysków z produkcji i sprzedaży wybranego produktu (w tym o sposobie ich opodatkowania).",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Dokonałem/am płatności przy pomocy karty płatniczej, wypłaciłem/am pieniądze z bankomatu oraz zapłaciłem/am przelewem bankowym np. składki.-Zaprezentowałem/am zastępowi/drużynie w formie graficznej informacje o drodze produkcji i podziale zysków z produkcji i sprzedaży wybranego produktu (w tym o sposobie ich opodatkowania).",
       "Zebrałem/am informacje o dostępnych dla młodzieży ofertach różnych banków i przeanalizowałem/am oferowane w ramach nich usługi i produkty. Na podstawie dokonanej analizy założyłem/am konto bankowe lub porównałem/am warunki banku, w którym posiadam rachunek, z innymi zebranymi ofertami.",
       "Przygotowałem/am plan finansowy biwaku, rajdu, wycieczki lub innego przedsięwzięcia harcerskiego. Rozliczyłem/am go w ramach uzyskanej zaliczki, jednocześnie weryfikując w ramach tego rozliczenia realizację zakładanego budżetu."
     ],
@@ -1350,7 +1350,7 @@
     "level": "****",
     "idea": "Nabył/a umiejętności w zakresie planowania oraz prowadzenia rozliczeń finansowych w ramach podstawowych aktywności zespołów (np. drużyny, zastępu itp.). Zdobył/a podstawową wiedzę o swoich kompetencjach jako przyszłego pracownika lub przedsiębiorcy. Skutecznie nauczył/a się przekazywać innym wiedzę o podstawowych pojęciach ekonomicznych.",
     "tasks": [
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Przeprowadziłem/am w drużynie grę ekonomiczną umożliwiającą uczestnikom poznanie pojęć: popyt, podaż, koszt, przychód, marża, zysk, wykorzystując udostępnione w ramach programów edukacyjnych materiały wychowania ekonomicznego. Odpowiedzialnie zadbałem/am o jakość materiałów, czerpiąc je ze stron instytucji finansowych, np. NBP, GPW, Związek Banków Polskich.-Pokierowałem/am akcją zarobkową drużyny (w formie np. zbiórki publicznej, sprzedaży towarów lub usług, loterii, crowdfundingu), która przyniosła wymierny zysk, i rozliczyłem/am ją.",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Przeprowadziłem/am w drużynie grę ekonomiczną umożliwiającą uczestnikom poznanie pojęć: popyt, podaż, koszt, przychód, marża, zysk, wykorzystując udostępnione w ramach programów edukacyjnych materiały wychowania ekonomicznego. Odpowiedzialnie zadbałem/am o jakość materiałów, czerpiąc je ze stron instytucji finansowych, np. NBP, GPW, Związek Banków Polskich.-Pokierowałem/am akcją zarobkową drużyny (w formie np. zbiórki publicznej, sprzedaży towarów lub usług, loterii, crowdfundingu), która przyniosła wymierny zysk, i rozliczyłem/am ją.",
       "Zidentyfikowałem/am swoje predyspozycje zawodowe, korzystając z pomocy doradcy zawodowego lub wybranego kwestionariusza.",
       "Poznałem/am różne rodzaje ochrony i pomnażania oszczędności. Pomnożyłem/am swoje środki i przedstawiłem/am osiągnięte efekty wraz z wnioskami podczas zbiórki dla zastępu/drużyny/rodziców. Podczas prezentacji efektów tego działania wykorzystałem/am narzędzie analizy portfelowej.",
       "Przygotowałem/am własne CV oraz napisałem/am list motywacyjny do wybranej oferty pracy.",
@@ -1420,7 +1420,7 @@
     "idea": "Skarbnik drużyny. Na bieżąco wspiera prace drużynowego zajmując się rozliczeniami finansowymi.",
     "tasks": [
       "Poznałem/am przepisy finansowe ZHP obowiązujące drużynę.-Pod nadzorem drużynowego zebrałem/am i rozliczyłem/am składki drużyny za jeden kwartał.-Co najmniej raz rozliczyłem/am w hufcu fakturę za wydatkowanie środków na śródroczną działalność programową.",
-      "Co najmniej dwa razy zarządzałem/am finansami biwaku/imprezy drużyny (osobiście lub wspierając innych członków drużyny)$-opracowałem/am preliminarz (czyli plan finansowy); -zarządzałem finansami w trakcie trwania przedsięwzięcia;-rozliczyłem/am imprezę zgodnie z obowiązującymi w hufcu zasadami.",
+      "Co najmniej dwa razy zarządzałem/am finansami biwaku/imprezy drużyny (osobiście lub wspierając innych członków drużyny)$ -opracowałem/am preliminarz (czyli plan finansowy); -zarządzałem finansami w trakcie trwania przedsięwzięcia;-rozliczyłem/am imprezę zgodnie z obowiązującymi w hufcu zasadami.",
       "Opracowałem/am plan finansowy drużyny na rok harcerski i przedstawiłem/am swoją koncepcję radzie drużyny."
     ],
     "type": "ekonomiczne",
@@ -1518,7 +1518,7 @@
     "idea": "Posiada wiedzę o tym, czym jest pieniądz i jakie pełni w gospodarce funkcje. Posiada podstawowe umiejętności w zakresie obliczania oprocentowania oraz wykorzystania podstawowych form przekazywania środków finansowych innym podmiotom lub osobom.",
     "tasks": [
       "Poznałem/am pojęcia takie jak: cechy pieniądza, funkcje pieniądza oraz jestem świadomy/a ewolucji form pieniądza. Jedno z tych pojęć wyjaśniłem/am na forum zastępu przygotowując graficzną prezentację.",
-      "Wykonałem/am jedno z poniższych zadań$-Wziąłem/wzięłam udział w grze dostępnej na Portalu Edukacji Ekonomicznej Narodowego Banku Polskiego (NBP).-Odwiedziłem/am Centrum Pieniądza NBP.",
+      "Wykonałem/am jedno z poniższych zadań$ -Wziąłem/wzięłam udział w grze dostępnej na Portalu Edukacji Ekonomicznej Narodowego Banku Polskiego (NBP).-Odwiedziłem/am Centrum Pieniądza NBP.",
       "Obliczyłem/am odsetki, jakie uzyskałbym/uzyskałabym w wypadku założenia rocznej lokaty w wysokości 100 zł, przy użyciu aktualnej stopy oprocentowania, jaką proponuje wybrany przeze mnie bank i przy założeniu, że nie uwzględniona zostaje kapitalizacja (procent prosty).",
       "Poznałem/am różnice pomiędzy przelewem bądź przekazem bankowym i pocztowym. Dokonałem/am jednego z nich."
     ],
@@ -1548,7 +1548,7 @@
       "Wyliczyłem/am ratę równą i malejącą z kredytu oraz zaprezentowałem/am, jakie są między nimi różnice. Uwzględniłem/am w takich obliczeniach element ryzyka kursu waluty oraz podałem/am stopę nominalnego oraz realnego jego oprocentowania, z uwzględnieniem wpływu stopy inflacji.",
       "Przygotowałem/am i ustawiłem/am odpowiednie zabezpieczenia dla transakcji zakupu dokonywanych poprzez Internet.",
       "Przygotowałem/am i przeprowadziłem/am grę ekonomiczną zawierającą elementy inwestowania (forma inwestycji, czas, płynność), oszczędzania oraz oceny ryzyka.",
-      "Posługuję się biegle bankowością elektroniczną, realizując następujące działania$-dokonałem/am przelewu,-użyłem/am karty płatniczej,-ustanowiłem/am lokatę,-zapłaciłem/am przy użyciu dostępnego elektronicznego serwisu transakcyjnego (np. BLIK) wykorzystując do tego telefon.Przeanalizowałem/am na podstawie systemu bankowego strukturę swoich wydatków."
+      "Posługuję się biegle bankowością elektroniczną, realizując następujące działania$ -dokonałem/am przelewu,-użyłem/am karty płatniczej,-ustanowiłem/am lokatę,-zapłaciłem/am przy użyciu dostępnego elektronicznego serwisu transakcyjnego (np. BLIK) wykorzystując do tego telefon.Przeanalizowałem/am na podstawie systemu bankowego strukturę swoich wydatków."
     ],
     "type": "ekonomiczne",
     "img": "/img/sprawnosci/harcerskie/110.png"
@@ -1587,7 +1587,7 @@
     "level": "*",
     "idea": "Potrafi wykonać podstawowe czynności na komputerze. W świadomy i bezpieczny sposób korzysta z Internetu.",
     "tasks": [
-      "Wykonałem/am jedną z podstawowych czynności na komputerze$-Napisałem/am prosty tekst w edytorze tekstu.-Przygotowałem/am prostą grafikę w edytorze grafiki.-Dostosowałem/am do swoich potrzeb jeden z programów, np. do oglądania multimediów lub przeglądania sieci. Znam jego nazwę i podstawowe ustawienia.",
+      "Wykonałem/am jedną z podstawowych czynności na komputerze$ -Napisałem/am prosty tekst w edytorze tekstu.-Przygotowałem/am prostą grafikę w edytorze grafiki.-Dostosowałem/am do swoich potrzeb jeden z programów, np. do oglądania multimediów lub przeglądania sieci. Znam jego nazwę i podstawowe ustawienia.",
       "Znalazłem/am informacje o wybranym zagadnieniu za pomocą dowolnej wyszukiwarki internetowej.",
       "Zapoznałem/am się z zasadami BHP podczas pracy przy komputerze. Porównałem/am je z moimi przyzwyczajeniami i skorygowałem/am (w razie potrzeby) swoje nawyki.",
       "Poznałem/am zasady bezpiecznego korzystania z Internetu (ochrona prywatności, rozmowy z nieznajomymi, niebezpieczne strony) i przedstawiłem/am je osobom z mojego otoczenia (rodzina/znajomi/klasa/zastęp)."
@@ -1601,7 +1601,7 @@
     "level": "**",
     "idea": "W swobodny sposób porusza się po wybranym pakiecie biurowym (np. Microsoft Office, LibreOffice, Dysk Google). Zna i stosuje zasady kulturalnego zachowania się w sieci. Rozumie znaczenie nowoczesnych technologii i zagrożenia płynące z niewłaściwego ich wykorzystania.",
     "tasks": [
-      "Korzystając z wybranego pakietu biurowego, wykonałem/am jedno z poniższych zadań$-Przygotowałem/am prezentację multimedialną na wybrany temat.-Przygotowałem/am dokument tekstowy z wykorzystaniem podstawowych możliwości edytora tekstu (wypunktowanie i numeracja, wyrównanie tekstu, formatowanie tekstu, podział na akapity, wstawianie obrazów, tabel i wykresów, edycja marginesów i układu strony, druk dwustronny).-Przygotowałem/am arkusz kalkulacyjny z wykorzystaniem funkcji takich jak: tabele, formatowanie warunkowe, wykresy oraz kilku prostych formuł takich jak sumowanie, liczenie warunkowe.",
+      "Korzystając z wybranego pakietu biurowego, wykonałem/am jedno z poniższych zadań$ -Przygotowałem/am prezentację multimedialną na wybrany temat.-Przygotowałem/am dokument tekstowy z wykorzystaniem podstawowych możliwości edytora tekstu (wypunktowanie i numeracja, wyrównanie tekstu, formatowanie tekstu, podział na akapity, wstawianie obrazów, tabel i wykresów, edycja marginesów i układu strony, druk dwustronny).-Przygotowałem/am arkusz kalkulacyjny z wykorzystaniem funkcji takich jak: tabele, formatowanie warunkowe, wykresy oraz kilku prostych formuł takich jak sumowanie, liczenie warunkowe.",
       "Zapoznałem/am się z netykietą, czyli zbiorem zasad zachowania się w Internecie. Stosuję je podczas codziennego użytkowania sieci.",
       "Korzystam z komputera zarówno do spędzania wolnego czasu czy komunikacji ze znajomymi, jak i zdobywania wiedzy i umiejętności. Przygotowałem/am zestawienie, ile czasu poświęcam na korzystanie z komputera i w jakich celach. Jeśli ten czas był nieodpowiedni, wprowadziłem/am potrzebne zmiany."
     ],
@@ -1615,9 +1615,9 @@
     "idea": "Posiada podstawowe umiejętności w zakresie obróbki graficznej zdjęć (np. przycinanie, zmiana rozmiaru) oraz rozszerzoną wiedzę z zakresu obsługi edytora tekstu. Podczas korzystania z Internetu zwraca szczególną uwagę na ochronę danych osobowych i praw autorskich.",
     "tasks": [
       "Utworzyłem/am konto e-mailowe. Wykorzystuję podstawowe funkcje klienta pocztowego, m.in. ustawiłem/am podpis w wiadomości, przy wysyłaniu e-maili do wielu osób korzystam z opcji UDW.",
-      "Wykonałem/am co najmniej jedno z zadań$-Dokonałem/am edycji zdjęć (np. z wyjazdu drużyny) w programie do edycji grafiki rastrowej -naniesienie logo drużyny, wykadrowanie zdjęcia, korekcja błędów, zmiana jasności/ kontrastu/ nasycenia kolorów. Moje harcerskie projekty są zgodne z Katalogiem Identyfikacji Wizualnej ZHP.-Przygotowałem/am dokumenty z wykorzystaniem zaawansowanych funkcji edytora tekstu (np. nagłówek i stopka, interlinia, zapis równania i symboli matematycznych, przypisy, kolumny, wstawianie komentarzy, opracowanie własnego stylu, korzystanie z tzw. twardych spacji i podziałów strony).",
+      "Wykonałem/am co najmniej jedno z zadań$ -Dokonałem/am edycji zdjęć (np. z wyjazdu drużyny) w programie do edycji grafiki rastrowej -naniesienie logo drużyny, wykadrowanie zdjęcia, korekcja błędów, zmiana jasności/ kontrastu/ nasycenia kolorów. Moje harcerskie projekty są zgodne z Katalogiem Identyfikacji Wizualnej ZHP.-Przygotowałem/am dokumenty z wykorzystaniem zaawansowanych funkcji edytora tekstu (np. nagłówek i stopka, interlinia, zapis równania i symboli matematycznych, przypisy, kolumny, wstawianie komentarzy, opracowanie własnego stylu, korzystanie z tzw. twardych spacji i podziałów strony).",
       "Podczas korzystania z sieci nie udostępniam swoich danych innym osobom lub portalom, jeśli nie ma uzasadnionej potrzeby. Zapoznałem/am się z zasadami ochrony moich danych i moimi prawami w sieci.",
-      "Odpowiedzialnie korzystam z możliwości, które daje Internet, wykonałem jedno z poniższych zadań$-Poznałem/am zasady umożliwiające odróżnienie prawdziwych informacji od tzw. fake newsów i zaprezentowałem/am minimum 3 konkretne przykłady.-Szanuję prawa autorskie, w swoich pracach zawieram informacje o autorach i źródłach materiałów. Poznałem/am rodzaje licencji -zaprezentowałem/am minimum 3 przykłady."
+      "Odpowiedzialnie korzystam z możliwości, które daje Internet, wykonałem jedno z poniższych zadań$ -Poznałem/am zasady umożliwiające odróżnienie prawdziwych informacji od tzw. fake newsów i zaprezentowałem/am minimum 3 konkretne przykłady.-Szanuję prawa autorskie, w swoich pracach zawieram informacje o autorach i źródłach materiałów. Poznałem/am rodzaje licencji -zaprezentowałem/am minimum 3 przykłady."
     ],
     "type": "komputerowe",
     "img": "/img/sprawnosci/harcerskie/115.png"
@@ -1749,7 +1749,7 @@
     "tasks": [
       "Poznałem/am zależności wynikające ze współpracy poszczególnych podzespołów komputerowych. Złożyłem/am komputer stacjonarny od podstaw, samodzielnie montując takie rzeczy jak: płyta główna, procesor, karta graficzna, pamięć RAM oraz inne konieczne podzespoły.",
       "Przygotowałem/am zestawienie dla znajomych, na co należy zwrócić uwagę (np. podzespoły, taktowanie, ram, itd.) kupując komputer. Uwzględniając określony budżet, zaproponowałem/am zestaw komputerowy dostosowany do potrzeb zainteresowanych.",
-      "Poznałem/am budowę przenośnych komputerów osobistych (laptopów, notebooków, ultrabooków, itp.). Rozłożyłem/am laptopa i wykonałem/am co najmniej jedno z zadań$-Wyczyściłem/am podzespoły komputera, wymieniłem/am pastę termoprzewodzącą pod procesorem i/lub kratą graficzną;-Wymieniłem/am w nim dysk i/lub pamięć RAM.Po wykonaniu tych działań, prawidłowo złożyłem/am komputer z powrotem."
+      "Poznałem/am budowę przenośnych komputerów osobistych (laptopów, notebooków, ultrabooków, itp.). Rozłożyłem/am laptopa i wykonałem/am co najmniej jedno z zadań$ -Wyczyściłem/am podzespoły komputera, wymieniłem/am pastę termoprzewodzącą pod procesorem i/lub kratą graficzną;-Wymieniłem/am w nim dysk i/lub pamięć RAM.Po wykonaniu tych działań, prawidłowo złożyłem/am komputer z powrotem."
     ],
     "type": "komputerowe",
     "img": "/img/sprawnosci/harcerskie/125.png"
@@ -1873,7 +1873,7 @@
       "Wraz z innymi wędrownikami współorganizowałem/am otwarty warsztat rowerowy, dokonując drobnych napraw, sprawdzania sprzętu przed sezonem oraz edukując na temat zasad bezpiecznego kolarstwa.",
       "Wziąłem/wzięłam udział w 3 zawodach/rajdach rowerowych.",
       "Współorganizowałem/am kilkudniową (przynajmniej 4 dni) wyprawę rowerową. Byłem/am odpowiedzialny/a za jeden z kluczowych aspektów wyprawy (nocleg, nawigacja, wyżywienie, zaplecze techniczne, pomoc przedmedyczna).",
-      "Wykonałem/am jedno z zadań$-Wziąłem/wzięłam udział w konsultacjach prowadzonych przez samorządy na temat ścieżek rowerowych i ruchu rowerowego.-Przez co najmniej pół roku współpracowałem/am z organizacją społeczną zajmującą się promocją ruchu rowerowego."
+      "Wykonałem/am jedno z zadań$ -Wziąłem/wzięłam udział w konsultacjach prowadzonych przez samorządy na temat ścieżek rowerowych i ruchu rowerowego.-Przez co najmniej pół roku współpracowałem/am z organizacją społeczną zajmującą się promocją ruchu rowerowego."
     ],
     "type": "terenoznawstwo, turystyka",
     "img": "/img/sprawnosci/harcerskie/134.png"
@@ -1885,9 +1885,9 @@
     "idea": "Poradził/a sobie w prostych sytuacjach domowych. Używał/a podstawowych narzędzi do prac domowych (młotek, igła, śrubokręt, obcęgi, nóż).",
     "tasks": [
       "Utrzymuję porządek w swoim pokoju.",
-      "Wykonałem/am za pomocą noża jedną z poniższych rzeczy z drewna lub kory$-użyteczny przedmiot do własnego pokoju lub harcówki,-prosty ekwipunek biwakowy, np. kubek, sztućce,-drewnianą ozdobę lub figurkę.",
+      "Wykonałem/am za pomocą noża jedną z poniższych rzeczy z drewna lub kory$ -użyteczny przedmiot do własnego pokoju lub harcówki,-prosty ekwipunek biwakowy, np. kubek, sztućce,-drewnianą ozdobę lub figurkę.",
       "Mocno i estetycznie przyszyłem/am łatę lub naszywkę oraz guzik.",
-      "Wykonałem/am jedno z poniższych zadań$-Oczyściłem/am i skleiłem/am lub zaimpregnowałem/am własne buty, np. wypastowałem/am stałą pastą skórzane powierzchnie.-Samodzielnie pod opieką dorosłych wymieniłem/am żarówkę z zachowaniem zasad bezpieczeństwa."
+      "Wykonałem/am jedno z poniższych zadań$ -Oczyściłem/am i skleiłem/am lub zaimpregnowałem/am własne buty, np. wypastowałem/am stałą pastą skórzane powierzchnie.-Samodzielnie pod opieką dorosłych wymieniłem/am żarówkę z zachowaniem zasad bezpieczeństwa."
     ],
     "type": "gospodarcze",
     "img": "/img/sprawnosci/harcerskie/135.png"
@@ -1899,9 +1899,9 @@
     "idea": "Wykonał/a proste potrzebne dla domu prace manualne i techniczne.",
     "tasks": [
       "Mam stały obowiązek domowy związany z obsługą urządzeń technicznych (np. pralka, zmywarka, odkurzacz) i wywiązuję się z niego.",
-      "Potrafię posługiwać się śrubokrętem, wykonałem/am jedno z poniższych zadań$-Pomogłem/am skręcać meble.-Wymieniłem/am baterie w zabawce, która ma klapkę na baterie zamkniętą na śrubki.-Pod nadzorem osoby dorosłej rozkręciłem/am, wyczyściłem/am i skręciłem/am urządzenie, np. laptop.",
-      "Wykonałem/am jedno z poniższych zadań$-Zbudowałem/am według schematu prosty obwód elektryczny z użyciem połączeń lutowanych.-Zainstalowałem/am lub wymieniłem/am gniazdko elektryczne lub włącznik światła z zachowaniem zasad bezpieczeństwa i pod nadzorem.-W obecności dorosłych samodzielnie złożyłem/am mebel na podstawie dołączonej instrukcji.",
-      "Używając materiałów pochodzących z recyklingu, uszyłem/am jedną z poniższych rzeczy$-element ubioru lub akcesorium, z którego później korzystałem/am, np. torba na zakupy, pokrowiec na tablet/telefon, worek na WF,-zabawkę."
+      "Potrafię posługiwać się śrubokrętem, wykonałem/am jedno z poniższych zadań$ -Pomogłem/am skręcać meble.-Wymieniłem/am baterie w zabawce, która ma klapkę na baterie zamkniętą na śrubki.-Pod nadzorem osoby dorosłej rozkręciłem/am, wyczyściłem/am i skręciłem/am urządzenie, np. laptop.",
+      "Wykonałem/am jedno z poniższych zadań$ -Zbudowałem/am według schematu prosty obwód elektryczny z użyciem połączeń lutowanych.-Zainstalowałem/am lub wymieniłem/am gniazdko elektryczne lub włącznik światła z zachowaniem zasad bezpieczeństwa i pod nadzorem.-W obecności dorosłych samodzielnie złożyłem/am mebel na podstawie dołączonej instrukcji.",
+      "Używając materiałów pochodzących z recyklingu, uszyłem/am jedną z poniższych rzeczy$ -element ubioru lub akcesorium, z którego później korzystałem/am, np. torba na zakupy, pokrowiec na tablet/telefon, worek na WF,-zabawkę."
     ],
     "type": "gospodarcze",
     "img": "/img/sprawnosci/harcerskie/136.png"
@@ -1913,9 +1913,9 @@
     "idea": "Wykonał/a zaawansowane prace manualne i techniczne przydatne w domu.",
     "tasks": [
       "Rzetelnie wykonuję swoje obowiązki domowe. Zdobyłem/am nową umiejętność przydatną w gospodarstwie domowym (np. umiejętność obsługi pralki, zmywarki, odkurzacza).",
-      "Wykonałem/am jedno z poniższych zadań$-Zbudowałem/am z własnoręcznie docinanych elementów drewnianą konstrukcję z użyciem wkrętów i gwoździ (np. regał do piwnicy, skrzynię z wiekiem).-Zbudowałem/am z własnoręcznie docinanych elementów drewnianą konstrukcję z drewna naturalnego bez użycia wkrętów, gwoździ i innych metalowych elementów (np. obozową tablicę ogłoszeń, stanowisko ppoż., regał do namiotu).",
-      "Wykonałem/am jedno z poniższych zadań$-Zakonserwowałem/am (zabezpieczyłem przed szybszym zużyciem/zniszczeniem) jeden ze swoich sprzętów, który używam na co dzień.-Zakonserwowałem/am swój rower na zimę lub dokonałem/am prostej naprawy (np. nasmarowanie łańcucha, zmiana opony, naklejenie łaty na dętkę).",
-      "Wykonałem/am jedno z poniższych zadań$-Dokonałem/am modyfikacji krawieckiej ubioru, który następnie normalnie nosiłem/am (np. skrócenie nogawki spodni, zwężenie bluzki/koszuli).-Samodzielnie przytwierdziłem/łam do murowanej ściany np. półkę lub obraz, nawiercając otwory i prawidłowo stosując kołek.",
+      "Wykonałem/am jedno z poniższych zadań$ -Zbudowałem/am z własnoręcznie docinanych elementów drewnianą konstrukcję z użyciem wkrętów i gwoździ (np. regał do piwnicy, skrzynię z wiekiem).-Zbudowałem/am z własnoręcznie docinanych elementów drewnianą konstrukcję z drewna naturalnego bez użycia wkrętów, gwoździ i innych metalowych elementów (np. obozową tablicę ogłoszeń, stanowisko ppoż., regał do namiotu).",
+      "Wykonałem/am jedno z poniższych zadań$ -Zakonserwowałem/am (zabezpieczyłem przed szybszym zużyciem/zniszczeniem) jeden ze swoich sprzętów, który używam na co dzień.-Zakonserwowałem/am swój rower na zimę lub dokonałem/am prostej naprawy (np. nasmarowanie łańcucha, zmiana opony, naklejenie łaty na dętkę).",
+      "Wykonałem/am jedno z poniższych zadań$ -Dokonałem/am modyfikacji krawieckiej ubioru, który następnie normalnie nosiłem/am (np. skrócenie nogawki spodni, zwężenie bluzki/koszuli).-Samodzielnie przytwierdziłem/łam do murowanej ściany np. półkę lub obraz, nawiercając otwory i prawidłowo stosując kołek.",
       "Wykonałem/am przedmiot użyteczny w działaniach drużyny lub szczepu."
     ],
     "type": "gospodarcze",
@@ -1927,7 +1927,7 @@
     "level": "****",
     "idea": "Wykonał/a zaawansowane prace manualne i techniczne, używając potrzebnych narzędzi i elektronarzędzi. Naprawił/a urządzenie domowe.",
     "tasks": [
-      "Wykonałem/am jedno z poniższych zadań$-Zaprojektowałem/am i wykonałem/am drewnianą konstrukcję pionierską z drewna naturalnego utrzymującą ciężar kilku osób (np. wartownię obozową, pomost kąpielowy) bez użycia wkrętów, gwoździ i innych metalowych elementów.-Zaprojektowałem/am i wykonałem/am z surowych materiałów solidny i estetyczny mebel (np. stolik, regał na wymiar z półkami, ławkę do harcówki) wykorzystywany następnie w domu/mieszkaniu/harcówce.-Zaprojektowałem/am i wykonałem/am metalową konstrukcję, wykorzystując połączenia śrubowe i spawane (np. metalowy stolik, stojak na sztandar, wyspecjalizowane narzędzie do warsztatu, stojak na rower do komórki na zimę).",
+      "Wykonałem/am jedno z poniższych zadań$ -Zaprojektowałem/am i wykonałem/am drewnianą konstrukcję pionierską z drewna naturalnego utrzymującą ciężar kilku osób (np. wartownię obozową, pomost kąpielowy) bez użycia wkrętów, gwoździ i innych metalowych elementów.-Zaprojektowałem/am i wykonałem/am z surowych materiałów solidny i estetyczny mebel (np. stolik, regał na wymiar z półkami, ławkę do harcówki) wykorzystywany następnie w domu/mieszkaniu/harcówce.-Zaprojektowałem/am i wykonałem/am metalową konstrukcję, wykorzystując połączenia śrubowe i spawane (np. metalowy stolik, stojak na sztandar, wyspecjalizowane narzędzie do warsztatu, stojak na rower do komórki na zimę).",
       "Korzystając ze wskazówek fachowca, samodzielnie naprawiłem/am niesprawne urządzenie domowe (np. zmywarkę, odkurzacz), pamiętając o tym, by nie utracić gwarancji producenta.",
       "Zaprojektowałem/am i uszyłem/am solidny i estetyczny element ubioru (bluzkę, spodnie, spódnicę) lub akcesorium (torbę, plecak itp.), które następnie wykorzystywałem/am w codziennym życiu."
     ],
@@ -1942,7 +1942,7 @@
     "tasks": [
       "Wykonałem/am co najmniej 3 ozdobne strony do kroniki (np. stronę tytułową, wpisy zawierające ozdobne inicjały, rysunki itp.) trzema różnymi stylami i technikami lub trzy ilustracje na potrzeby drużyny, do swojego śpiewnika czy na potrzeby szkoły lub domu.",
       "Wykonałem/am drobne przedmioty ozdobne z prostych materiałów (karton, tworzywo leśne, sznurek owoce itp.) -na przykład zdobnictwo obozowe, rekwizyty do zbiórki, ozdoby na choinkę itd.",
-      "Umiem posługiwać się farbami, wykorzystując resztki farb do końca zrealizowałem jedno z poniższych zadań$-wykonałem/am ozdobny napis właściwie zestawiając kolory;-namalowałem/am obraz wypróbowując różne metody nakładania farby (mokry pędzel/suchy pędzel, kawałek kartonu/gąbka lub dowolne inne).Ważne: w zadaniu chodzi o kreatywność, nie o technikę!"
+      "Umiem posługiwać się farbami, wykorzystując resztki farb do końca zrealizowałem jedno z poniższych zadań$ -wykonałem/am ozdobny napis właściwie zestawiając kolory;-namalowałem/am obraz wypróbowując różne metody nakładania farby (mokry pędzel/suchy pędzel, kawałek kartonu/gąbka lub dowolne inne).Ważne: w zadaniu chodzi o kreatywność, nie o technikę!"
     ],
     "type": "artystyczne",
     "img": "/img/sprawnosci/harcerskie/139.png"
@@ -2107,7 +2107,7 @@
       "Poznałem/am najważniejsze wydarzenia z historii regionu. Wykonałem/am na ten temat prezentację multimedialną, którą wykorzystałem/am na zbiórce lub udostępniłem/am w mediach społecznościowych.",
       "Poznałem/am instytucje działające na rzecz regionu. Wziąłem/wzięłam udział w wydarzeniu regionalnym.",
       "Zaplanowałem/am i odbyłem/am wycieczkę tematyczną po regionie. Relację fotograficzną z mojej wyprawy przedstawiłem/am drużynie lub w mediach (np. społecznościowych).",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Oprowadziłem/am po wybranym obiekcie w regionie opowiadając o jego historycznym i gospodarczym/kulturowym znaczeniu w kontekście zmieniających się czasów.-Pokierowałem/am sporządzeniem informacji o walorach turystycznych okolicy/regionu na podstawie zajęć terenowych i literatury (geografia i historia okolicy, system połączeń komunikacyjnych, przemysł i rolnictwo, obiekty historyczne i przyrodnicze, sztuka, zwyczaje ludowe itp.)."
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Oprowadziłem/am po wybranym obiekcie w regionie opowiadając o jego historycznym i gospodarczym/kulturowym znaczeniu w kontekście zmieniających się czasów.-Pokierowałem/am sporządzeniem informacji o walorach turystycznych okolicy/regionu na podstawie zajęć terenowych i literatury (geografia i historia okolicy, system połączeń komunikacyjnych, przemysł i rolnictwo, obiekty historyczne i przyrodnicze, sztuka, zwyczaje ludowe itp.)."
     ],
     "type": "terenoznawstwo, turystyka",
     "img": "/img/sprawnosci/harcerskie/151.png"
@@ -2144,7 +2144,7 @@
     "level": "***",
     "idea": "Wykonuje kostiumy i detale scenograficzne. Kieruje wykonywaniem scenografii lub dekoracji.",
     "tasks": [
-      "Wykonałem jedno z poniższych zadań$-opracowałem/am scenografię do przedstawienia w sali i w plenerze, opracowałem/am rzuty do scenografii;-zorganizowałem/am wykonanie / pokierowałem/am zespołami wykonującymi dekorację wystawy lub innej imprezy kulturalnej.",
+      "Wykonałem jedno z poniższych zadań$ -opracowałem/am scenografię do przedstawienia w sali i w plenerze, opracowałem/am rzuty do scenografii;-zorganizowałem/am wykonanie / pokierowałem/am zespołami wykonującymi dekorację wystawy lub innej imprezy kulturalnej.",
       "Wykonałem/am detal scenograficzny, wykorzystując różne materiały.",
       "Wykonałem/am kilka różnych kostiumów do szkolnego lub harcerskiego przedstawienia."
     ],
@@ -2185,7 +2185,7 @@
     "level": "****",
     "idea": "Potrafi bezpiecznie poruszać się po szlakach górskich. Planuje i organizuje wycieczki górskie.",
     "tasks": [
-      "Wykonałem/am jedno z poniższych zadań$-uczestniczyłem/am w co najmniej jednym obozie wędrownym w górach;-nocowałem/am w trzech różnych schroniskach górskich w czasie jednej wędrówki.",
+      "Wykonałem/am jedno z poniższych zadań$ -uczestniczyłem/am w co najmniej jednym obozie wędrownym w górach;-nocowałem/am w trzech różnych schroniskach górskich w czasie jednej wędrówki.",
       "Zdobyłem/am co najmniej 2 szczyty (w różnych pasmach górskich) powyżej 1300 m n.p.m.",
       "Zaplanowałem/am dwudniową wycieczkę turystyczną w góry z uwzględnieniem mapy, noclegu górskiego, czasu przejścia oraz możliwości fizycznych uczestników, a także minimum dwóch miejsc istotnych historycznie bądź kulturowo, o których zostanie, podczas wycieczki, opowiedziana gawęda.",
       "Zorganizowałem/am prelekcję na temat swojej wędrówki/wędrówek w górach dla drużyny/klasy/klubu wspinaczkowego, itp. z wykorzystaniem zdjęć, map, fachowej literatury itp. (ewentualnie dłuższa relacja w mediach np. społecznościowych)."
@@ -2201,7 +2201,7 @@
     "tasks": [
       "Poprowadziłem/am kilka ognisk i kominków. Ustaliłem/am scenariusz, umiejętnie dobrałem/am repertuar, zaintonowałem/am piosenki.",
       "Przewodziłem/am w śpiewie drużyny podczas zbiórek i w czasie wycieczek.",
-      "Wykonałem/am jedno z poniższych zadań$-poprowadziłem jako konferansjer festiwal piosenki, w czasie którego wprowadziłem/am ciekawe przerywniki;-zorganizowałem/am z zespołem bal harcerski lub zabawę taneczną, w czasie których prowadziłem/am ciekawe konkursy i zabawy."
+      "Wykonałem/am jedno z poniższych zadań$ -poprowadziłem jako konferansjer festiwal piosenki, w czasie którego wprowadziłem/am ciekawe przerywniki;-zorganizowałem/am z zespołem bal harcerski lub zabawę taneczną, w czasie których prowadziłem/am ciekawe konkursy i zabawy."
     ],
     "type": "artystyczne",
     "img": "/img/sprawnosci/harcerskie/158.png"
@@ -2240,7 +2240,7 @@
     "idea": "Zyskał/a mistrzostwo w wybranym rodzaju rękodzieła. Swoją pasją stara się zarazić innych.",
     "tasks": [
       "Regularnie doskonalę swoje umiejętności w wybranej dziedzinie rękodzieła (uczestniczę w warsztatach, korzystam z tutoriali w Internecie). Nawiązałem/am regularny kontakt z co najmniej jedną osobą mającą takie same zainteresowania, z którą wymieniamy się pomysłami.",
-      "Wykonałem jedno z poniższych zadań$-zorganizowałem/am i poprowadziłem w zastępie lub drużynie cykl 2-3 zbiórek/zajęć dla chętnych podczas których, wykorzystując swój warsztat narzędzi, nauczyłem podstawowych technik potrzebnych w danym rękodziele, a moi podopieczni wykonali co najmniej dwa różne przedmioty.-Prowadzę swój kanał na YouTube lub bloga DIY, na którym zamieściłem/am co najmniej 5 tutoriali.",
+      "Wykonałem jedno z poniższych zadań$ -zorganizowałem/am i poprowadziłem w zastępie lub drużynie cykl 2-3 zbiórek/zajęć dla chętnych podczas których, wykorzystując swój warsztat narzędzi, nauczyłem podstawowych technik potrzebnych w danym rękodziele, a moi podopieczni wykonali co najmniej dwa różne przedmioty.-Prowadzę swój kanał na YouTube lub bloga DIY, na którym zamieściłem/am co najmniej 5 tutoriali.",
       "Urządziłem/am wystawę lub aukcję wykonanych przez siebie ozdób oraz przedmiotów użytkowych, na których znalazło się co najmniej 15 eksponatów.",
       "Wykonałem/am praktyczny element do wyposażenia harcówki."
     ],
@@ -2310,7 +2310,7 @@
     "idea": "Bierze udział w przedstawieniach teatrzyku lalkowego, animując wybrany rodzaj lalki. Współtworzy przedstawienia odpowiadając za wybrane aspekty techniczne (wykonywanie lalek, dekoracji, instalacji, efektów).",
     "tasks": [
       "Obejrzałem/am kilka spektaklów w teatrze lalek lub lalkowych programów telewizyjnych poznając teatr cieni i teatr przedmiotu, a także różne rodzaje lalek (np. kukły, pacynki, marionetki, jawajki, bunkaku, maski, lalki cieniowe).",
-      "Zorganizowałem/am wraz z zastępem przedstawienie lalkowe dla rodziców, zuchów, kolegów z drużyny lub szkoły. Wykonałem/am jedno z poniższych zadań$-wykonałem/am lalki;-urządziłem/am scenę: przygotowałem/am dekoracje lub instalację oświetleniową.",
+      "Zorganizowałem/am wraz z zastępem przedstawienie lalkowe dla rodziców, zuchów, kolegów z drużyny lub szkoły. Wykonałem/am jedno z poniższych zadań$ -wykonałem/am lalki;-urządziłem/am scenę: przygotowałem/am dekoracje lub instalację oświetleniową.",
       "Zagrałem/am rolę w teatrzyku lalkowym, animując lalką np. kukłą, pacynką, marionetką, jawajką, bunkaku, maską, lalką cieniową.",
       "Wywołałem/am w czasie występu efekty dźwiękowe (deszcz, burza, odgłosy zwierząt)."
     ],
@@ -2352,7 +2352,7 @@
     "idea": "Wspiera innych w doskonaleniu umiejętności uczenia się. Rozumie mechanizmy uczenia się mózgu i zna metody wspierania ich.",
     "tasks": [
       "W ramach zbiórki zorganizowałem/am formę przyswajania wiedzy, która była jednocześnie dobrą zabawą.",
-      "Wykonałem jedno z poniższych zadań$-zorganizowałem/am i poprowadziłem w zastępie zbiórkę/zbiórki poświęcone metodom zapamiętywania i efektywnego uczenia się,-zorganizowałem/am zajęcia dla osób starszych zainteresowanych ćwiczeniami mnemotechnicznymi.",
+      "Wykonałem jedno z poniższych zadań$ -zorganizowałem/am i poprowadziłem w zastępie zbiórkę/zbiórki poświęcone metodom zapamiętywania i efektywnego uczenia się,-zorganizowałem/am zajęcia dla osób starszych zainteresowanych ćwiczeniami mnemotechnicznymi.",
       "Wiem, co oznacza termin neuroplastyczność mózgu. Przez czas trwania próby stosowałem/am dietę, która pomaga mojemu mózgowi lepiej działać.",
       "Wiem, jak endorfiny pomagają w zapamiętywaniu. Wypracowałem/am metody zwiększenia poziomu endorfin w trakcie nauki, które działają na mnie (np. słucham ulubionej muzyki, robię notatki rysunkowe, bo rysowanie sprawia mi przyjemność, jem ulubione przekąski, uczę się w ruchu)."
     ],
@@ -2487,8 +2487,8 @@
     "idea": "Zyskał/a mistrzostwo w wybranym rodzaju rękodzieła. Swoją pasją stara się zarazić innych.",
     "tasks": [
       "Regularnie doskonalę swoje umiejętności w wybranej dziedzinie dziewiarstwa (uczestniczę w warsztatach, korzystam z tutoriali w Internecie). W swoich pracach zastosowałem/am co najmniej 15 ściegów lub węzłów. Nawiązałem/am regularny kontakt z co najmniej jedną osobą mającą takie same zainteresowania, z którą wymieniamy się pomysłami.",
-      "Wykonałem jedno z poniższych zadań$-zorganizowałem/am i poprowadziłem w zastępie lub drużynie cykl 2-3 zbiórek/zajęć dla chętnych podczas których, wykorzystując swój warsztat narzędzi, nauczyłem/am podstawowych technik dziewiarskich, a moi podopieczni wykonali co najmniej dwa różne przedmioty;-prowadzę swój kanał na YouTube lub bloga, na którym zamieściłem/am co najmniej 5 tutoriali.",
-      "Urządziłem/am wystawę lub aukcję wykonanych przez siebie ozdób oraz przedmiotów użytkowych, na których znajdzie się co najmniej 15 eksponatów. Co najmniej 5 przedmiotów wykonałem/am na dużym poziomie zaawansowania, tzn. w przypadku$-szydełka: poncho, obrus ażurowy, zestaw serwetek, rękawiczki, figurki amigurumi, itp.,-drutów: sweter, poncho, sukienka, szal ażurowy, skarpety, rękawiczki, koc, itp., -makrama: makatka w kształcie sowy, torba, firanka, prycz, półka obozowa, żyrandol, itp"
+      "Wykonałem jedno z poniższych zadań$ -zorganizowałem/am i poprowadziłem w zastępie lub drużynie cykl 2-3 zbiórek/zajęć dla chętnych podczas których, wykorzystując swój warsztat narzędzi, nauczyłem/am podstawowych technik dziewiarskich, a moi podopieczni wykonali co najmniej dwa różne przedmioty;-prowadzę swój kanał na YouTube lub bloga, na którym zamieściłem/am co najmniej 5 tutoriali.",
+      "Urządziłem/am wystawę lub aukcję wykonanych przez siebie ozdób oraz przedmiotów użytkowych, na których znajdzie się co najmniej 15 eksponatów. Co najmniej 5 przedmiotów wykonałem/am na dużym poziomie zaawansowania, tzn. w przypadku$ -szydełka: poncho, obrus ażurowy, zestaw serwetek, rękawiczki, figurki amigurumi, itp.,-drutów: sweter, poncho, sukienka, szal ażurowy, skarpety, rękawiczki, koc, itp., -makrama: makatka w kształcie sowy, torba, firanka, prycz, półka obozowa, żyrandol, itp"
     ],
     "type": "gospodarcze",
     "img": "/img/sprawnosci/harcerskie/179.png"
@@ -2543,7 +2543,7 @@
     "tasks": [
       "Zorganizowałem/am uroczystość rodzinną lub przyjęcie dla znajomych na kilka osób, przygotowałem/am potrawy, zadbałem o odpowiednią oprawę przyjęcia (np. muzyka, nakrycia, wystrój).",
       "Przygotowałem/am dom/mieszkanie do dłuższej nieobecności, np. wyłączyłem/am wodę, gaz, zabezpieczyłem/am przed kradzieżą.",
-      "Przez minimum dwa tygodnie zajmowałem/am się prowadzeniem domu$-utrzymywałem/am czystość i porządek w mieszkaniu,-zorganizowałem/am tygodniowe zakupy według wcześniej przygotowanej listy,-przyrządzałem/am wszystkie posiłki zgodnie z opracowanym przez siebie tygodniowym jadłospisem."
+      "Przez minimum dwa tygodnie zajmowałem/am się prowadzeniem domu$ -utrzymywałem/am czystość i porządek w mieszkaniu,-zorganizowałem/am tygodniowe zakupy według wcześniej przygotowanej listy,-przyrządzałem/am wszystkie posiłki zgodnie z opracowanym przez siebie tygodniowym jadłospisem."
     ],
     "type": "gospodarcze",
     "img": "/img/sprawnosci/harcerskie/183.png"
@@ -2665,10 +2665,10 @@
     "level": "****",
     "idea": "Bezpiecznie porusza się po szlakach w górach w warunkach zimowych.",
     "tasks": [
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-spędziłem/am minimum 1 noc w warunkach zimowych w górach w namiocie, igloo, jamie śnieżnej odpowiednio zabezpieczając się przed zimnem,-sprawnie chodziłem/am w rakach w różnym terenie (mikstowym, śnieżnym, lodowym) oraz posługiwałem/am się czekanem przy hamowaniu upadku oraz samoasekuracji.",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -spędziłem/am minimum 1 noc w warunkach zimowych w górach w namiocie, igloo, jamie śnieżnej odpowiednio zabezpieczając się przed zimnem,-sprawnie chodziłem/am w rakach w różnym terenie (mikstowym, śnieżnym, lodowym) oraz posługiwałem/am się czekanem przy hamowaniu upadku oraz samoasekuracji.",
       "Zdobyłem/am co najmniej 3 szczyty powyżej 1300 m n.p.m. w tym co najmniej jeden zimą i co najmniej jeden powyżej 1500 m n.p.m.",
       "Zdobyłem/am 3 szczyty górskie w warunkach zimowych. Zapoznałem/am się z komunikatem lawinowym przed wyruszeniem na wędrówkę, jeśli była taka potrzeba, oraz dobrałem/am właściwy sprzęt turystyczny.",
-      "Wykonałem/am jedno z poniższych zadań$-uczestniczyłem/am w festiwalu górskim lub spotkaniu, np. Przeglądzie Filmów Górskich, Kolosach, itd.-zorganizowałem/am spotkanie z taternikiem/alpinistą/himalaistą dla wędrowników z mojego środowiska."
+      "Wykonałem/am jedno z poniższych zadań$ -uczestniczyłem/am w festiwalu górskim lub spotkaniu, np. Przeglądzie Filmów Górskich, Kolosach, itd.-zorganizowałem/am spotkanie z taternikiem/alpinistą/himalaistą dla wędrowników z mojego środowiska."
     ],
     "type": "terenoznawstwo, turystyka",
     "img": "/img/sprawnosci/harcerskie/192.png"
@@ -2707,7 +2707,7 @@
     "idea": "Prezentuje publicznie swoje umiejętności aktorskie. Bierze udział w przedstawieniach lub zajęciach teatralnych.",
     "tasks": [
       "Zaprezentowałem/am się przed publicznością w jednej z form aktorskich: monolog, dialog, pantomima, teatr radia, teatr lalek, teatr tańca.",
-      "Wykonałem/am jedno z poniższych zadań$-Wziąłem/wzięłam udział w warsztacie teatralnym.-Wziąłem/wzięłam udział w przedstawieniu /nagraniu filmu /słuchowisku przygotowanym przez drużynę.",
+      "Wykonałem/am jedno z poniższych zadań$ -Wziąłem/wzięłam udział w warsztacie teatralnym.-Wziąłem/wzięłam udział w przedstawieniu /nagraniu filmu /słuchowisku przygotowanym przez drużynę.",
       "Wybrałem/am jedną z ról mojego ulubionego aktora/aktorki i odtworzyłem/am jej kilkuminutowy fragment przed członkami zastępu. Zadbałem/am o odpowiedni kostium i charakteryzację."
     ],
     "type": "artystyczne",
@@ -2720,7 +2720,7 @@
     "idea": "Prezentuje się przed publicznością w różnych formach aktorskich. Bierze udział w poprzedzonych próbami przedstawieniach lub zajęciach kółka teatralnego.",
     "tasks": [
       "Zaprezentowałem/am się przed publicznością w trzech różnych formach aktorskich np. monolog, dialog, pantomima, teatr radia, teatr lalek, teatr tańca.",
-      "Wykonałem/am jedno z poniższych zadań$-uczęszczałem/am na zajęcia/warsztaty teatralne przynajmniej przez 3 miesiące;-wziąłem/wzięłam udział w poprzedzonym próbami przedstawieniu/nagraniu filmu/słuchowisku przygotowanym przez drużynę.",
+      "Wykonałem/am jedno z poniższych zadań$ -uczęszczałem/am na zajęcia/warsztaty teatralne przynajmniej przez 3 miesiące;-wziąłem/wzięłam udział w poprzedzonym próbami przedstawieniu/nagraniu filmu/słuchowisku przygotowanym przez drużynę.",
       "Wybrałem/am jedną z klasycznych ról (np. z dzieł Sofoklesa, Szekspira, Mickiewicza, Słowackiego, itp.) i odtworzyłem/am jej kilkuminutowy fragment przed członkami zastępu. Zadbałem/am o odpowiedni kostium i charakteryzację."
     ],
     "type": "artystyczne",
@@ -2802,7 +2802,7 @@
     "tasks": [
       "Rozpoznaję 6 podstawowych nowożytnych stylów w architekturze. Odwiedziłem/am znajdujące się w okolicy budowle charakterystyczne dla tych stylów i wypromowałem/am je w swoim środowisku poprzez fotorelację.",
       "Zorganizowałem/am wyprawę zastępu lub drużyny do ciekawego obiektu, opowiedziałem/am o cechach charakterystycznych tej budowli, jej stylu i historii.",
-      "Wykonałem/am jedno z poniższych zadań$-korzystając z programu do planowania przestrzeni lub odręcznie zaprojektowałem/am optymalne umeblowanie dla jednego pomieszczenia (np. swojego pokoju);-zaaranżowałem/am przestrzeń w jednym pomieszczeniu (np. harcówce) dobierając kolory ścian i elementy wystroju."
+      "Wykonałem/am jedno z poniższych zadań$ -korzystając z programu do planowania przestrzeni lub odręcznie zaprojektowałem/am optymalne umeblowanie dla jednego pomieszczenia (np. swojego pokoju);-zaaranżowałem/am przestrzeń w jednym pomieszczeniu (np. harcówce) dobierając kolory ścian i elementy wystroju."
     ],
     "type": "artystyczne",
     "img": "/img/sprawnosci/harcerskie/202.png"
@@ -2815,7 +2815,7 @@
     "tasks": [
       "Poznałem/am dzieła przynajmniej 5 twórców stylu, który lubię najbardziej. Wypromowałem/am je w swoim środowisku poprzez fotorelację z własnych podróży.",
       "Zorganizowałem/am wyprawę zastępu lub drużyny do innej miejscowości w celu zwiedzenia ciekawych budowli jednego ze swoich ulubionych architektów. Opowiedziałem/am zarówno o cechach charakterystycznych tej budowli i jej historii, jak i o innych dziełach tego twórcy, które podziwiam.",
-      "Wykonałem/am jedno z poniższych zadań$-korzystając z programu do planowania przestrzeni lub odręcznie zaprojektowałem/am kompleksowe umeblowanie dla mieszkania/domu;-zaaranżowałem/am przestrzeń w mieszkaniu/domu dobierając kolory ścian i elementy wystroju."
+      "Wykonałem/am jedno z poniższych zadań$ -korzystając z programu do planowania przestrzeni lub odręcznie zaprojektowałem/am kompleksowe umeblowanie dla mieszkania/domu;-zaaranżowałem/am przestrzeń w mieszkaniu/domu dobierając kolory ścian i elementy wystroju."
     ],
     "type": "artystyczne",
     "img": "/img/sprawnosci/harcerskie/203.png"
@@ -2939,7 +2939,7 @@
     "tasks": [
       "Poznałem/am daty polskich świąt narodowych. Wiem, na pamiątkę jakich wydarzeń zostały ustanowione. Przygotowałem/am z zastępem zbiórkę z okazji jednego z nich.",
       "Wskazałem/am na mapie krainy geograficzne Polski. Jedną z nich zaprezentowałem/am na zbiórce zastępu.",
-      "Poznałem/am zasady demokratycznych wyborów i etapy podejmowania decyzji. Wykonałem/am co najmniej jedno z zadań$-Przedstawiłem/am swoja sprawę na Radzie Drużyny. -Po wcześniejszym poznaniu programów wyborczych kandydatów, wziąłem/wzięłam udział w głosowaniu w wyborach do samorządu uczniowskiego.",
+      "Poznałem/am zasady demokratycznych wyborów i etapy podejmowania decyzji. Wykonałem/am co najmniej jedno z zadań$ -Przedstawiłem/am swoja sprawę na Radzie Drużyny. -Po wcześniejszym poznaniu programów wyborczych kandydatów, wziąłem/wzięłam udział w głosowaniu w wyborach do samorządu uczniowskiego.",
       "Znam obszar swojej gminy. Posługując się planem swojej okolicy, dotarłem/am do urzędu gminy/miasta i dowiedziałem/am się, jakie sprawy można w nim załatwić."
     ],
     "type": "społeczne i religijne",
@@ -2981,7 +2981,7 @@
     "idea": "Posiada podstawową wiedzę na temat Unii Europejskiej, jej symboli i państw do niej należących. Swoją wiedzą dzieli się z rówieśnikami.",
     "tasks": [
       "Dowiedziałem/am się, czym jest Unia Europejska i od kiedy należy do niej Polska. Zdobyłem/am różne ciekawostki dotyczące państw należących do UE. Zaprezentowałem/am je w ciekawej formie rówieśnikom.",
-      "Poznałem/am najważniejsze symbole Unii Europejskiej. Wykonałem/am jedno z zadań$-Odśpiewałem/am hymn Unii Europejskiej.-Zagrałem/am hymn Unii Europejskiej na instrumencie.-Wykonałem/am flagę europejską.",
+      "Poznałem/am najważniejsze symbole Unii Europejskiej. Wykonałem/am jedno z zadań$ -Odśpiewałem/am hymn Unii Europejskiej.-Zagrałem/am hymn Unii Europejskiej na instrumencie.-Wykonałem/am flagę europejską.",
       "Wiem, jakie kraje z najbliższego otoczenia mojego kraju są członkami Unii Europejskiej. Przygotowałem/am mapę Polski z zaznaczonymi zewnętrznymi granicami UE, które pokrywają się z granicami Polski."
     ],
     "type": "społeczne i religijne",
@@ -3007,7 +3007,7 @@
     "idea": "Wie, czym jest integracja europejska oraz jakie obejmuje działania. Propaguje wśród grupy rówieśniczej wiedzę o kulturze innych państw UE.",
     "tasks": [
       "Dowiedziałem/am się, czym była Deklaracja Schumana i jakie miała znaczenie w pokojowym jednoczeniu kontynentu. Wcieliłem/am się w rolę historyka i stworzyłem/am krótką notatkę przedstawiającą główne etapy tworzenia Unii Europejskiej. Dowiedziałem/am się, jakie kraje starają się obecnie przystąpić do Unii Europejskiej i jakie jeszcze warunki muszą spełnić. Wyniki swojej pracy zaprezentowałem/am publicznie.",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Zapoznałem/am się z różnymi kulturami krajów należących do Unii Europejskiej uwzględniając zwyczaje, obrzędy i stroje ludowe. Przygotowałem/am na ten temat materiał, który został opublikowany.-Przeprowadziłem/am warsztaty wymiany międzykulturowej z drużyną z innego kraju UE.-Brałem/am udział w wydarzeniu propagującym kulturę państw członkowskich UE (np. Festiwal Kultury Europy).",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Zapoznałem/am się z różnymi kulturami krajów należących do Unii Europejskiej uwzględniając zwyczaje, obrzędy i stroje ludowe. Przygotowałem/am na ten temat materiał, który został opublikowany.-Przeprowadziłem/am warsztaty wymiany międzykulturowej z drużyną z innego kraju UE.-Brałem/am udział w wydarzeniu propagującym kulturę państw członkowskich UE (np. Festiwal Kultury Europy).",
       "Dowiedziałem/am się, jakie wymogi należy spełnić, aby podróżować w Strefie Schengen. Zaplanowałem/am wycieczkę do jednego kraju ze strefy Schengen, uwzględniając walory turystyczne."
     ],
     "type": "społeczne i religijne",
@@ -3063,7 +3063,7 @@
       "Na zbiórce zastępu lub drużyny zaprezentowałem/am w ciekawy sposób ideę i najważniejsze działania ruchu ekumenicznego, bazując na dokumentach Światowej Rady Kościołów lub Polskiej Rady Ekumenicznej. Przedstawiłem/am idee i sposób działania Wspólnoty z Taizé.",
       "Wziąłem/wzięłam udział w nabożeństwie w ramach Światowego Tygodnia Modlitw o Jedność Chrześcijan, Europejskiego Spotkania Młodych lub w innym nabożeństwie ekumenicznym. Porozmawiałem/am z kilkorgiem jego uczestników o powodach, dla których zdecydowali się na udział.",
       "W odniesieniu do trzech Kościołów działających w Polsce (prawosławnego, rzymskokatolickiego i jednego z Kościołów ewangelickich), odszukałem/am najważniejsze informacje dotyczące zasad ich wiary: problematyki usprawiedliwienia, relacji człowieka z Bogiem i Kościołem, najważniejszych świąt, struktury, sposobu działania, największych ośrodków i sposobów prowadzenia działalności dobroczynnej. Zrobiłem/am to, zapoznając się z ich stronami internetowymi. Zastanowiłem/am się nad tym, jakie elementy są dla nich wspólne i pozwalają na współpracę.",
-      "Wykonałem/am jedno z zadań$-Poznałem/am główne spory teologiczne w obrębie chrześcijaństwa. Zastanowiłem/am się nad ich konsekwencjami dla funkcjonowania społeczeństw. Poznałem/am najważniejsze inicjatywy na rzecz jedności chrześcijan. Przeprowadziłem/am w szczepie lub hufcu dyskusję na ten temat.-Poznałem/am ideę i historię ruchu ekumenicznego, w tym trudności, które w nim występują (np. relacje między Kościołami prawosławnymi a Kościołami ewangelickimi, negatywne nastawienie do idei ekumenizmu, problemy z różnym rozumieniem pojęć teologicznych). Podjąłem/podjęłam refleksję na temat ich źródeł, w tym uwarunkowań kulturowych i społecznych. Przeprowadziłem/am w szczepie lub hufcu dyskusję na temat trudności i przyszłości ekumenizmu."
+      "Wykonałem/am jedno z zadań$ -Poznałem/am główne spory teologiczne w obrębie chrześcijaństwa. Zastanowiłem/am się nad ich konsekwencjami dla funkcjonowania społeczeństw. Poznałem/am najważniejsze inicjatywy na rzecz jedności chrześcijan. Przeprowadziłem/am w szczepie lub hufcu dyskusję na ten temat.-Poznałem/am ideę i historię ruchu ekumenicznego, w tym trudności, które w nim występują (np. relacje między Kościołami prawosławnymi a Kościołami ewangelickimi, negatywne nastawienie do idei ekumenizmu, problemy z różnym rozumieniem pojęć teologicznych). Podjąłem/podjęłam refleksję na temat ich źródeł, w tym uwarunkowań kulturowych i społecznych. Przeprowadziłem/am w szczepie lub hufcu dyskusję na temat trudności i przyszłości ekumenizmu."
     ],
     "type": "społeczne i religijne",
     "img": "/img/sprawnosci/harcerskie/221.png"
@@ -3186,9 +3186,9 @@
     "tasks": [
       "Podczas zbiórki zastępu zaprezentowałem/am cechy, jakimi powinni charakteryzować się dziennikarze oraz zasady, jakie obowiązują w ich zawodzie. Zaprezentowałem/am przykład rzetelnego dziennikarza/reportera.",
       "Przygotowałem/am relacje z biwaku, obozu drużyny lub innego dłuższego wyjazdu. Upubliczniłem/am je na blogu/fanpage lub stronie drużyny.",
-      "Wykonałem/am jedno z poniższych zadań$-Zapoznałem/am się z czterema reportażami (np. wojennymi, podróżniczymi);-Zapoznałem/am się z sześcioma felietonami na interesujący mnie temat.",
-      "Wykonałem/am jedno z poniższych zadań$-Przeprowadziłem/am wywiad z nauczycielem/specjalistą dotyczący jego pracy/pasji. Omówiłem/am swoje wyniki w zastępie/drużynie;-Wcieliłem/am się w rolę komentatora sportowego podczas meczu drużyny lub szkoły.",
-      "Wykonałem/am jedno z poniższych zadań$-Poznałem/am zasady edycji i korekty tekstów, stosując je w swoich artykułach. Napisałem/am artykuł do gazetki szkolnej lub hufcowej;-Wykonałem/am fotoreportaż, publikując go w gazetce szkolnej lub hufcowej."
+      "Wykonałem/am jedno z poniższych zadań$ -Zapoznałem/am się z czterema reportażami (np. wojennymi, podróżniczymi);-Zapoznałem/am się z sześcioma felietonami na interesujący mnie temat.",
+      "Wykonałem/am jedno z poniższych zadań$ -Przeprowadziłem/am wywiad z nauczycielem/specjalistą dotyczący jego pracy/pasji. Omówiłem/am swoje wyniki w zastępie/drużynie;-Wcieliłem/am się w rolę komentatora sportowego podczas meczu drużyny lub szkoły.",
+      "Wykonałem/am jedno z poniższych zadań$ -Poznałem/am zasady edycji i korekty tekstów, stosując je w swoich artykułach. Napisałem/am artykuł do gazetki szkolnej lub hufcowej;-Wykonałem/am fotoreportaż, publikując go w gazetce szkolnej lub hufcowej."
     ],
     "type": "społeczne i religijne",
     "img": "/img/sprawnosci/harcerskie/230.png"
@@ -3200,9 +3200,9 @@
     "idea": "Rozumie znaczenie środków masowego przekazu dla zachowania wolności słowa. Wykorzystuje media, aby zdobyć potrzebne informacje. Wie, co to jest czwarta władza, na czym polega linia programowa redakcji i dostrzega rolę manipulacji w mediach. Świadomie upublicznia wytworzone przez siebie materiały.",
     "tasks": [
       "Przeprowadziłem/am debatę na temat znaczenia środków masowego przekazu dla zachowania wolności słowa. Przeanalizowałem/am sytuację prawną dziennikarzy. W czasie debaty wziąłem/am pod uwagę represje wobec dziennikarzy ze strony różnych państw.",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Napisałem/am minimum dwa artykuły do gazetki hufcowej lub prasy lokalnej;-Nakręciłem/am reportaż, który zaprezentowałem/am na forum szczepowym/hufcowym o problemach dotyczących mojego najbliższego środowiska lokalnego;-Sprawdziłem/am na YouTube kanały prowadzone przez harcerzy. Udało mi się nawiązać z nimi współpracę, tworząc wspólny film.",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Napisałem/am minimum dwa artykuły do gazetki hufcowej lub prasy lokalnej;-Nakręciłem/am reportaż, który zaprezentowałem/am na forum szczepowym/hufcowym o problemach dotyczących mojego najbliższego środowiska lokalnego;-Sprawdziłem/am na YouTube kanały prowadzone przez harcerzy. Udało mi się nawiązać z nimi współpracę, tworząc wspólny film.",
       "Porównałem/am wiadomości dotyczące mojego kraju i świata na podstawie dwóch mediów o przeciwnych liniach programowych. Swoje przemyślenia przedstawiłem/am na forum drużyny.",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Znalazłem/am minimum 10 przykładów działań public relations, wykorzystujące, m.in. technikę spinu (socjotechnika) i czarny PR. Przedstawiłem/am własne spostrzeżenia na forum drużyny/szczepu;-Przeanalizowałem/am rolę plakatów, memów oraz motywatorów jako środków masowego przekazu. Przedstawiłem/am własne spostrzeżenia na forum drużyny/szczepu;-Porównałem/am gazety z XIX w., np. „Kurier Warszawski”, „Czas”, „Dziennik Wileński” ze współczesnymi gazetami. Znalezione podobieństwa i różnice przedstawiłem/am na forum drużyny/szczepu;-Porównałem/am twórczość kilku różnych youtuberów, m.in. jak tworzą kontent i wchodzą w kontakt ze swoimi odbiorcami. Przedstawiłem/am własne spostrzeżenia na forum drużyny/szczepu."
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Znalazłem/am minimum 10 przykładów działań public relations, wykorzystujące, m.in. technikę spinu (socjotechnika) i czarny PR. Przedstawiłem/am własne spostrzeżenia na forum drużyny/szczepu;-Przeanalizowałem/am rolę plakatów, memów oraz motywatorów jako środków masowego przekazu. Przedstawiłem/am własne spostrzeżenia na forum drużyny/szczepu;-Porównałem/am gazety z XIX w., np. „Kurier Warszawski”, „Czas”, „Dziennik Wileński” ze współczesnymi gazetami. Znalezione podobieństwa i różnice przedstawiłem/am na forum drużyny/szczepu;-Porównałem/am twórczość kilku różnych youtuberów, m.in. jak tworzą kontent i wchodzą w kontakt ze swoimi odbiorcami. Przedstawiłem/am własne spostrzeżenia na forum drużyny/szczepu."
     ],
     "type": "społeczne i religijne",
     "img": "/img/sprawnosci/harcerskie/231.png"
@@ -3311,7 +3311,7 @@
     "idea": "Poznaje historię swojej rodziny.",
     "tasks": [
       "Odtworzyłem/am drzewo genealogiczne swojej rodziny przynajmniej trzy pokolenia wstecz, korzystając np. z dokumentów rodzinnych.",
-      "Wykonałem/am co najmniej jedno zadanie$-Uporządkowałem/am album rodzinny -opisałem/am zdjęcia i ułożyłem/am je chronologicznie.-Ze zdjęć rodziny zrobiłem/am prezentację multimedialną i pokazałem/am na uroczystości rodzinnej.",
+      "Wykonałem/am co najmniej jedno zadanie$ -Uporządkowałem/am album rodzinny -opisałem/am zdjęcia i ułożyłem/am je chronologicznie.-Ze zdjęć rodziny zrobiłem/am prezentację multimedialną i pokazałem/am na uroczystości rodzinnej.",
       "Prowadziłem/am kronikę rodziny. Zapisałem/am w niej np. kilka ciekawych rodzinnych przygód, wywiady przeprowadzone ze starszymi członkami rodziny, słowniczek pierwszych słów młodszego rodzeństwa."
     ],
     "type": "naukowe",
@@ -3338,8 +3338,8 @@
     "idea": "Propaguje genealogię jako sposób na poznawanie historii Polski przez dzieje własnej rodziny.",
     "tasks": [
       "Rozbudowałem/am drzewo genealogiczne swojej rodziny do przynajmniej czterech pokoleń wstecz.",
-      "Wykonałem/am co najmniej jedno zadanie$-Wykorzystałem/am jeden z serwisów umożliwiający budowę drzewa genealogicznego do umieszczenia swojego w Internecie. Zaprosiłem/am innych członków rodziny do korzystania z niego.-Opracowałem/am swoje drzewo genealogiczne w bogatej oprawie graficznej.",
-      "Wykonałem/am co najmniej jedno zadanie$-Skorzystałem/am z zasobów archiwum państwowego, kościelnego lub prywatnego, aby uzupełnić wiedzę zawartą w moim drzewie genealogicznym.-Skorzystałem/am z zasobów internetowych, aby uzupełnić wiedzę zawartą w moim drzewie genealogicznym.",
+      "Wykonałem/am co najmniej jedno zadanie$ -Wykorzystałem/am jeden z serwisów umożliwiający budowę drzewa genealogicznego do umieszczenia swojego w Internecie. Zaprosiłem/am innych członków rodziny do korzystania z niego.-Opracowałem/am swoje drzewo genealogiczne w bogatej oprawie graficznej.",
+      "Wykonałem/am co najmniej jedno zadanie$ -Skorzystałem/am z zasobów archiwum państwowego, kościelnego lub prywatnego, aby uzupełnić wiedzę zawartą w moim drzewie genealogicznym.-Skorzystałem/am z zasobów internetowych, aby uzupełnić wiedzę zawartą w moim drzewie genealogicznym.",
       "Sporządziłem/am listę stron w Internecie przydatnych w pracach genealogicznych. Udostępniłem/am ją osobom zainteresowanym opracowaniem własnego drzewa genealogicznego."
     ],
     "type": "naukowe",
@@ -3365,9 +3365,9 @@
     "level": "***",
     "idea": "Poznaje historię swojego państwa. Korzysta ze źródeł historycznych (materialnych i niematerialnych).",
     "tasks": [
-      "Wykonałem/am jedno z zadań$-Stworzyłem/am albumy starych fotografii mojej miejscowości lub okolicy i porównałem/am je z aktualnymi fotografiami na zasadzie „wczoraj i dziś”, dopisałem/am do nich merytoryczne komentarze/opisy. Zaprezentowałem/am je zainteresowanym osobom.-Obejrzałem/am film, w którym wskazałem/am niehistoryczne elementy na podstawie przeczytanej literatury. Przedstawiłem/am swoje obserwacje na forum drużyny.",
+      "Wykonałem/am jedno z zadań$ -Stworzyłem/am albumy starych fotografii mojej miejscowości lub okolicy i porównałem/am je z aktualnymi fotografiami na zasadzie „wczoraj i dziś”, dopisałem/am do nich merytoryczne komentarze/opisy. Zaprezentowałem/am je zainteresowanym osobom.-Obejrzałem/am film, w którym wskazałem/am niehistoryczne elementy na podstawie przeczytanej literatury. Przedstawiłem/am swoje obserwacje na forum drużyny.",
       "Przeczytałem/am minimum dwie książki historyczne (naukowe lub popularnonaukowe). Zachęciłem/am innych do zapoznania się z nimi lub napisałem recenzję i udostępniłem/am ją w mediach społecznościowych.",
-      "Wykonałem/am jedno z zadań$-Zrekonstruowałem/am urządzenie/przedmiot/element stroju z dawnych czasów. Wykorzystałem/am go do przygotowania rekonstrukcji/gry/zbiórki.-Wykonałem/am grę planszową lub karcianą na temat interesujących mnie wydarzeń historycznych. Przeprowadziłem/am ją w drużynie lub klasie.",
+      "Wykonałem/am jedno z zadań$ -Zrekonstruowałem/am urządzenie/przedmiot/element stroju z dawnych czasów. Wykorzystałem/am go do przygotowania rekonstrukcji/gry/zbiórki.-Wykonałem/am grę planszową lub karcianą na temat interesujących mnie wydarzeń historycznych. Przeprowadziłem/am ją w drużynie lub klasie.",
       "Odwiedziłem/am minimum cztery instytucje, w których poszerzyłem/am swoją wiedzę historyczną (np. muzeum, archiwum, biblioteka, zamek). Najciekawsze informacje przedstawiłem/am zastępowi/drużynie w atrakcyjny sposób, osadzając je w odpowiedniej epoce historycznej."
     ],
     "type": "naukowe",
@@ -3380,9 +3380,9 @@
     "idea": "Bierze udział w wydarzeniach upamiętniających historię. Poznaje literaturą historyczną. Propaguje historię w swoim środowisku rówieśniczym, lokalnym. Współpracuje z instytucjami krzewiącymi historię. Ma pierwsze osiągnięcia naukowe.",
     "tasks": [
       "Wykonałem/am jedno z zadań$ -Nawiązałem/am współpracę z grupą rekonstrukcyjną odtwarzającą interesujący mnie okres historyczny. -Nawiązałem/am współpracę z instytucją krzewiącą historię.",
-      "Wykonałem/am jedno z zadań$-Zorganizowałem/am rajd/wycieczkę/wyjście do muzeum lub spacer historyczny, podczas którego pełniłem/am funkcję przewodnika.-Zorganizowałem grę lub rajd historyczny dla patroli harcerskich (zastępów/drużyn).",
-      "Wykonałem/am jedno z zadań$-Wraz z zespołem przygotowałem/am wystawę historyczną (np. na temat historii mojej miejscowości lub wybranego jej epizodu, historii mojego środowiska harcerskiego).-Zainicjowałem/am i przeprowadziłem/am inscenizację wybranego wydarzenia historycznego.",
-      "Wykonałem/am jedno z zadań$-Odkryłem/am i poznałem/am zapomniane/mało znane miejsca historyczne (np. z działań wojennych z 1939-1945, wojny polsko-bolszewickiej, czasów zaborów i powstań, z historii harcerstwa), z pomocą wszystkich dostępnych źródeł historycznych opisałem/am miejsce, zaopiekowałem/am się nim. Swoje osiągnięcia i wnioski upubliczniłem/am dla większej społeczności (np. na portalu Otwarte Zabytki, Harcerska mapa Niepodległej itp.).-Napisałem/am artykuł dotyczący interesującego mnie wydarzenia historycznego, korzystając z wybranej nauki pomocniczej historii (np. paleografia, numizmatyka, archiwistyka, heraldyka) oraz minimum czterech różnych źródeł. Opublikowałem/am artykuł w wybrany sposób."
+      "Wykonałem/am jedno z zadań$ -Zorganizowałem/am rajd/wycieczkę/wyjście do muzeum lub spacer historyczny, podczas którego pełniłem/am funkcję przewodnika.-Zorganizowałem grę lub rajd historyczny dla patroli harcerskich (zastępów/drużyn).",
+      "Wykonałem/am jedno z zadań$ -Wraz z zespołem przygotowałem/am wystawę historyczną (np. na temat historii mojej miejscowości lub wybranego jej epizodu, historii mojego środowiska harcerskiego).-Zainicjowałem/am i przeprowadziłem/am inscenizację wybranego wydarzenia historycznego.",
+      "Wykonałem/am jedno z zadań$ -Odkryłem/am i poznałem/am zapomniane/mało znane miejsca historyczne (np. z działań wojennych z 1939-1945, wojny polsko-bolszewickiej, czasów zaborów i powstań, z historii harcerstwa), z pomocą wszystkich dostępnych źródeł historycznych opisałem/am miejsce, zaopiekowałem/am się nim. Swoje osiągnięcia i wnioski upubliczniłem/am dla większej społeczności (np. na portalu Otwarte Zabytki, Harcerska mapa Niepodległej itp.).-Napisałem/am artykuł dotyczący interesującego mnie wydarzenia historycznego, korzystając z wybranej nauki pomocniczej historii (np. paleografia, numizmatyka, archiwistyka, heraldyka) oraz minimum czterech różnych źródeł. Opublikowałem/am artykuł w wybrany sposób."
     ],
     "type": "naukowe",
     "img": "/img/sprawnosci/harcerskie/244.png"
@@ -3463,7 +3463,7 @@
       "Skorzystałem/am z programów komputerowych do nauki astronomii i obserwacji nieba (np. Stellarium, Stark Walk 2, Sky Safari czy NASA itp.), by na bieżąco śledzić zjawiska astronomiczne.",
       "Zorganizowałem/am dla harcerzy „noc pod gwiazdami”, podczas której zapoznałem/am ich z podstawowymi konstelacjami nieba i ciałami niebieskimi.",
       "Zgromadziłem/am biblioteczkę popularnonaukową. Na bieżąco śledziłem/am portale astronomiczne. Podczas realizacji sprawności śledziłem/am wydarzenia/zjawiska astronomiczne: np. zaćmienie księżyca, przelot stacji kosmicznej, przelot komety, fazy księżyca.",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Zorganizowałem/am dla drużyny przegląd kina „kosmicznego”: np. Apollo 13, Grawitacja, Interstaller, Marsjanin.-Zorganizowałem/am wyjazd zastępu lub drużyny do planetarium lub obserwatorium astronomicznego."
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Zorganizowałem/am dla drużyny przegląd kina „kosmicznego”: np. Apollo 13, Grawitacja, Interstaller, Marsjanin.-Zorganizowałem/am wyjazd zastępu lub drużyny do planetarium lub obserwatorium astronomicznego."
     ],
     "type": "naukowe",
     "img": "/img/sprawnosci/harcerskie/250.png"
@@ -3503,7 +3503,7 @@
     "tasks": [
       "Zlokalizowałem/am i odwiedziłem/am w swoim regionie 5 stanowisk geologicznych różnego typu. Przedstawiłem/am dokumentację zdjęciową na zbiórce drużyny lub zastępu, opowiadając o tym, jaką wiedzę o przeszłości regionu można czerpać z obserwacji danego stanowiska.",
       "Zalogowałem/am się w przynajmniej dwóch skrytkach geologicznych EarthCache (https://www.geocaching.pl/earthcache.php).",
-      "Odwiedziłem/am$-teren wydmowy (nadmorski lub sandrowy),-meandry rzeczne,-pradolinę rzeki.",
+      "Odwiedziłem/am$ -teren wydmowy (nadmorski lub sandrowy),-meandry rzeczne,-pradolinę rzeki.",
       "Zgromadziłem/am własną, skatalogowaną kolekcję skał i minerałów. Zaprezentowałem/am ją na wystawie lub w Internecie."
     ],
     "type": "naukowe",
@@ -3558,7 +3558,7 @@
     "idea": "Wie, z czego wynikają różnice pomiędzy głównymi religiami i wyznaniami chrześcijańskimi. Upowszechnia tę wiedzę oraz ideę dialogu międzyreligijnego i ekumenizmu. Dyskutuje na tematy związane z religią, wiarą, wartościami.",
     "tasks": [
       "Na zbiórce zastępu w ciekawej formie (np. gra, quiz, turniej wiedzy) przedstawiłem/am historię i okoliczności powstania największych religii świata: ich wspólne wydarzenia, postacie i miejsca.",
-      "W odniesieniu do 3 różnych związków wyznaniowych działających w Polsce: odszukałem/am najważniejsze informacje dotyczące tego, kim jest i ile jest osób boskich, jak powstał świat, skąd się wziął człowiek. Dowiedziałem/am się, gdzie są największe ośrodki wyznawców, jaka jest organizacja kościoła/wspólnoty wyznaniowej-czy jest hierarchiczny i jakie są najważniejsze zwyczaje i zasady działania. Zrobiłem/am to, realizując jedno z poniższych zadań$-Zapoznałem/am się ze stronami internetowymi trzech różnych związków wyznaniowych zarejestrowanych w Polsce, w tym co najmniej jednego należącego do religii niechrześcijańskiej (np. Związek Gmin Wyznaniowych Żydowskich, Muzułmański Związek Religijny w RP).-Wziąłem/wzięłam udział w Nocy Świątyń lub innym wydarzeniu, podczas którego odwiedziłem/am minimum 3 świątynie, wysłuchałem/am wykładu oraz rozmawiałem/am wyznawcami różnych wyznań/religii.",
+      "W odniesieniu do 3 różnych związków wyznaniowych działających w Polsce: odszukałem/am najważniejsze informacje dotyczące tego, kim jest i ile jest osób boskich, jak powstał świat, skąd się wziął człowiek. Dowiedziałem/am się, gdzie są największe ośrodki wyznawców, jaka jest organizacja kościoła/wspólnoty wyznaniowej-czy jest hierarchiczny i jakie są najważniejsze zwyczaje i zasady działania. Zrobiłem/am to, realizując jedno z poniższych zadań$ -Zapoznałem/am się ze stronami internetowymi trzech różnych związków wyznaniowych zarejestrowanych w Polsce, w tym co najmniej jednego należącego do religii niechrześcijańskiej (np. Związek Gmin Wyznaniowych Żydowskich, Muzułmański Związek Religijny w RP).-Wziąłem/wzięłam udział w Nocy Świątyń lub innym wydarzeniu, podczas którego odwiedziłem/am minimum 3 świątynie, wysłuchałem/am wykładu oraz rozmawiałem/am wyznawcami różnych wyznań/religii.",
       "Poznałem/am współczesne inicjatywy z zakresu dialogu międzyreligijnego i ekumenizmu. Przedstawiłem/am je koleżankom i kolegom z zastępu lub drużyny, wskazując najważniejsze zagadnienia i wyzwania w prowadzeniu dialogu.",
       "Brałem/am udział w dyskusji o wartościach na zbiórce zastępu lub drużyny, którą zainicjowałem/am przedstawieniem w ciekawej formie (np. gawęda, scenka) historii zainspirowanej dwiema opowieściami lub mitami z wierzeń kultur współczesnych i minionych."
     ],
@@ -3655,7 +3655,7 @@
     "tasks": [
       "Przeczytałem/am książki z 3 różnych gatunków literatury, w tym przynajmniej jedną popularnonaukową.",
       "Zapisałem/am się do lokalnej biblioteki. Poznałem/am obowiązujące w niej zasady i się do nich stosuje. Regularnie (co najmniej raz w miesiącu) odwiedzałem/am bibliotekę i wypożyczałem/am książki.",
-      "Wykonałem/am co najmniej jedno zadanie$-Wykonałem/am drobne naprawy introligatorskie kilku książek.-Pełniłem/am dyżur w bibliotece szkolnej lub publicznej.",
+      "Wykonałem/am co najmniej jedno zadanie$ -Wykonałem/am drobne naprawy introligatorskie kilku książek.-Pełniłem/am dyżur w bibliotece szkolnej lub publicznej.",
       "Sporządziłem listę książek, które chciałbym/chciałabym mieć w swojej biblioteczce (książek w wersji drukowanej lub/i elektronicznej). Zakupiłem je za własne oszczędności lub poprosiłem o sprezentowanie przez rodzinę/znajomych."
     ],
     "type": "rozwój pasji",
@@ -3669,8 +3669,8 @@
     "tasks": [
       "Śledziłem/am nowości wydawnicze w wybranej dziedzinie i przeczytałem/am przynajmniej 2 z nich.",
       "Wzbogaciłem/am swoją prywatną biblioteczkę. Choć jedną książkę do mojej biblioteczki znalazłem /am w antykwariacie.",
-      "Wykonałem/am co najmniej jedno zadanie$-Stworzyłem/am ex libris biblioteczki swojej lub harcerskiej. Umieściłem/am go w książkach moich lub należących do mojego środowiska harcerskiego.-Prowadziłem/am w czasie próby na sprawność bibliotekę drużyny (szczepu) lub obozu.",
-      "Na podstawie wybranej książki o charakterze poradnikowym/naukowym itp. Wykonałem/am jedno z poniższych zadań$-Przygotowałem/am dla osoby prowadzącej zajęcia materiały na określony temat.-Przygotowałem/am miniporadnik na wybrany temat."
+      "Wykonałem/am co najmniej jedno zadanie$ -Stworzyłem/am ex libris biblioteczki swojej lub harcerskiej. Umieściłem/am go w książkach moich lub należących do mojego środowiska harcerskiego.-Prowadziłem/am w czasie próby na sprawność bibliotekę drużyny (szczepu) lub obozu.",
+      "Na podstawie wybranej książki o charakterze poradnikowym/naukowym itp. Wykonałem/am jedno z poniższych zadań$ -Przygotowałem/am dla osoby prowadzącej zajęcia materiały na określony temat.-Przygotowałem/am miniporadnik na wybrany temat."
     ],
     "type": "rozwój pasji",
     "img": "/img/sprawnosci/harcerskie/265.png"
@@ -3682,8 +3682,8 @@
     "idea": "Orientuje się w najciekawszych aktualnie wydawanych pozycjach. Dużo czyta oraz dzieli się swoją pasją do książek.",
     "tasks": [
       "Przedstawiłem/am i uzasadniłem/am propozycje książek, które warto dodać do biblioteczki drużyny lub przeczytać w ramach prób na stopnie.",
-      "Wykonałem/am jedno z zadań$-Urządziłem/am w drużynie/szkole itp. wieczór wspólnego czytania wybranej książki, spotkanie z autorem lub podobną imprezę literacką.-Urządziłem/am w drużynie/szkole itp. wystawę ciekawych książek, prezentując na niej także własne zbiory.",
-      "Wykonałem/am jedno z zadań$-Nawiązałem/am kontakt z antykwariatem, poznałem/am sposoby gromadzenia wydawnictw antykwarycznych i przechowywania oraz zabezpieczania starodruków.-Nawiązałem/am kontakt z muzeum lub archiwum, poznałem/am sposoby gromadzenia, przechowywania oraz zabezpieczania starodruków.",
+      "Wykonałem/am jedno z zadań$ -Urządziłem/am w drużynie/szkole itp. wieczór wspólnego czytania wybranej książki, spotkanie z autorem lub podobną imprezę literacką.-Urządziłem/am w drużynie/szkole itp. wystawę ciekawych książek, prezentując na niej także własne zbiory.",
+      "Wykonałem/am jedno z zadań$ -Nawiązałem/am kontakt z antykwariatem, poznałem/am sposoby gromadzenia wydawnictw antykwarycznych i przechowywania oraz zabezpieczania starodruków.-Nawiązałem/am kontakt z muzeum lub archiwum, poznałem/am sposoby gromadzenia, przechowywania oraz zabezpieczania starodruków.",
       "Stworzyłem/am analogowy lub cyfrowy katalog swojego księgozbioru."
     ],
     "type": "rozwój pasji",
@@ -3710,7 +3710,7 @@
     "idea": "Ma świadomość, w jaki sposób relacjonuje się zdarzenia w kronice. Rozumie obrzędową rolę kroniki w drużynie. Uwieczniając wydarzenia, wykazuje się kreatywnością.",
     "tasks": [
       "Przygotowałem/am minimum 3 wydarzenia z życia zastępu/drużyny, umieszczając wpis w kronice zastępu/drużyny. W ramach wpisów uwzględniłem/am ważne dla środowiska elementy obrzędowe i anegdotyczne. Wykazałem/am się kreatywnością w ich tworzeniu.",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Skontaktowałem/am się z kimś, kto prowadził kronikę w swoim środowisku i przeprowadziłem/am z tą osobą wywiad, uzyskując następujące informacje: sposób prowadzenia kroniki, zbierania informacji, opieki nad kroniką i wykorzystanie jej do pracy z zastępem/drużyną.-Przejrzałem/am kroniki swojego środowiska i spisałem/am swoje wnioski dotyczące sposobów prowadzenia kroniki, które przedstawiłem/am na forum drużyny.",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Skontaktowałem/am się z kimś, kto prowadził kronikę w swoim środowisku i przeprowadziłem/am z tą osobą wywiad, uzyskując następujące informacje: sposób prowadzenia kroniki, zbierania informacji, opieki nad kroniką i wykorzystanie jej do pracy z zastępem/drużyną.-Przejrzałem/am kroniki swojego środowiska i spisałem/am swoje wnioski dotyczące sposobów prowadzenia kroniki, które przedstawiłem/am na forum drużyny.",
       "Poszukałem/am w Internecie informacji na temat kaligrafii, akcesoriów i materiałów wykorzystywanych w kaligrafii. Wybrałem/am jeden krój, z pomocą którego stworzyłem/am wpis w kronice.",
       "Przygotowałem/am wpis do kroniki drużyny, opisując dłuższy wyjazd drużyny, tzn. biwak, obóz, zimowisko i umieszczając zdjęcia, rysunki, itd. podnoszące wartość artystyczną relacji."
     ],
@@ -3725,7 +3725,7 @@
     "tasks": [
       "Prowadziłem/am w okresie próby kronikę, opisując minimum 7 wydarzeń dotyczących drużyny. Oprawę graficzną opisów dopasowałem/am do klimatu/treści wydarzenia.",
       "Stworzyłem/am jeden wpis do kroniki metodą scrapbookingu.",
-      "Wykonałem/am co najmniej jedno z poniższych zadań$-Stworzyłem/am oprawę kroniki według własnego pomysłu lub zmodyfikowałem/am istniejącą tak, aby pasowała do istniejącej obrzędowości drużyny.-Stworzyłem/am bogato zdobioną okazjonalną kartę (np. na rozpoczęcie roku harcerskiego/szkolnego) w kronice oraz wprawiłem/am ją we właściwe miejsce w kronice, nie uszkadzając innych wpisów.-Zreperowałem/am uszkodzoną kartę (np. podarta strona) w kronice z zastosowaniem właściwych technik i materiałów uzupełniających ubytek.",
+      "Wykonałem/am co najmniej jedno z poniższych zadań$ -Stworzyłem/am oprawę kroniki według własnego pomysłu lub zmodyfikowałem/am istniejącą tak, aby pasowała do istniejącej obrzędowości drużyny.-Stworzyłem/am bogato zdobioną okazjonalną kartę (np. na rozpoczęcie roku harcerskiego/szkolnego) w kronice oraz wprawiłem/am ją we właściwe miejsce w kronice, nie uszkadzając innych wpisów.-Zreperowałem/am uszkodzoną kartę (np. podarta strona) w kronice z zastosowaniem właściwych technik i materiałów uzupełniających ubytek.",
       "Przeprowadziłem/am dla innych harcerzy warsztaty doskonalące umiejętności prowadzenia kronik."
     ],
     "type": "rozwój pasji",
@@ -3919,7 +3919,7 @@
       "W ciągu miesiąca nauczyłem/am się wykonywać ćwiczenie, którego wcześniej nie byłem/am w stanie wykonać.",
       "Zorganizowałem/am lub wziąłem/wzięłam udział w dowolnej akcji popularyzującej dany rodzaj treningu (zawody, dni otwarte, festiwal zumby/gimnastyki/kalisteniki/jogi itp..) wśród okolicznych mieszkańców.",
       "W okresie trwania próby co najmniej trzy razy w tygodniu wykonywałem/am dowolny zestaw ćwiczeń trwający minimum 60 minut.",
-      "Wzięłam/wziąłem udział w jednej wybranej imprezie dotyczącej mojej ulubionej dyscypliny gimnastyki$-zawodach sportowych,-grupowym pokazie."
+      "Wzięłam/wziąłem udział w jednej wybranej imprezie dotyczącej mojej ulubionej dyscypliny gimnastyki$ -zawodach sportowych,-grupowym pokazie."
     ],
     "type": "sportowe",
     "img": "/img/sprawnosci/harcerskie/283.png"
@@ -3988,7 +3988,7 @@
       "Przeprowadziłem/am rozgrzewkę przed treningiem oraz rozciągałem/am się po treningu.",
       "Poznałem/am podstawowe komendy używane w trakcie wspinaczki i stosowałem/am je za każdym razem, kiedy się wspinałem/am.",
       "Nałożyłem/am uprząż oraz przywiązałem/am się do niej (wiążąc podwójną ósemkę).",
-      "Wykonałem/am jedno z poniższych zadań$-zrobiłem/am drogę o wycenie 4b na wędkę na sztucznej ścianie;-wspinałem/am się na wędce na sztucznej ściance (min. 5 razy)."
+      "Wykonałem/am jedno z poniższych zadań$ -zrobiłem/am drogę o wycenie 4b na wędkę na sztucznej ścianie;-wspinałem/am się na wędce na sztucznej ściance (min. 5 razy)."
     ],
     "type": "sportowe",
     "img": "/img/sprawnosci/harcerskie/289.png"
@@ -4000,7 +4000,7 @@
     "idea": "Rozwija swoje umiejętności wspinaczkowe. Poznaje rodzaje wspinaczki oraz rozpoznaje skale trudności. Korzysta z przewodnika wspinaczkowego. Wie, jakie są rejony wspinaczkowe.",
     "tasks": [
       "Nauczyłem/am się dwóch ćwiczeń poprawiających technikę wspinaczkową i stosuję je w praktyce.",
-      "Wykonałem/am jedno z poniższych zadań$-zrobiłem/am drogę o wycenie V0 na boulderach;-zrobiłem/am drogę na wędkę o wycenie 5a na sztucznej ściance;-Zrobiłem/am drogę na wędkę o wycenie IV w skałkach.",
+      "Wykonałem/am jedno z poniższych zadań$ -zrobiłem/am drogę o wycenie V0 na boulderach;-zrobiłem/am drogę na wędkę o wycenie 5a na sztucznej ściance;-Zrobiłem/am drogę na wędkę o wycenie IV w skałkach.",
       "Zwinąłem/zwinęłam i przeniosłem/am linę wspinaczkową.",
       "Wymieniłem/am różne formy uprawiania wspinaczki, style wspinania, skale trudności. Dowiedziałem/am się, do czego służą przewodniki wspinaczkowe oraz zorientowałem/am się, gdzie mogę jechać na skałki. Opowiedziałem/am o tym w zastępie."
     ],
@@ -4015,7 +4015,7 @@
     "tasks": [
       "Poprowadziłem/am drogę o wycenie 5 (asekuracja dolna).",
       "Skompletowałem/am podstawowy sprzęt wspinaczkowy (np. uprząż, buty, kask, przyrząd do asekuracji, itd.).",
-      "Wykonałem/am jedno z poniższych zadań$-zrobiłem/am drogę na wędkę o wycenie 6a;-zrobiłem/am drogę o wycenie V0 na boulderach;-zrobiłem/am drogę na wędkę o wycenie V w skałkach.",
+      "Wykonałem/am jedno z poniższych zadań$ -zrobiłem/am drogę na wędkę o wycenie 6a;-zrobiłem/am drogę o wycenie V0 na boulderach;-zrobiłem/am drogę na wędkę o wycenie V w skałkach.",
       "Zorganizowałem/am wyjście zastępu/drużyny na ściankę wspinaczkową. Pokazałem/am, jak prawidłowo się rozgrzać przed treningiem i prawidłowo rozciągnąć po treningu.",
       "Asekurowałem/am drugiego wspinacza."
     ],
@@ -4033,8 +4033,8 @@
       "-zrobiłem/am drogę na wędkę o wycenie 6c;",
       "-zrobiłem/am drogę o wycenie V2 na boulderach;",
       "-zrobiłem/am drogę na wędkę o wycenie VI w skałkach.",
-      "Wykonałem/am jedno z poniższych zadań$-zorganizowałem/am warsztaty wspinaczkowe w drużynie, korzystając z pomocy instruktora posiadającego odpowiednie kwalifikacje, np. instruktora PZA;-zorganizowałem/am min. trzydniowy wyjazd na skałki. W obu tasksch przedstawiłem/am uczestnikom normy etyczne obowiązujące w środowisku wspinaczy.",
-      "Wykonałem/am jedno z poniższych zadań$-uczestniczyłem/am w obozie wspinaczkowym;-uczestniczyłem/am w kurskie skałkowym;-wspinałem się w skałkach min. 2 dni za granicą."
+      "Wykonałem/am jedno z poniższych zadań$ -zorganizowałem/am warsztaty wspinaczkowe w drużynie, korzystając z pomocy instruktora posiadającego odpowiednie kwalifikacje, np. instruktora PZA;-zorganizowałem/am min. trzydniowy wyjazd na skałki. W obu tasksch przedstawiłem/am uczestnikom normy etyczne obowiązujące w środowisku wspinaczy.",
+      "Wykonałem/am jedno z poniższych zadań$ -uczestniczyłem/am w obozie wspinaczkowym;-uczestniczyłem/am w kurskie skałkowym;-wspinałem się w skałkach min. 2 dni za granicą."
     ],
     "type": "sportowe",
     "img": "/img/sprawnosci/harcerskie/291.png"
@@ -4059,7 +4059,7 @@
     "level": "**",
     "idea": "Poznaje zaawansowane techniki zjazdu oraz zasady bezpieczeństwa na nartach. Korzysta z różnych wyciągów.",
     "tasks": [
-      "Wykonałem/am jedno z poniższych zadań$-wjechałem/am na różne stoki co najmniej 2 typami wyciągów. titlełem/am je i wskazałem/am, czym się różnią;-pokonałem 100 m na płaskim terenie na nartach zjazdowych za pomocą odpowiedniej techniki jazdy (np. bezkrok, krok łyżwowy, itd.).",
+      "Wykonałem/am jedno z poniższych zadań$ -wjechałem/am na różne stoki co najmniej 2 typami wyciągów. titlełem/am je i wskazałem/am, czym się różnią;-pokonałem 100 m na płaskim terenie na nartach zjazdowych za pomocą odpowiedniej techniki jazdy (np. bezkrok, krok łyżwowy, itd.).",
       "Wykonałem/am zjazd slalomem wzdłuż postawionych słupków, zmieniając kierunek jazdy i zahamowałem/am, utrzymując narty równolegle do siebie (nie „pługiem”).",
       "Bezpiecznie zatrzymałem/am się, podjeżdżając pod stok „carvingiem” lub w miejscu „śmigiem” (tzw. „skręt stop”) w wyznaczonym miejscu, w którym nie przeszkadzałem/am innym narciarzom.",
       "Nauczyłem/am się i wykonałem/am poprawną rozgrzewkę przed jazdą na nartach, a także prawidłowe rozciąganie po niej."
@@ -4073,7 +4073,7 @@
     "level": "***",
     "idea": "Poznaje inne dyscypliny narciarskie. Dąży do mistrzostwa w technikach zjazdu. Jest świadomy/a, jak wiele czynników wpływa na jazdę na nartach.",
     "tasks": [
-      "Wykonałem/am jedno z poniższych zadań$-wziąłem/wzięłam udział w wędrówce narciarskiej, używając do tego nart biegowych/śladowych/skiturowych lub telemarkowych. Przebyłem/am w ten sposób co najmniej 10 km;-wziąłem/wzięłam udział w zawodach narciarskich i zająłem/zajęłam satysfakcjonujące mnie miejsce.",
+      "Wykonałem/am jedno z poniższych zadań$ -wziąłem/wzięłam udział w wędrówce narciarskiej, używając do tego nart biegowych/śladowych/skiturowych lub telemarkowych. Przebyłem/am w ten sposób co najmniej 10 km;-wziąłem/wzięłam udział w zawodach narciarskich i zająłem/zajęłam satysfakcjonujące mnie miejsce.",
       "Nauczyłem/am się rozróżniać co najmniej trzy rodzaje śniegu. Przygotowałem/am narty do różnych warunków śniegowych.",
       "W trakcie zjazdu ze stoku, wykonałem/am półobrót, jechałem/am dalej tyłem przez co najmniej 10 m, a następnie wykonałem/am kolejny półobrót w celu kontynuacji jazdy przodem.",
       "Poznałem/am zasady bezpiecznego poruszania się na nartach i w trakcie wszystkich wycieczek narciarskich posiadałem/am przy sobie apteczkę, z której potrafię korzystać."
@@ -4088,9 +4088,9 @@
     "idea": "Przygotowuje inne osoby do jazdy na nartach. Organizuje wycieczki narciarskie, dbając o bezpieczeństwo grupy.",
     "tasks": [
       "Opracowałem/am i przeprowadziłem/am wycieczkę narciarską na podstawie mapy topograficznej o długości co najmniej 10 km. Wziąłem/wzięłam pod uwagę możliwości jej uczestników. Zaplanowałem/am ekwipunek indywidualny i zbiorowy na trasę wycieczki. Pomogłem/am jej uczestnikom w jego skompletowaniu.",
-      "Wykonałem/am jedno z poniższych zadań$-pokonałem/am techniką łyżwową 50 m na nartach biegowych;-w trakcie jednego sezonu narciarskiego przebyłem/am na nartach zjazdowych co najmniej 100 km.",
+      "Wykonałem/am jedno z poniższych zadań$ -pokonałem/am techniką łyżwową 50 m na nartach biegowych;-w trakcie jednego sezonu narciarskiego przebyłem/am na nartach zjazdowych co najmniej 100 km.",
       "Przeprowadziłem/am szkolenie narciarskie dla przynajmniej jednej osoby, którego celem było nauczenie jej m.in.: zakładania sprzętu narciarskiego, poruszania się po płaskim terenie na nartach, podchodzenia pod stok, bezpiecznego upadania, zasad bezpieczeństwa na stoku, podnoszenia się z przypiętymi nartami oraz jazdy pługiem i zatrzymania się w wyznaczonym miejscu.",
-      "Wykonałem/am jedno z poniższych zadań$-zdaje sobie sprawę z niebezpieczeństwa, jakim jest lawina oraz co może ją spowodować. Korzystałem/am w warunkach symulacyjnych ze sprzętu lawinowego;-osiągnąłem/osiągnęłam minimum akceptowane dla Pomocnika Instruktorów PZN w zawodach regionalnych organizowanych przez SITN-PZN."
+      "Wykonałem/am jedno z poniższych zadań$ -zdaje sobie sprawę z niebezpieczeństwa, jakim jest lawina oraz co może ją spowodować. Korzystałem/am w warunkach symulacyjnych ze sprzętu lawinowego;-osiągnąłem/osiągnęłam minimum akceptowane dla Pomocnika Instruktorów PZN w zawodach regionalnych organizowanych przez SITN-PZN."
     ],
     "type": "sportowe",
     "img": "/img/sprawnosci/harcerskie/295.png"
@@ -4144,7 +4144,7 @@
     "level": "****",
     "idea": "Planowo doskonali swoje umiejętności w wybranej dyscyplinie jazdy na rolkach. Bierze udział w życiu społeczności rolkowej.",
     "tasks": [
-      "Wykonałem/am jedno z poniższych zadań$-odbyłem/am min. jedną rolkową wycieczkę po mieście, jeżdżąc po różnych nawierzchniach, bezpiecznie i zgodnie z przepisami; -wziąłem/wzięłam udział w Nightskatingu lub innym wydarzeniu rolkowym (warsztaty, zawody itp.).",
+      "Wykonałem/am jedno z poniższych zadań$ -odbyłem/am min. jedną rolkową wycieczkę po mieście, jeżdżąc po różnych nawierzchniach, bezpiecznie i zgodnie z przepisami; -wziąłem/wzięłam udział w Nightskatingu lub innym wydarzeniu rolkowym (warsztaty, zawody itp.).",
       "Zaprezentowałem/am zastępowi/drużynie 5 różnych trików na rolkach, tłumacząc, jak należy je wykonać bezpiecznie.",
       "Zaplanowałem/am ścieżkę rozwoju swoich umiejętności rolkowych (np. kolejność nauki trików) i konsekwentnie zrealizowałem/am przynajmniej jeden jej etap.",
       "Zatrzymałem/am się podczas jazdy co najmniej 3 sposobami (hamownie beczką, T-stop, powerstop itp.)."
@@ -4226,10 +4226,10 @@
     "level": "***",
     "idea": "Regularnie rozwija swoje umiejętności i kondycję fizyczną. Posiada własny sprzęt oraz aplikacje pomagające podnosić dotychczasowe wyniki. Dba o dostarczanie organizmowi odpowiednich wartości odżywczych.",
     "tasks": [
-      "Wykonałem/am jedno z poniższych zadań$-wziąłem/wzięłam udział w akcji sportowej, podczas której przebiegłem/am dystans (bez zatrzymywania się) min. 10 km;-wziąłem/wzięłam udział w marszobiegu o długości min. 10 km.",
+      "Wykonałem/am jedno z poniższych zadań$ -wziąłem/wzięłam udział w akcji sportowej, podczas której przebiegłem/am dystans (bez zatrzymywania się) min. 10 km;-wziąłem/wzięłam udział w marszobiegu o długości min. 10 km.",
       "Dbam w czasie biegu o odpowiednie nawodnienie, sporządziłem/am napój izotoniczny wg własnego przepisu. Przed i po treningu przygotowałem/am odpowiedni posiłek dostarczający mi niezbędnych wartości odżywczych.",
       "Poznałem/am własne tempo biegania i utrzymywałem/am je przez większość czasu. Korzystałem/am z aplikacji biegowej (np. Activy, Strava, itd.) w celu monitorowania swoich osiągnięć min. przez miesiąc.",
-      "Wykonałem/am jedno z poniższych zadań$-razem z zastępem/rówieśnikami braliśmy udział w wydarzeniu sportowym związanym z biegami;-wziąłem/wzięłam udział w biegach drużynowych lub w biegach bazujących na współpracy z innymi uczestnikami, np. Runmagedon.",
+      "Wykonałem/am jedno z poniższych zadań$ -razem z zastępem/rówieśnikami braliśmy udział w wydarzeniu sportowym związanym z biegami;-wziąłem/wzięłam udział w biegach drużynowych lub w biegach bazujących na współpracy z innymi uczestnikami, np. Runmagedon.",
       "Zgromadziłem/am profesjonalny sprzęt, np. odpowiednie buty biegowe, plecak do biegania, itd."
     ],
     "type": "sportowe",
@@ -4242,7 +4242,7 @@
     "idea": "Osiągnął/osiągnęła poziom mistrzowski w bieganiu. Propaguje je w swoim środowisku lokalnym. Próbuje różnych aktywności biegowych odpowiednich do swojego etapu rozwoju.",
     "tasks": [
       "Ułożyłem/am plan treningowy, uwzględniając: treningi siłowe, treningi na wytrzymałość, odpowiednie posiłki oraz odpowiednią ilość snu i wypoczynku. Po skończonym planie treningowym byłem/am w stanie przebiec 20 km.",
-      "Wykonałem/am jedno z poniższych zadań$-ukończyłem/am półmaraton -21 km;-wziąłem/wzięłam udział w min. 4 akcjach sportowych, w których przebiegłem/am dystans min. 10 km bez zatrzymywania się.",
+      "Wykonałem/am jedno z poniższych zadań$ -ukończyłem/am półmaraton -21 km;-wziąłem/wzięłam udział w min. 4 akcjach sportowych, w których przebiegłem/am dystans min. 10 km bez zatrzymywania się.",
       "Odpowiednio przygotowałem/am się i wziąłem/wzięłam udział w biegach górskich min. ok. 10 km.",
       "Pomagałem/am przy organizacji biegu/maratonu jako wolontariusz."
     ],

@@ -9,12 +9,12 @@ const FilterCard = (props) => {
     <section
       className={`filter-card__container ${props.isActive ? "active" : ""}`}
     >
-      <div className="skills-viewer__cross" onClick={props.action}>
+      <div className="skills-viewer__cross" onClick={props.filterIsOpenHandler}>
         <i className="fa-solid fa-arrow-left"></i>
       </div>
       <div className="filter-card__box">
         <h2>Wybierz metodyke </h2>
-        <select id="methods" onChange={props.fuc}>
+        <select id="methods" onChange={props.filterChangeHandler}>
           <option value="">Wszystkie</option>
           <option value="Z">Zuchowa</option>
           <option value="H">Harcerska</option>
@@ -24,7 +24,7 @@ const FilterCard = (props) => {
       </div>
       <div className="filter-card__box">
         <h2>Wybierz kategorie </h2>
-        <select id="category" onChange={props.fuc}>
+        <select id="category" onChange={props.filterChangeHandler}>
           <option value="">Wszystkie</option>
           {types.map((type) => (
             <option value={type} key={type}>
@@ -35,7 +35,7 @@ const FilterCard = (props) => {
       </div>
       <div className="filter-card__box">
         <h2>Wybierz trudność </h2>
-        <select id="level" onChange={props.fuc}>
+        <select id="level" onChange={props.filterChangeHandler}>
           <option value="">Wszystkie</option>
           <option value="Z">Zuch</option>
           <option value="*">*</option>

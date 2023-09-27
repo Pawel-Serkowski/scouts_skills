@@ -11,7 +11,7 @@ const ScoutLittleSkillCard = (props) => {
       className="skill-card__container"
     >
       <div className="img-box little-scout">
-        <img src={require(`../../shared${props.skill.img}`)} alt="" />
+        <img src={`http://localhost:4000/${props.skill.img}`} alt="" />
       </div>
       <div className="skill-card__title">
         <h2>{title[0]}</h2>

@@ -19,27 +19,27 @@ export const types_giver = () => {
   return general_types;
 };
 
-export const data_giver = (how_many_per_page, page = 0) => {
-  const general_data = data;
-  if (how_many_per_page === -1) {
-    how_many_per_page = general_data.length;
-    page = 1;
-  }
-  let tasks = [];
-  try {
-    for (
-      let i = (page - 1) * how_many_per_page;
-      i < page * how_many_per_page;
-      i++
-    ) {
-      if (!general_data[i]) break;
-      tasks.push(general_data[i]);
-    }
-  } catch (e) {
-    console.log(e);
-  }
-  return tasks;
-};
+// export const data_giver = (data,how_many_per_page, page = 0) => {
+//   const general_data = data;
+//   if (how_many_per_page === -1) {
+//     how_many_per_page = general_data.length;
+//     page = 1;
+//   }
+//   let tasks = [];
+//   try {
+//     for (
+//       let i = (page - 1) * how_many_per_page;
+//       i < page * how_many_per_page;
+//       i++
+//     ) {
+//       if (!general_data[i]) break;
+//       tasks.push(general_data[i]);
+//     }
+//   } catch (e) {
+//     console.log(e);
+//   }
+//   return tasks;
+// };
 
 export const task_giver = (id) => {
   const general_data = data;

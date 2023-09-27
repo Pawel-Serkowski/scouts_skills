@@ -2,7 +2,7 @@ import React from "react";
 
 import { Link } from "react-router-dom";
 
-import { task_creator } from "../utils/task-creator";
+import { task_creator } from "../../shared/util/task-creator";
 
 import "./GroupSkillsViewer.css";
 

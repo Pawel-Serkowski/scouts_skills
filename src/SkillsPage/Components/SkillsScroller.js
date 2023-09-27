@@ -1,19 +1,14 @@
 import React, { useState } from "react";
 
-import { filter } from "../utils/filter";
-
 import FilterCard from "./FilterCard";
 import TitleFinder from "./TitleFinder";
+
+import { skills_data_to_components } from "../utils/data_to_components";
 
 import "./SkillsScroller.css";
 
 const SkillsScroller = (props) => {
   const [isActive, setIsActive] = useState(false);
-  const [tasks, setTasks] = useState(() => filter());
-
-  const filterChangeHandler = () => {
-    setTasks(filter());
-  };
 
   const filterIsOpenHandler = () => {
     setIsActive(!isActive);
@@ -22,19 +17,22 @@ const SkillsScroller = (props) => {
   return (
     <section className="skills-scroller__container">
       <FilterCard
-        action={filterIsOpenHandler}
+        filterIsOpenHandler={filterIsOpenHandler}
         isActive={isActive ? "active" : ""}
-        fuc={filterChangeHandler}
+        filterChangeHandler={props.filterChangeHandler}
       />
       <TitleFinder
-        filterChangeHandler={filterChangeHandler}
+        filterChangeHandler={props.filterChangeHandler}
         filterIsOpenHandler={filterIsOpenHandler}
       />
       <section className="skills-scroller__card-box">
-        {!tasks ? (
-          <h2>LOL, napisz asap do pawel.serkowski@zhp.net.pl</h2>
+        {Number(props.skills_data.length) === 0 ? (
+          <h2>
+            Nie widzisz sprawności? <br />
+            Napisz jak najszybciej do pawel.serkowski@zhp.net.pl
+          </h2>
         ) : (
-          tasks
+          skills_data_to_components(props.skills_data)
         )}
       </section>
     </section>
