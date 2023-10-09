@@ -1,4 +1,4 @@
-.skills-scroller__container {
+.group-skills-scroller__container {
   width: 50%;
   height: 100%;
   display: flex;
@@ -7,7 +7,7 @@
   overflow: hidden;
 }
 
-.skills-scroller__card-box {
+.group-skills-scroller__card-box {
   width: 100%;
   height: 100%;
   background-color: var(--light-plain-color);
@@ -30,7 +30,7 @@
 }
 
 @media screen and (max-width: 1300px) {
-  .skills-scroller__container {
+  .group-skills-scroller__container {
     width: 100%;
   }
 }

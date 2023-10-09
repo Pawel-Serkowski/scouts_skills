@@ -13,14 +13,7 @@ const filter = (func) => {
     const filtera = w.toLowerCase();
 
     if (filtera === "" && m === "" && t === "" && k === "") {
-      return data_giver(-1).map((skill) => {
-        if (skill._id[0] === "z") {
-          return (
-            <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
-          );
-        }
-        return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-      });
+      return data_giver(-1);
     }
 
     const data = data_giver(-1);
@@ -38,45 +31,27 @@ const filter = (func) => {
         option = ["***", "****"];
       }
       filtering = filtering.filter(
-        (skill) => skill.trudnosc === option[0] || skill.trudnosc === option[1]
+        (skill) => skill.level === option[0] || skill.level === option[1]
       );
     }
     if (k) {
-      filtering = filtering.filter((skill) => skill.typ === k);
+      filtering = filtering.filter((skill) => skill.type === k);
     }
     if (t) {
       filtering = filtering.filter(
-        (skill) => skill.trudnosc.toLowerCase() === t.toLowerCase()
+        (skill) => skill.level.toLowerCase() === t.toLowerCase()
       );
     }
     filtering = filtering.filter((skill) =>
-      skill.nazwa.toLowerCase().includes(filtera)
+      skill.title.toLowerCase().includes(filtera)
     );
     if (filtering.length === 0) {
-      return (
-        <h1 className="nothing-found">
-          Nie możemy znaleść odpowiednich sprawności
-        </h1>
-      );
+      return [];
     }
 
-    return filtering.map((skill) => {
-      if (skill._id[0] === "z") {
-        return (
-          <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
-        );
-      }
-      return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-    });
+    return filtering;
   } catch {
-    return data_giver(-1).map((skill) => {
-      if (skill._id[0] === "z") {
-        return (
-          <ScoutLittleSkillCard skill={skill} key={skill._id} action={func} />
-        );
-      }
-      return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-    });
+    return data_giver(-1);
   }
 };
 

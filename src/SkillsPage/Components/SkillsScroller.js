@@ -3,11 +3,12 @@ import React, { useState } from "react";
 import { filter } from "../utils/filter";
 
 import FilterCard from "./FilterCard";
-import TitleFinder from "./TitleFinder";
+import TitleFinder from "../../shared/components/TitleFinder/TitleFinder";
 
 import "./SkillsScroller.css";
+import SkillsCards from "./SkillsCards";
 
-const SkillsScroller = (props) => {
+const SkillsScroller = () => {
   const [isActive, setIsActive] = useState(false);
   const [tasks, setTasks] = useState(() => filter());
 
@@ -31,10 +32,17 @@ const SkillsScroller = (props) => {
         filterIsOpenHandler={filterIsOpenHandler}
       />
       <section className="skills-scroller__card-box">
-        {!tasks ? (
-          <h2>LOL, napisz asap do pawel.serkowski@zhp.net.pl</h2>
+        {tasks.length === 0 ? (
+          <div className="nothing-found">
+            <img
+              src={require("../../shared/img/searching.png")}
+              alt="Cannot find skills"
+            />
+
+            <span>Nie znaleziono sprawności...</span>
+          </div>
         ) : (
-          tasks
+          <SkillsCards tasks={tasks} />
         )}
       </section>
     </section>

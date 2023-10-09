@@ -4,7 +4,7 @@ const task_creator = (task) => {
   t_list[0] += "$";
   tasks_list.push(t_list[0]);
   if (t_list.length > 1) {
-    const temp_list = t_list[1].split("-");
+    const temp_list = t_list[1].split("-").slice(1);
     for (let i = 0; i < temp_list.length; i++) {
       if (temp_list[i] !== " ") tasks_list.push(temp_list[i]);
     }

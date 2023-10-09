@@ -1,5 +1,5 @@
 import React from "react";
-import "./FilterCard.css";
+import "../../shared/styles/FilterCard.css";
 import { types_giver } from "../../shared/util/data-giver";
 
 const FilterCard = (props) => {

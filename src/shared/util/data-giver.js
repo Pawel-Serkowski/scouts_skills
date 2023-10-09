@@ -7,9 +7,9 @@ export const types_giver = () => {
   let isInGeneral = {};
 
   for (let i = 0; i < general_data.length; i++) {
-    if (isInGeneral[general_data[i].typ] !== 1) {
-      general_types.push(general_data[i].typ);
-      isInGeneral[general_data[i].typ] = 1;
+    if (isInGeneral[general_data[i].type] !== 1) {
+      general_types.push(general_data[i].type);
+      isInGeneral[general_data[i].type] = 1;
     }
   }
   // types = {
@@ -19,26 +19,9 @@ export const types_giver = () => {
   return general_types;
 };
 
-export const data_giver = (how_many_per_page, page = 0) => {
+export const data_giver = () => {
   const general_data = data;
-  if (how_many_per_page === -1) {
-    how_many_per_page = general_data.length;
-    page = 1;
-  }
-  let tasks = [];
-  try {
-    for (
-      let i = (page - 1) * how_many_per_page;
-      i < page * how_many_per_page;
-      i++
-    ) {
-      if (!general_data[i]) break;
-      tasks.push(general_data[i]);
-    }
-  } catch (e) {
-    console.log(e);
-  }
-  return tasks;
+  return general_data;
 };
 
 export const task_giver = (id) => {
@@ -55,24 +38,7 @@ export const group_skill_task_giver = (id) => {
 
 export const group_skills_data_giver = (how_many_per_page, page = 0) => {
   const general_data = group_data;
-  if (how_many_per_page === -1) {
-    how_many_per_page = general_data.length;
-    page = 1;
-  }
-  let tasks = [];
-  try {
-    for (
-      let i = (page - 1) * how_many_per_page;
-      i < page * how_many_per_page;
-      i++
-    ) {
-      if (!general_data[i]) break;
-      tasks.push(general_data[i]);
-    }
-  } catch (e) {
-    console.log(e);
-  }
-  return tasks;
+  return general_data;
 };
 
 export const group_skills_types_giver = () => {
@@ -81,9 +47,9 @@ export const group_skills_types_giver = () => {
   let isInGeneral = {};
 
   for (let i = 0; i < general_data.length; i++) {
-    if (isInGeneral[general_data[i].typ] !== 1) {
-      general_types.push(general_data[i].typ);
-      isInGeneral[general_data[i].typ] = 1;
+    if (isInGeneral[general_data[i].type] !== 1) {
+      general_types.push(general_data[i].type);
+      isInGeneral[general_data[i].type] = 1;
     }
   }
   // types = {

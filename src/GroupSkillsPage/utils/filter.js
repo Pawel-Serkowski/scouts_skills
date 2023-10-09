@@ -1,29 +1,14 @@
 import { group_skills_data_giver } from "../../shared/util/data-giver";
-
-import ScoutSkillCard from "../Components/ScoutSkillCard";
-import GroupScoutLittleSkillCard from "../Components/GroupScoutLittleSkillCard";
-
-const filter = (func) => {
+const filter = () => {
   try {
     const w = document.getElementById("title-filter").value;
-    const m = document.getElementById("methods").value;
-    const k = document.getElementById("category").value;
+    const m = document.getElementById("group-methods").value;
+    const k = document.getElementById("group-category").value;
 
     const filtera = w.toLowerCase();
 
     if (filtera === "" && m === "" && k === "") {
-      return group_skills_data_giver(-1).map((skill) => {
-        if (skill._id[0] === "z") {
-          return (
-            <GroupScoutLittleSkillCard
-              skill={skill}
-              key={skill._id}
-              action={func}
-            />
-          );
-        }
-        return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-      });
+      return group_skills_data_giver(-1);
     }
 
     const data = group_skills_data_giver(-1);
@@ -51,38 +36,12 @@ const filter = (func) => {
       skill.nazwa.toLowerCase().includes(filtera)
     );
     if (filtering.length === 0) {
-      return (
-        <h1 className="nothing-found">
-          Nie możemy znaleść odpowiednich tropów
-        </h1>
-      );
+      return [];
     }
 
-    return filtering.map((skill) => {
-      if (skill._id[0] === "z") {
-        return (
-          <GroupScoutLittleSkillCard
-            skill={skill}
-            key={skill._id}
-            action={func}
-          />
-        );
-      }
-      return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-    });
+    return filtering;
   } catch {
-    return group_skills_data_giver(-1).map((skill) => {
-      if (skill._id[0] === "z") {
-        return (
-          <GroupScoutLittleSkillCard
-            skill={skill}
-            key={skill._id}
-            action={func}
-          />
-        );
-      }
-      return <ScoutSkillCard skill={skill} key={skill._id} action={func} />;
-    });
+    return group_skills_data_giver(-1);
   }
 };
 
