@@ -1,8 +1,5 @@
 import { data_giver } from "../../shared/util/data-giver";
 
-import ScoutSkillCard from "../Components/ScoutSkillCard";
-import ScoutLittleSkillCard from "../Components/ScoutLittleSkillCard";
-
 const filter = (func) => {
   try {
     const w = document.getElementById("title-filter").value;
