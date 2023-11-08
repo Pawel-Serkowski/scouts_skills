@@ -1,22 +1,33 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 
 import "./Page.css";
 
 const Page = (props) => {
+  const id = useRef(0);
+
+  function create_task_view(list) {
+    const new_tasks = [];
+    list.forEach((task) => {
+      new_tasks.push({ id: id.current, task: task });
+      id.current = id.current + 1;
+    });
+    console.log(new_tasks);
+  }
+
   const skill = props.skill;
   const [isImgShow, setIsImgShow] = useState(true);
-  const [tasks, setTasks] = useState(skill.tasks);
+  const [tasks, setTasks] = useState(create_task_view(skill.tasks));
 
   const imgShowHandler = () => {
     setIsImgShow((state) => !state);
   };
 
-  const deleteTaskHandler = (task) => {
-    const index = tasks.indexOf(task);
-    console.log(index);
-    console.log(task);
-    if (index === -1) return;
-    const new_tasks = tasks.filter((t) => t !== task);
+  const addTaskHandler = () => {
+    setTasks((prev_state) => [...prev_state, "Jakieś zadanie"]);
+  };
+
+  const deleteTaskHandler = (id) => {
+    const new_tasks = tasks.filter((t) => id !== t.id);
     setTasks(new_tasks);
   };
 
@@ -60,20 +71,25 @@ const Page = (props) => {
       <section className="customise-skill-page__tasks-viewer">
         <h2>Konfiguracja Zadań</h2>
         <ol className="customise-skill-page__tasks-list">
-          {tasks.map((task) => (
-            <li key={task}>
-              <div className="task-content">{task}</div>
-              <div className="task-configuration-buttons">
-                <button
-                  className="task-delete-button"
-                  onClick={() => deleteTaskHandler(task)}
-                >
-                  <i className="fa-solid fa-trash"></i> Usuń
-                </button>
-              </div>
-            </li>
-          ))}
+          {tasks &&
+            tasks.map((task) => (
+              <li key={task.id}>
+                <div className="task-content">{task.task}</div>
+                <div className="task-configuration-buttons">
+                  <button
+                    className="task-delete-button"
+                    onClick={() => deleteTaskHandler(task.id)}
+                  >
+                    <i className="fa-solid fa-trash"></i> Usuń
+                  </button>
+                </div>
+              </li>
+            ))}
         </ol>
+
+        <button className="add-task" onClick={addTaskHandler}>
+          <i className="fa-solid fa-plus"></i> Dodaj zadanie
+        </button>
       </section>
     </section>
   );
