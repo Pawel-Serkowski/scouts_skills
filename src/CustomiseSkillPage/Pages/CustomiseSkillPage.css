@@ -1,0 +1,10 @@
+.customise-skill-page__container {
+  width: 100%;
+  min-height: calc(100vh - 4rem);
+  margin-top: 4rem;
+
+  background-color: var(--active-link-color);
+
+  display: flex;
+  justify-content: center;
+}

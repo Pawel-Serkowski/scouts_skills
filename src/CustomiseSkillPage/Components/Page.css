@@ -1,0 +1,176 @@
+.customise-skill-page__page {
+  width: 60rem;
+  height: auto;
+
+  background-color: #fff;
+
+  padding: 10px 20px;
+}
+.customise-skill-page__page h1 {
+  color: var(--dark-plain-color);
+  font-size: 2rem;
+
+  width: 100%;
+  text-align: center;
+
+  margin-bottom: 20px;
+}
+.customise-skill-page_skill-title {
+  max-width: 380px;
+  height: auto;
+  margin-bottom: 10px;
+
+  border-bottom: 3px dotted #000;
+  padding-left: 10px;
+
+  font-size: 1rem;
+  font-weight: 600;
+  color: #000;
+}
+.customise-skill-page__details {
+  display: flex;
+  justify-content: space-between;
+}
+.customise-skill-page__details-content {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+}
+.customise-skill-page__details label {
+  color: var(--dark-plain-color);
+  font-size: 14px;
+  font-style: italic;
+}
+.customise-skill-page__details input {
+  outline: none;
+  border: none;
+  border-bottom: dotted 3px var(--dark-plain-color);
+  padding-left: 10px;
+
+  color: var(--dark-plain-color);
+  font-size: 17px;
+  width: 380px;
+  margin-bottom: 10px;
+}
+
+.customise-skill-page__general {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 50px;
+  /* 
+  width: 100%; */
+  height: auto;
+}
+.customise-skill-page__general-img-box {
+  width: 180px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.customise-skill-page__general-img-box.hide {
+  border: var(--active-link-color) 5px solid;
+  border-radius: 50%;
+}
+.customise-skill-page__general p {
+  width: 200px;
+  text-align: center;
+  color: var(--dark-plain-color);
+  margin-top: 5px;
+  user-select: none;
+}
+.customise-skill-page__general .date-input {
+  width: 200px;
+  text-align: center;
+  font-weight: 500;
+}
+.customise-skill-page__general-img-box img {
+  width: 200px;
+  height: 200px;
+  user-select: none;
+}
+.customise-skill-page__general-img-box.hide img {
+  display: none;
+}
+
+.customise-skill-page__tasks-viewer {
+  margin-top: 20px;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  /* border: #000 solid 3px; */
+}
+.customise-skill-page__tasks-viewer h2 {
+  color: #000;
+}
+.customise-skill-page__tasks-list {
+  width: 100%;
+  height: auto;
+  margin-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.customise-skill-page__tasks-list li {
+  border: #000 1px solid;
+  border-top: none;
+  /* padding-top: 10px; */
+  color: #000;
+  display: flex;
+}
+.customise-skill-page__tasks-list li:first-child {
+  border-top: #000 1px solid;
+}
+
+.customise-skill-page__tasks-list .task-content {
+  color: #161616;
+  width: 80%;
+  padding: 10px;
+}
+
+.task-configuration-buttons {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.task-configuration-buttons .task-delete-button {
+  outline: none;
+  border: none;
+  width: 80px;
+  height: 100%;
+  background-color: #dd0000;
+  /* border: #000 solid 2px;
+  border-radius: 10px; */
+  cursor: pointer;
+}
+.task-configuration-buttons .task-delete-button:hover,
+.task-configuration-buttons .task-delete-button:focus {
+  background-color: #bb0000;
+}
+
+@media screen and (max-width: 900px) {
+  .customise-skill-page__general {
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .customise-skill-page__general {
+    margin-right: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .customise-skill-page__details {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .customise-skill-page__details-content {
+    margin-top: 20px;
+  }
+}

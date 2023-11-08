@@ -24,13 +24,23 @@ const SkillsViewer = (props) => {
               <h2>{title[0]}</h2>
               {title[1] ? <h2>{title[1]}</h2> : <p></p>}
             </div>
-            {props.skill.level !== "Z" ? (
-              <div className="skills-viewer__level">
-                <h2>{props.skill.level}</h2>
-              </div>
-            ) : (
-              ""
-            )}
+            <div>
+              <Link
+                className="skills-viewer__print-box"
+                to={`/sprawnosci/${props.skill._id}/edytuj`}
+                target="_blank"
+              >
+                <i className="fa-solid fa-cloud-arrow-down"></i>
+                <p>Edytuj i pobierz</p>
+              </Link>
+              {props.skill.level !== "Z" ? (
+                <div className="skills-viewer__level">
+                  <h2>{props.skill.level}</h2>
+                </div>
+              ) : (
+                ""
+              )}
+            </div>
           </header>
           <div className="skills-viewer__content" id="skills-viewer">
             <section className="skills-viewer__tasks">
