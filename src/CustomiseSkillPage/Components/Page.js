@@ -3,32 +3,58 @@ import React, { useState, useRef } from "react";
 import "./Page.css";
 
 const Page = (props) => {
-  const id = useRef(0);
+  const id = useRef(-1);
 
   function create_task_view(list) {
     const new_tasks = [];
     list.forEach((task) => {
-      new_tasks.push({ id: id.current, task: task });
       id.current = id.current + 1;
+      new_tasks.push({ id: id.current, task: task });
     });
-    console.log(new_tasks);
+    return new_tasks;
   }
 
   const skill = props.skill;
   const [isImgShow, setIsImgShow] = useState(true);
-  const [tasks, setTasks] = useState(create_task_view(skill.tasks));
+  const [tasks, setTasks] = useState(() => create_task_view(skill.tasks));
+  const [editId, setEditId] = useState(-1);
+  const [textareaValue, setTextareaValue] = useState("");
 
   const imgShowHandler = () => {
     setIsImgShow((state) => !state);
   };
 
   const addTaskHandler = () => {
-    setTasks((prev_state) => [...prev_state, "Jakieś zadanie"]);
+    id.current = id.current + 1;
+    setTasks((prev_state) => [
+      ...prev_state,
+      { id: id.current, task: "Jakieś zadanie" },
+    ]);
+    setEditId(id.current);
+    setTextareaValue("");
+    console.log(id.current);
   };
 
+  const editTaskHandler = (task) => {
+    setEditId(task.id);
+    setTextareaValue(task.task);
+  };
   const deleteTaskHandler = (id) => {
     const new_tasks = tasks.filter((t) => id !== t.id);
     setTasks(new_tasks);
+  };
+  const onChangeTextAreaHandler = (event) => {
+    setTextareaValue(event.target.value);
+  };
+  const saveTaskHandler = (event) => {
+    console.log(textareaValue);
+    const new_tasks = tasks.map((t) => ({
+      id: t.id,
+      task: t.id === editId ? textareaValue : t.task,
+    }));
+    console.log(tasks);
+    setTasks(new_tasks);
+    setEditId(-1);
   };
 
   return (
@@ -74,10 +100,35 @@ const Page = (props) => {
           {tasks &&
             tasks.map((task) => (
               <li key={task.id}>
-                <div className="task-content">{task.task}</div>
+                <div className="task-content">
+                  {editId !== task.id ? (
+                    task.task
+                  ) : (
+                    <textarea
+                      className="edit-task-area"
+                      onChange={(event) => onChangeTextAreaHandler(event)}
+                      value={textareaValue}
+                    ></textarea>
+                  )}
+                </div>
                 <div className="task-configuration-buttons">
+                  {editId !== task.id ? (
+                    <button
+                      className="task-button edit"
+                      onClick={() => editTaskHandler(task)}
+                    >
+                      <i className="fa-solid fa-pencil"></i> Edytuj
+                    </button>
+                  ) : (
+                    <button
+                      className="task-button save"
+                      onClick={(event) => saveTaskHandler(event)}
+                    >
+                      <i className="fa-solid fa-pencil"></i> Zapisz
+                    </button>
+                  )}
                   <button
-                    className="task-delete-button"
+                    className="task-button delete"
                     onClick={() => deleteTaskHandler(task.id)}
                   >
                     <i className="fa-solid fa-trash"></i> Usuń
