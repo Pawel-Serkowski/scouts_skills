@@ -1,0 +1,265 @@
+.customise-skill-page__page {
+  width: 60rem;
+  height: auto;
+
+  background-color: #fff;
+
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+
+  padding: 10px 20px;
+}
+.customise-skill-page__page h1 {
+  color: var(--dark-plain-color);
+  font-size: 2rem;
+
+  width: 100%;
+  text-align: center;
+
+  margin-bottom: 20px;
+}
+.customise-skill-page_skill-title {
+  max-width: 380px;
+  height: auto;
+  margin-bottom: 10px;
+
+  border-bottom: 3px dotted #000;
+  padding-left: 10px;
+
+  font-size: 1rem;
+  font-weight: 600;
+  color: #000;
+}
+.customise-skill-page__details {
+  display: flex;
+  justify-content: space-between;
+}
+.customise-skill-page__details-content {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+}
+.customise-skill-page__details label {
+  color: var(--dark-plain-color);
+  font-size: 14px;
+  margin-left: 10px;
+  font-style: italic;
+}
+.customise-skill-page__details input {
+  outline: none;
+  border: none;
+  border-bottom: dotted 3px var(--dark-plain-color);
+  padding-left: 10px;
+
+  color: var(--dark-plain-color);
+  font-size: 17px;
+  max-width: 380px;
+  margin-bottom: 10px;
+}
+
+.customise-skill-page__general {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 50px;
+  /* 
+  width: 100%; */
+  height: auto;
+}
+.customise-skill-page__general-img-box {
+  width: 180px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.customise-skill-page__general-img-box.hide {
+  border: var(--active-link-color) 5px solid;
+  border-radius: 50%;
+}
+.customise-skill-page__general p {
+  width: 200px;
+  text-align: center;
+  color: var(--dark-plain-color);
+  margin-top: 5px;
+  user-select: none;
+}
+.customise-skill-page__general .date-input {
+  width: 200px;
+  text-align: center;
+  font-weight: 500;
+}
+.customise-skill-page__general-img-box img {
+  width: 200px;
+  height: 200px;
+  user-select: none;
+}
+.customise-skill-page__general-img-box.hide img {
+  display: none;
+}
+
+.customise-skill-page__tasks-viewer {
+  margin-top: 20px;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  /* border: #000 solid 3px; */
+}
+.customise-skill-page__tasks-viewer h2 {
+  color: #000;
+}
+.customise-skill-page__tasks-list {
+  width: 100%;
+  margin-top: 15px;
+  /* padding-left: 10px;
+  padding-right: 10px; */
+}
+.customise-skill-page__tasks-list li {
+  border: #000 1px solid;
+  border-top: none;
+  color: #000;
+  display: flex;
+}
+.customise-skill-page__tasks-list li:first-child {
+  border-top: #000 1px solid;
+}
+
+.customise-skill-page__tasks-list .task-content {
+  color: #161616;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+}
+
+.task-configuration-buttons {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.task-configuration-buttons .task-button {
+  outline: none;
+  border: none;
+  width: 100%;
+  height: 100%;
+  /* border: #000 solid 2px;
+  border-radius: 10px; */
+  cursor: pointer;
+}
+.task-button.delete {
+  background-color: #dd0000;
+}
+.task-button.delete:hover,
+.task-button.delete:focus {
+  background-color: #bb0000;
+}
+.task-button.edit {
+  background-color: #00aa00;
+}
+.task-button.edit:hover,
+.task-button.edit:focus {
+  background-color: #007700;
+}
+.task-button.save {
+  background-color: #0082aa;
+}
+.task-button.save:hover,
+.task-button.save:focus {
+  background-color: #006099;
+}
+
+button.add-task {
+  width: 100%;
+  height: 45px;
+
+  outline: none;
+  cursor: pointer;
+
+  color: var(--dark-plain-color);
+  font-size: 15px;
+}
+button.add-task i {
+  color: var(--dark-plain-color);
+}
+
+.edit-task-area {
+  resize: vertical;
+  overflow: wrap;
+  width: 100%;
+  height: 150px;
+  color: #000;
+
+  font-size: 17px;
+  font-family: "Poppins", sans-serif;
+}
+
+.download-button {
+  width: 200px;
+  height: 40px;
+  color: var(--dark-plain-color);
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.download-button i {
+  color: #000;
+}
+.download-button-box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 900px) {
+  .customise-skill-page__page {
+    padding: 0;
+    padding-bottom: 60px;
+  }
+  .customise-skill-page__general {
+    margin-right: 20px;
+    padding: 0;
+  }
+  .customise-skill-page__tasks-viewer {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 700px) {
+  .customise-skill-page__general {
+    margin-right: 0px;
+  }
+  .customise-skill-page__tasks-list li {
+    flex-direction: column;
+    border-top: 2px solid #000;
+  }
+  .customise-skill-page__tasks-list li .task-configuration-buttons {
+    flex-direction: column;
+    width: 100%;
+    height: 60px;
+  }
+  .task-content {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .customise-skill-page__details {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .customise-skill-page__details-content {
+    margin-top: 20px;
+  }
+  .customise-skill-page__details input {
+    width: 100%;
+  }
+  .edit-task-area {
+    width: 100%;
+    height: 300px;
+  }
+}
