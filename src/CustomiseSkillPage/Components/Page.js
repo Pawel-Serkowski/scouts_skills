@@ -1,5 +1,7 @@
 import React, { useState, useRef } from "react";
+import { task_creator } from "../utils/task-creator";
 
+import SaveAsPdfButton from "./SaveAsPdfButton";
 import "./Page.css";
 
 const Page = (props) => {
@@ -9,7 +11,7 @@ const Page = (props) => {
     const new_tasks = [];
     list.forEach((task) => {
       id.current = id.current + 1;
-      new_tasks.push({ id: id.current, task: task });
+      new_tasks.push({ id: id.current, task: task_creator(task) });
     });
     return new_tasks;
   }
@@ -32,7 +34,6 @@ const Page = (props) => {
     ]);
     setEditId(id.current);
     setTextareaValue("");
-    console.log(id.current);
   };
 
   const editTaskHandler = (task) => {
@@ -47,102 +48,103 @@ const Page = (props) => {
     setTextareaValue(event.target.value);
   };
   const saveTaskHandler = (event) => {
-    console.log(textareaValue);
     const new_tasks = tasks.map((t) => ({
       id: t.id,
       task: t.id === editId ? textareaValue : t.task,
     }));
-    console.log(tasks);
     setTasks(new_tasks);
     setEditId(-1);
   };
 
   return (
-    <section className="customise-skill-page__page">
-      <h1>KARTA PRÓBY NA SPRAWNOŚĆ</h1>
-      <header className="customise-skill-page__details">
-        <section className="customise-skill-page__details-content">
-          <label>Nazwa sprawności</label>
-          <p className="customise-skill-page_skill-title">
-            {skill.title}
-            {skill.level}
-          </p>
-          <label htmlFor="name">Imię i nazwisko</label>
-          <input type="text" id="name" />
-          <label htmlFor="degree">Stopień</label>
-          <input type="text" id="degree" />
-          <label htmlFor="function">Funkcja</label>
-          <input type="text" id="function" />
-          <label htmlFor="team">Jednostka</label>
-          <input type="text" id="team" />
-        </section>
-        <section className="customise-skill-page__general">
-          <label htmlFor="open-date">Data Otwarcia</label>
-          <input type="text" id="open-date" className="date-input" />
-          <div
-            className={`customise-skill-page__general-img-box ${
-              isImgShow ? "show" : "hide"
-            }`}
-            onClick={imgShowHandler}
-          >
-            <img src={require(`../../shared${skill.img}`)} alt="" />
-          </div>
-          <p>
-            Kliknij w{" "}
-            {isImgShow ? "zdjęcie aby schować " : "okrąg aby pokazać "}
-            logo sprawności
-          </p>
-        </section>
-      </header>
-      <section className="customise-skill-page__tasks-viewer">
-        <h2>Konfiguracja Zadań</h2>
-        <ol className="customise-skill-page__tasks-list">
-          {tasks &&
-            tasks.map((task) => (
-              <li key={task.id}>
-                <div className="task-content">
-                  {editId !== task.id ? (
-                    task.task
-                  ) : (
-                    <textarea
-                      className="edit-task-area"
-                      onChange={(event) => onChangeTextAreaHandler(event)}
-                      value={textareaValue}
-                    ></textarea>
-                  )}
-                </div>
-                <div className="task-configuration-buttons">
-                  {editId !== task.id ? (
+    <React.Fragment>
+      <section className="customise-skill-page__page">
+        <h1>KARTA PRÓBY NA SPRAWNOŚĆ</h1>
+        <header className="customise-skill-page__details">
+          <section className="customise-skill-page__details-content">
+            <label>Nazwa sprawności</label>
+            <p className="customise-skill-page_skill-title">
+              {skill.title}
+              {skill.level}
+            </p>
+            <label htmlFor="name">Imię i nazwisko</label>
+            <input type="text" id="name" />
+            <label htmlFor="degree">Stopień</label>
+            <input type="text" id="degree" />
+            <label htmlFor="function">Funkcja</label>
+            <input type="text" id="function" />
+            <label htmlFor="team">Jednostka</label>
+            <input type="text" id="team" />
+          </section>
+          <section className="customise-skill-page__general">
+            <label htmlFor="open-date">Data Otwarcia</label>
+            <input type="text" id="open-date" className="date-input" />
+            <div
+              className={`customise-skill-page__general-img-box ${
+                isImgShow ? "show" : "hide"
+              }`}
+              onClick={imgShowHandler}
+            >
+              <img src={require(`../../shared${skill.img}`)} alt="" />
+            </div>
+            <p>
+              Kliknij w{" "}
+              {isImgShow ? "zdjęcie aby schować " : "okrąg aby pokazać "}
+              logo sprawności
+            </p>
+          </section>
+        </header>
+        <section className="customise-skill-page__tasks-viewer">
+          <h2>Konfiguracja Zadań</h2>
+          <ol className="customise-skill-page__tasks-list">
+            {tasks &&
+              tasks.map((task) => (
+                <li key={task.id}>
+                  <div className="task-content">
+                    {editId !== task.id ? (
+                      task.task
+                    ) : (
+                      <textarea
+                        className="edit-task-area"
+                        onChange={(event) => onChangeTextAreaHandler(event)}
+                        value={textareaValue}
+                      ></textarea>
+                    )}
+                  </div>
+                  <div className="task-configuration-buttons">
+                    {editId !== task.id ? (
+                      <button
+                        className="task-button edit"
+                        onClick={() => editTaskHandler(task)}
+                      >
+                        <i className="fa-solid fa-pencil"></i> Edytuj
+                      </button>
+                    ) : (
+                      <button
+                        className="task-button save"
+                        onClick={(event) => saveTaskHandler(event)}
+                      >
+                        <i className="fa-solid fa-pencil"></i> Zapisz
+                      </button>
+                    )}
                     <button
-                      className="task-button edit"
-                      onClick={() => editTaskHandler(task)}
+                      className="task-button delete"
+                      onClick={() => deleteTaskHandler(task.id)}
                     >
-                      <i className="fa-solid fa-pencil"></i> Edytuj
+                      <i className="fa-solid fa-trash"></i> Usuń
                     </button>
-                  ) : (
-                    <button
-                      className="task-button save"
-                      onClick={(event) => saveTaskHandler(event)}
-                    >
-                      <i className="fa-solid fa-pencil"></i> Zapisz
-                    </button>
-                  )}
-                  <button
-                    className="task-button delete"
-                    onClick={() => deleteTaskHandler(task.id)}
-                  >
-                    <i className="fa-solid fa-trash"></i> Usuń
-                  </button>
-                </div>
-              </li>
-            ))}
-        </ol>
+                  </div>
+                </li>
+              ))}
+          </ol>
 
-        <button className="add-task" onClick={addTaskHandler}>
-          <i className="fa-solid fa-plus"></i> Dodaj zadanie
-        </button>
+          <button className="add-task" onClick={addTaskHandler}>
+            <i className="fa-solid fa-plus"></i> Dodaj zadanie
+          </button>
+        </section>
+        <SaveAsPdfButton />
       </section>
-    </section>
+    </React.Fragment>
   );
 };
 
