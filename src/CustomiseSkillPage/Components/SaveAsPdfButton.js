@@ -1,16 +1,17 @@
 import React from "react";
-import jsPDF from "jspdf";
+import { useReactToPrint } from "react-to-print";
 
-const SaveAsPdfButton = () => {
-  const saveAsPDFHandler = () => {
-    const element = document.getElementById("customise-skill-page__page");
-    const pdf = new jsPDF();
-    pdf.addHTML(element, () => {
-      pdf.save("document.pdf");
-    });
+const SaveAsPdfButton = (props) => {
+  const generatePDF = useReactToPrint({
+    content: () => props.pdf.current,
+    documentTitle: props.title,
+    onAfterPrint: () => props.download(),
+  });
 
-    console.log("chuj");
-  };
+  async function saveAsPDFHandler() {
+    await props.download();
+    generatePDF();
+  }
 
   return (
     <div className="download-button-box">
