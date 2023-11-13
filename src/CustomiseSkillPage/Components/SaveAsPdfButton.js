@@ -16,7 +16,7 @@ const SaveAsPdfButton = (props) => {
   return (
     <div className="download-button-box">
       <button className="download-button" onClick={saveAsPDFHandler}>
-        <i className="fa-solid fa-download"></i> Pobierz Kartę
+        <i className="fa-solid fa-download"></i> Drukuj Kartę
       </button>
     </div>
   );
