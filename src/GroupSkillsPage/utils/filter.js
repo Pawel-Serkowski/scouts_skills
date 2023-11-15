@@ -30,11 +30,9 @@ const filter = () => {
     }
     if (k) {
     }
-    console.log(filtering);
     filtering = filtering.filter((skill) =>
       skill.title.toLowerCase().includes(filtera)
     );
-    console.log(filtering);
     if (filtering.length === 0) {
       return [];
     }
