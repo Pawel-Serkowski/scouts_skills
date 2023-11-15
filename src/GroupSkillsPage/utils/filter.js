@@ -4,7 +4,6 @@ const filter = () => {
     const w = document.getElementById("title-filter").value;
     const m = document.getElementById("group-methods").value;
     const k = document.getElementById("group-category").value;
-
     const filtera = w.toLowerCase();
 
     if (filtera === "" && m === "" && k === "") {
@@ -30,11 +29,12 @@ const filter = () => {
       );
     }
     if (k) {
-      filtering = filtering.filter((skill) => skill.typ === k);
     }
+    console.log(filtering);
     filtering = filtering.filter((skill) =>
-      skill.nazwa.toLowerCase().includes(filtera)
+      skill.title.toLowerCase().includes(filtera)
     );
+    console.log(filtering);
     if (filtering.length === 0) {
       return [];
     }
