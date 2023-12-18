@@ -35,10 +35,13 @@ const Header = (props) => {
         >
           <img src={require(`../../shared${skill.img}`)} alt="" />
         </div>
-        <p>
-          Kliknij w {isImgShow ? "zdjęcie aby schować " : "okrąg aby pokazać "}
-          logo sprawności
-        </p>
+        {!props.isDownloading && (
+          <p>
+            Kliknij w{" "}
+            {isImgShow ? "zdjęcie aby schować " : "okrąg aby pokazać "}
+            logo sprawności
+          </p>
+        )}
       </section>
     </header>
   );

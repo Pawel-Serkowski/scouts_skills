@@ -19,7 +19,7 @@ const Page = (props) => {
     <section className="customise-skill-page__page" id="pdf-view">
       <div ref={pdf} style={{ width: "100%" }}>
         <h1>KARTA PRÓBY NA SPRAWNOŚĆ</h1>
-        <Header skill={skill} />
+        <Header skill={skill} isDownloading={isDownloading} />
         <TasksTable skill={skill} isDownloading={isDownloading} />
 
         {!isDownloading && (
