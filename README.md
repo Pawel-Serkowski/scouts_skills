@@ -1,2 +1,2 @@
-Page for scouts who wants to develop their skills by doing quests.
-link: sprawnosci.gdanska.zhp.pl
+Soon I will write something more...
+This page is something like data base of scout skills. You can search, modify and save it to your computer :)
