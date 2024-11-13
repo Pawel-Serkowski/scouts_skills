@@ -20,5 +20,5 @@ $npm start
 The program will run on localhost specified by your computer.
 
 ## More about
-  I created to help kids with ability to see our scouts skills. In the past this takeway was crucial to make easier way to see them.
+  I created it to help kids looking for our scouts skills. In the past this takeway not as easy as nowdays.
 To get data I created a worm in python using betiful soup to take them from various documents.
