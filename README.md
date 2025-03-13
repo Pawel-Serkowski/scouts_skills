@@ -20,5 +20,5 @@ $npm start
 The program will run on localhost specified by your computer.
 
 ## More about
-  I created it to help kids looking for our scouts skills. In the past this takeway not as easy as nowdays.
-To get data I created a worm in python using betiful soup to take them from various documents.
+  I created it to help kids looking for our scouts skills. In the past this takeway was not as easy as nowdays.
+To get data I created a worm in python using beautiful soup to take them from various documents.
